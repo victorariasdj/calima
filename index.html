@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <script src="https://kit.fontawesome.com/10154e753b.js" crossorigin="anonymous"></script>
+        <meta name="keywords" content="calima darien, lago calima, finca, estadía, hotel, comida, restaurante, peluquería, alquiler, droguería, servicios, negocios, publicidad, clasificados, busco trabajo, ofrezco trabajo">
+        <meta name="description" content="Anuncia tu negocio, servicio o clasificado. Encuentra todo lo que necesitas en la región Calima.">
+        <meta name="author" content="Victor Arias">
+        <link rel="icon" href="img/favicon.png">
+        <link reL="stylesheet" type="text/css" href="estilo.css">
+        <link reL="stylesheet" type="text/css" href="normalize.css">
+        <title>BuscadorCalima.com</title>
+    </head>
+    <body>
+        <header>
+            <nav class="container__nav">
+
+                <div class="container__logo">
+                    <a class="container__nav-img" href="index.html"><img class="nav-img" src="img/magnifying-glass-1976105_1280.webp" alt="Victor Arias"></a>
+                    <a class="container__nav-titulo" href="index.html"><strong>BuscadorCalima.com</strong></a>
+                </div>
+                
+                <ul class="container__ul" id="container__ul">
+                    <!-- <a href="index.html">Inicio</a>
+                    <a href="clasificados.html">Clasificados</a>
+                    <a href="trabajo.html">Busco / Ofrezco Trabajo</a> -->
+                    <!-- <a href="contactanos.html" target="_blank">Contáctanos</a> -->
+                    <a href="agregar-anuncio.html">Agregar Anuncio</a>
+                </ul> 
+                <div class="menu__toggle">
+                    <div class="barras fas fa-bars" id="fa_bars"></div>
+                    <div class="fa-solid fa-xmark" id="fa_xmark"></div>
+                </div>           
+            </nav>
+        </header>
+
+        <div class="contenedor__principal">
+            <main>
+                <div class="caja-formulario">
+                    <form class="contenedor">
+                        <input type="text" id="formulario" placeholder="Producto, Local o Servicio">
+                        <button type="button" id="boton">Nueva Búsqueda</button>
+                    </form>
+
+                </div>
+                <div class="contenedorResultado">
+                    <ul id="resultado">
+                        
+                    </ul>
+                </div>
+                
+                <div class="categorias">
+                    <button class="categoria-btn" data-categoria="hotel">Hoteles y Estadía<img src="./img/bed-solid.svg" alt="hotel"></button>
+                    <button class="categoria-btn" data-categoria="restaurante">Restaurantes<img src="./img/utensils-solid.svg" alt="Restaurantes"></button>
+                    <button class="categoria-btn" data-categoria="transporte">Transporte<img src="./img/bus-solid.svg" alt="Transporte"></button>
+                    <button class="categoria-btn" data-categoria="drogueria">Droguerías<img src="./img/capsules-solid.svg" alt="Droguería"></button>
+
+                    
+                </div>
+                    <div class="caja-titulo">
+                    <h1>Buscador Calima</h1>
+                </div>
+            </main>    
+            
+            <footer>
+                <div class="container__icon">
+
+                    <a href="https://twitter.com/buscadorcalima" target="_blank"><img src="img/x-twitter.svg" alt="x-twitter" class="container__iconlogo"></a>
+                
+                    <a href="https://www.facebook.com/djvictorarias" target="_blank"><img src="img/facebook.svg" alt="Facebook" class="container__iconlogo"></a>
+                                            
+                    <a href="https://www.youtube.com/channel/UCXpgDxiuQ_wLxST9CU36FDQ" target="_blank"><img src="img/youtube.svg" alt="youtube" class="container__iconlogo"></a>
+            
+                    <a href="donaciones.html"><img src="img/circle-dollar-to-slot-solid.svg" alt="Donaciones" class="container__iconlogo"></a>
+                </div>
+
+                <div class="correo">
+                    <h4> Whatsapp: 316 325 1628</h4>
+                    <h4>buscadorcalima@gmail.com</h4>
+                    <p>Creado por: <a href="https://victorarias.eth.limo/" target="_blank" class="linkVictor">VictorArias.eth</a></p>
+                </div>                    
+            </footer>
+
+        </div>
+        <button id="btn-arriba" class="boton-arriba">Volver arriba</button>
+        <script src="codigo.js"></script>
+    </body>
+</html>

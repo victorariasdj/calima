@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>        
+        <script src="https://kit.fontawesome.com/10154e753b.js" crossorigin="anonymous"></script>
+        <meta name="keywords" content="calima darien, lago calima, finca, estadía, hotel, comida, restaurante, peluquería, alquiler, droguería, servicios, negocios, publicidad, clasificados, busco trabajo, ofrezco trabajo">
+        <meta name="description" content="Anuncia tu negocio, servicio o clasificado. Encuentra todo lo que necesitas en la región Calima.">
+        <meta name="author" content="Victor Arias">
+        <link reL="stylesheet" type="text/css" href="./estilo.css">
+        <link reL="stylesheet" type="text/css" href="./normalize.css">
+        <link rel="icon" href="./img/favicon.png">
+        <title>Donaciones - BuscadorCalima.com</title>
+    </head>
+    <body>
+        <header>
+            <nav class="container__nav">
+
+                <div class="container__logo">
+                    <a class="container__nav-img" href="./index.html"><img class="nav-img" src="./img/magnifying-glass-1976105_1280.webp" alt="Victor Arias"></a>
+                    <a class="container__nav-titulo" href="./index.html"><strong>BuscadorCalima.com</strong></a>
+                </div>
+                
+                <ul class="container__ul" id="container__ul">
+                    <a href="./index.html">Nueva Búsqueda</a>
+                    <!-- <a href="clasificados.html">Clasificados</a>
+                    <a href="trabajo.html">Busco / Ofrezco Trabajo</a>
+                    <a href="contactanos.html" target="_blank">Contáctanos</a> -->
+                    <a href="./agregar-anuncio.html">Agregar Anuncio</a>
+                </ul> 
+                <div class="menu__toggle">
+                    <div class="barras fas fa-bars" id="fa_bars"></div>
+                    <div class="fa-solid fa-xmark" id="fa_xmark"></div>
+                </div>           
+            </nav>
+        </header>
+
+        <div class="contenedor__principal">
+            <main>
+                <div class="contenedor">
+                    <h1>Doná con tu método preferido</h1>
+                    <div class="cards">
+                        <div class="card">
+                            <h2>Paypal o Tarjeta</h2>                               
+                            <form action="https://www.paypal.com/donate" method="post" target="_top">
+                            <input type="hidden" name="hosted_button_id" value="HSD59BE5LUHPG" />
+                            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                            <img alt="" border="0" src="https://www.paypal.com/en_CO/i/scr/pixel.gif" width="1" height="1" />
+                            </form>                       
+                        </div>
+                        <div class="card">
+                            <h2>Nequi</h2>                         
+                            <img src="./img/nequi-logo-58FBE82BA6.png" alt="donar con nequi" class="container__iconlogo">
+                            <h3>316 325 1628</h3>
+                        </div>
+                        <div class="card">
+                            <h2>Bitcoin</h2>
+                            <h4 class="before1"></h4>
+                            <img src="./img/bitcoin.svg" alt="donar con bitcoin" class="container__iconlogo">
+                            <small><h6 id="texto-copiar">bc1q2tel8wuvrvkvxyc8j6dqll26kkgkgm6c60p7te</h6></small>
+                            <button onclick="copiarTexto()">Copiar</button>
+                        </div>
+                        <div class="card">
+                            <h2>Ethereum-ERC20-BEP20 y similares</h2>
+                            <h4 class="before2"></h4>
+                            <img src="./img/ethereum.svg" alt="donar con ethereum" class="container__iconlogo">
+                            <small><h6 id="texto-copiar">0xC2d3C05E0AaF473133f95FD47F540c33DA15a7c5</h6></small>
+                            <button onclick="copiarTexto()">Copiar</button>
+                        </div>
+                    </div>
+                </div>
+            </main>    
+                
+            <footer>
+                <div class="container__icon">
+
+                    <a href="https://twitter.com/buscadorcalima" target="_blank"><img src="./img/x-twitter.svg" alt="Twitter" class="container__iconlogo"></a>
+                
+                    <a href="https://www.facebook.com/djvictorarias" target="_blank"><img src="./img/facebook.svg" alt="Facebook" class="container__iconlogo"></a>
+                                            
+                    <a href="https://www.youtube.com/channel/UCXpgDxiuQ_wLxST9CU36FDQ" target="_blank"><img src="./img/youtube.svg" alt="youtube" class="container__iconlogo"></a>
+            
+                    <a href="donaciones.html"><img src="./img/circle-dollar-to-slot-solid.svg" alt="Donaciones" class="container__iconlogo"></a>
+                </div>
+
+                <div class="correo">
+                    <h4> Whatsapp: 316 325 1628</h4>
+                    <h4>buscadorcalima@gmail.com</h4>
+                    <h4>Creado por: <a href="https://victorarias.eth.limo/" target="_blank" class="linkVictor">VictorArias.eth</a></h4>
+                </div>                    
+            </footer>
+
+            
+        </div>
+        <script src="./codigo-nav-otras-pag.js"></script>
+    </body>
+</html>
