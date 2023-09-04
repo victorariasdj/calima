@@ -2,8 +2,8 @@ const negocios = [
     {
         nombre: "Drogueria Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
-        descripcion: "Servicio de Inyectología",
-        ubicacion: "Calle Principal",
+        descripcion: "Drogueria y Tienda Naturista, Recargas, Servicio de Inyectologia",
+        ubicacion: "Cra 7 # 11-12",
         telefono: "3155178654 - 3173805598",
         pagWeb: "https//:buscadorcalima.com/drogueria-don-victor",
         keywords: "drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, ",
@@ -14,7 +14,7 @@ const negocios = [
         nombre: "Yogurt Feel",
         imagen: "./img/yogurt-feel.jpeg",
         descripcion: "Delicioso Yogurt de Uva y Fresa<br> También Yogurt Griego",
-        ubicacion: "Calle 6 # 8-20 al lado del colegio",
+        ubicacion: "Calima Darien",
         telefono: "3153730917",
         pagWeb: "",
         keywords: "yogurt, yogurt griego, uva, fresa",
@@ -70,10 +70,10 @@ const filter = () => {
                 
             <div class="caja-negocio">
                 <div class="tituloYDescripcion">                
-                <a href=${negocio.rutaInterna}><h2>${negocio.nombre}</h2></a>
+                <a href=${negocio.rutaInterna}><h2>${negocio.nombre}</h2>
                 <div class="contendorImagen">
                 <img src="${negocio.imagen}" alt="piano" class="imagenNegocio">
-                </div>
+                </div></a>
                 <p id="descripcion">${negocio.descripcion}</p>
                 <h4><strong>Teléfono:</strong> ${negocio.telefono}</h4>
                 <h4><strong>Ubicación:</strong> ${negocio.ubicacion}</h4>
