@@ -5,7 +5,7 @@ const negocios = [
         descripcion: "Drogueria y Tienda Naturista, Recargas, Servicio de Inyectologia",
         ubicacion: "Cra 7 # 11-12",
         telefono: "3155178654 - 3173805598",
-        pagWeb: "https//:buscadorcalima.com/drogueria-don-victor",
+        pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
         keywords: "drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, ",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
         correo: ""
