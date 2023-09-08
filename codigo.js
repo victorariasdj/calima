@@ -45,6 +45,18 @@ const negocios = [
         rutaInterna: "",
         correo: "djvictor_arias@hotmail.com"
     },
+
+    {
+        nombre: "Ferretería Medellín",
+        imagen: "./img/ferreteria-medellin.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo, etc...",
+        ubicacion: "Carrera 7 # 11-49 B/Centro",
+        telefono: "3154068031",
+        pagWeb: "",
+        keywords: "construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
+        rutaInterna: "",
+        correo: "evergiraldo1@hotmail.com"
+    },
     
 ];
 
