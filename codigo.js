@@ -21,6 +21,19 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
+
+    {
+        nombre: "Smaz Papelería y Miscelánea",
+        imagen: "./img/smaz-papeleria.jpeg",
+        descripcion: "Ven y conoce una forma diferente tierna y divertida en papelería, manejamos servicios de: fotocopias blanco y negro o a color, impresión láser, papelería general y papelería kawaii, miscelánea entre otros. Se vale antojarse!",
+        ubicacion: "Carrera 11 # 10-54 B/San Vicente",
+        telefono: "3187044288",
+        pagWeb: "https://www.instagram.com/smazpapelaz_/",
+        keywords: "papelería, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
+        rutaInterna: "",
+        correo: "smazpapelaz2022@gmail.com"
+    },
+
     {
         nombre: "Victor Arias",
         imagen: "./img/victor-arias.jpg",
