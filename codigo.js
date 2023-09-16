@@ -14,7 +14,7 @@ const negocios = [
     {
         nombre: "Encanto Calima",
         imagen: "./img/encanto-calima-sala-de-estar.png",
-        descripcion: "6 huéspedes, 3 habitaciones, 4 camas, 2 baños.<br> Encanto Calima es una casa familiar ubicada en una zona residencial tranquila, a 5 cuadras de la zona centro del municipio. Cuenta con una distribución y espacios cómodos divididos en tres habitaciones, con dos baños, cocina, comedor, sala, espacio de lavado y wi fi. Además cuenta con un espacio para parquear al frente de la casa.",
+        descripcion: "<b>6 huéspedes, 3 habitaciones, 4 camas, 2 baños.</b><br><br>Encanto Calima es una casa familiar ubicada en una zona residencial tranquila, a 5 cuadras de la zona centro del municipio. Cuenta con una distribución y espacios cómodos divididos en tres habitaciones, con dos baños, cocina, comedor, sala, espacio de lavado y wi fi. Además cuenta con un espacio para parquear al frente de la casa.",
         ubicacion: "Barrio Guayacanes I",
         telefono: "3184000744",
         pagWeb: "https://buscadorcalima.com/encanto-calima/encanto-calima.html",
