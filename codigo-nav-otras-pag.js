@@ -38,6 +38,20 @@ let fa_xmark = document.querySelector('#fa_xmark');
             });
     }
 
+const btnArriba = document.querySelector("#btn-arriba");
+
+window.addEventListener("scroll", () => {
+    if (window.scrollY > 300) {
+        btnArriba.classList.add("show");
+    } else {
+        btnArriba.classList.remove("show");
+    }
+});
+
+btnArriba.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
         
 
 

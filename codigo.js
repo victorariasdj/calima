@@ -10,16 +10,29 @@ const negocios = [
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
         correo: ""
     },
+
     {
-        nombre: "Yogurt Feel",
-        imagen: "./img/yogurt-feel.jpeg",
-        descripcion: "Delicioso Yogurt de Uva y Fresa<br> También Yogurt Griego",
-        ubicacion: "Calima Darien",
-        telefono: "3153730917",
+        nombre: "Encanto Calima",
+        imagen: "./img/encanto-calima-sala-de-estar.png",
+        descripcion: "6 huéspedes, 3 habitaciones, 4 camas, 2 baños.<br> Encanto Calima es una casa familiar ubicada en una zona residencial tranquila, a 5 cuadras de la zona centro del municipio. Cuenta con una distribución y espacios cómodos divididos en tres habitaciones, con dos baños, cocina, comedor, sala, espacio de lavado y wi fi. Además cuenta con un espacio para parquear al frente de la casa.",
+        ubicacion: "Barrio Guayacanes I",
+        telefono: "3184000744",
+        pagWeb: "https://buscadorcalima.com/encanto-calima/encanto-calima.html",
+        keywords: "hotel, alquiler, estadia, hospedaje, hostal, hosteria, albergue, posada, alojamiento, alquiler por noche, estancia",
+        rutaInterna: "./encanto-calima/encanto-calima.html",
+        correo: " gladysmenesesm@hotmail.com"
+    },
+
+    {
+        nombre: "Ferretería Medellín",
+        imagen: "./img/ferreteria-medellin.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo, etc...",
+        ubicacion: "Carrera 7 # 11-49 B/Centro",
+        telefono: "3154068031",
         pagWeb: "",
-        keywords: "yogurt, yogurt griego, uva, fresa",
+        keywords: "construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
         rutaInterna: "",
-        correo: ""
+        correo: "evergiraldo1@hotmail.com"
     },
 
     {
@@ -47,16 +60,17 @@ const negocios = [
     },
 
     {
-        nombre: "Ferretería Medellín",
-        imagen: "./img/ferreteria-medellin.jpeg",
-        descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo, etc...",
-        ubicacion: "Carrera 7 # 11-49 B/Centro",
-        telefono: "3154068031",
+        nombre: "Yogurt Feel",
+        imagen: "./img/yogurt-feel.jpeg",
+        descripcion: "Delicioso Yogurt de Uva y Fresa<br> También Yogurt Griego",
+        ubicacion: "Calima Darien",
+        telefono: "3153730917",
         pagWeb: "",
-        keywords: "construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
+        keywords: "yogurt, yogurt griego, uva, fresa",
         rutaInterna: "",
-        correo: "evergiraldo1@hotmail.com"
+        correo: ""
     },
+
     
 ];
 
