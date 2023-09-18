@@ -24,6 +24,30 @@ const negocios = [
     },
 
     {
+        nombre: "Tornillería JM Calima",
+        imagen: "./tornilleria-jm-calima/frente-frente.jpg",
+        descripcion: "Tornilleria JM tiene para ofrecerles variedad en productos como:<br><br>Arandelas, tuercas, tornilleria en general, herramientas eléctricas y manuales, soldadura acero inoxidable y aluminio, puntillas, bisagras, remaches, chapas lijas, aerosoles, brocas, rodillos, aceite, filtros, racores de aire, escobillas, mangueras, discos en general de corte, llaves hexagonales, copas, rache, destornilladores, candados, abrazaderas, amarras plásticas, nylon para guadaña, herramientas manuales agrícolas, varilla roscada, pines, pernos, variedad en electricos para el hogar, manilas, copas sierra y diamantadas, siliconas, guayas, cintas reflectivas, grasa, cadena, tubo cortineros, guantes, roda-chines, gafas , cancamos, cinta aislante y de enmascarar y otros.",
+        ubicacion: "calle 12 # 7-46 Centro",
+        telefono: "3158323853",
+        pagWeb: "https://buscadorcalima.com/tornilleria-jm-calima/tornilleria-jm-calima.html",
+        keywords: "tornillos, pegantes, brochas, aerosoles, discos de corte, aceites grasas, refrigerantes, líquido para frenos, desengrasantes, filtros motor, filtros aire, orring, tuercas, arandelas, aerosoles, tarrajas, brocas, prisioneros, herramientas manuales, palas, picas, barretón, sesión, machetes, limas, seguetas, palas para jardinería, serrucho, hola de segunda, clavija",
+        rutaInterna: "./tornilleria-jm-calima/tornilleria-jm-calima.html",
+        correo: ""
+    },
+
+    {
+        nombre: "FerreCalima 2",
+        imagen: "./img/ferrecalima.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, inodoros, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería,  sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
+        ubicacion: "calle 12 # 7-03 B/Centro",
+        telefono: "3185974892",
+        pagWeb: "",
+        keywords: "servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
+        rutaInterna: "",
+        correo: "ferrecalima2@gmail.com"
+    },
+
+    {
         nombre: "Ferretería Medellín",
         imagen: "./img/ferreteria-medellin.jpeg",
         descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo, etc...",
