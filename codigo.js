@@ -48,6 +48,18 @@ const negocios = [
     },
 
     {
+        nombre: "FerreCampo",
+        imagen: "./img/ferrecampo.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, inodoros, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
+        ubicacion: "Cra 7 # 12-09",
+        telefono: "3152058982",
+        pagWeb: "",
+        keywords: "cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
+        rutaInterna: "",
+        correo: "ferrecampocalima@gmail.com	"
+    },
+
+    {
         nombre: "Ferretería Medellín",
         imagen: "./img/ferreteria-medellin.jpeg",
         descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo, etc...",
@@ -69,6 +81,30 @@ const negocios = [
         keywords: "papelería, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
         rutaInterna: "",
         correo: "smazpapelaz2022@gmail.com"
+    },
+
+    {
+        nombre: "Tienda Automotriz Calima",
+        imagen: "./tienda-automotriz-calima/tienda-automotriz-calima.jpeg",
+        descripcion: "Venta de baterías, cambios de aceite, tornillería, mantenimiento preventivo, aceites, sistema de frenos, amortiguación, filtros, herramienta, filtración para aire acondicionado y sistema de refrigeración automotriz.",
+        ubicacion: "Cra 6 # 11-62",
+        telefono: "3155697534 - 3154553795",
+        pagWeb: "https://buscadorcalima.com/tienda-automotriz-calima/tienda-automotriz-calima.html",
+        keywords: "baterias, cambios de aceite, tornilleria, mantenimiento preventivo, aceites, sistema de frenos, amortiguacion, filtros, herramienta, filtracion para aire acondicionado y sistema de refrigeración automotriz",
+        rutaInterna: "./tienda-automotriz-calima/tienda-automotriz-calima.html",
+        correo: "dianabetancourt80@gmail.com"
+    },
+
+    {
+        nombre: "Tripex y Molduras Jose",
+        imagen: "./img/tripex-molduras-jose.jpeg",
+        descripcion: "Ventas de retales de tripex y Listonería. MDF, molduras, machimbre, tendidos de cama, tintillas, laca, sellador, carpincol, barniz, etc…",
+        ubicacion: "Cra 6 # 11-27",
+        telefono: "3169238817",
+        pagWeb: "",
+        keywords: "Triplex, mdf, molduras, machimbre, tendidos de cama, listones, tintillas, laca, sellador, carpincol, barniz",
+        rutaInterna: "",
+        correo: "jloe991@hotmail.com"
     },
 
     {
