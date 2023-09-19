@@ -96,7 +96,7 @@ const negocios = [
     },
 
     {
-        nombre: "Tripex y Molduras Jose",
+        nombre: "Triplex y Molduras Jose",
         imagen: "./img/tripex-molduras-jose.jpeg",
         descripcion: "Ventas de retales de tripex y Listonería. MDF, molduras, machimbre, tendidos de cama, tintillas, laca, sellador, carpincol, barniz, etc…",
         ubicacion: "Cra 6 # 11-27",
