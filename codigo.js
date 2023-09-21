@@ -19,7 +19,7 @@ const negocios = [
         telefono: "3052112152",
         pagWeb: "https://www.villawilly.com/",
         keywords: "hotel, estadia, cabaña, finca, alquiler, hospedaje, hostal, hosteria, albergue, posada, alojamiento, alquiler por noche, estancia",
-        rutaInterna: "./encanto-calima/encanto-calima.html",
+        rutaInterna: "https://www.villawilly.com/",
         correo: "wimito60@yahoo.es"
     },
 
