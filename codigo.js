@@ -12,6 +12,18 @@ const negocios = [
     },
 
     {
+        nombre: "Villa Willy Finca, Villa Campestre.",
+        imagen: "./img/villawilly.png",
+        descripcion: "<b>2 cabañas equipadas, Capacidad máxima 20 personas, Cancha de Futbol 5, Parqueadero Privado, Piscina y Jacuzzi</b><br><br>Amplio y acogedor, 100% privado, ubicado frente al Museo Nacional Calima, a 3 minutos del Lago Calima.",
+        ubicacion: "Calle 10 # 13-34 frente a las cabañas del museo arqueológico, a 3 minutos del Lago Calima.",
+        telefono: "3052112152",
+        pagWeb: "https://www.villawilly.com/",
+        keywords: "hotel, estadia, cabaña, finca, alquiler, hospedaje, hostal, hosteria, albergue, posada, alojamiento, alquiler por noche, estancia",
+        rutaInterna: "./encanto-calima/encanto-calima.html",
+        correo: "wimito60@yahoo.es"
+    },
+
+    {
         nombre: "Encanto Calima",
         imagen: "./img/encanto-calima-sala-de-estar.png",
         descripcion: "<b>6 huéspedes, 3 habitaciones, 4 camas, 2 baños.</b><br><br>Encanto Calima es una casa familiar ubicada en una zona residencial tranquila, a 5 cuadras de la zona centro del municipio. Cuenta con una distribución y espacios cómodos divididos en tres habitaciones, con dos baños, cocina, comedor, sala, espacio de lavado y wi fi. Además cuenta con un espacio para parquear al frente de la casa.",
@@ -20,7 +32,19 @@ const negocios = [
         pagWeb: "https://buscadorcalima.com/encanto-calima/encanto-calima.html",
         keywords: "hotel, alquiler, estadia, hospedaje, hostal, hosteria, albergue, posada, alojamiento, alquiler por noche, estancia",
         rutaInterna: "./encanto-calima/encanto-calima.html",
-        correo: " gladysmenesesm@hotmail.com"
+        correo: "gladysmenesesm@hotmail.com"
+    },
+
+    {
+        nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
+        imagen: "./img/piscinasrs.jpeg",
+        descripcion: "Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas",
+        ubicacion: "Calima Darien Calle 12 No. 7 - 59 - Sede Santa Elena Cerrito calle 4 # 3-66",
+        telefono: "Darien 3174424874<br>Cerrito 3174412589",
+        pagWeb: "https://piscinasyaccesoriosrs.com/rs",
+        keywords: "insumos quimicos, mantenimiento, construccion, reparacion de piscinas, turcos, jacuzzis, fuentes, espejos de agua, redes eléctricas, redes de gas.",
+        rutaInterna: "https://piscinasyaccesoriosrs.com/rs",
+        correo: "info@piscinasyaccesoriosrs.com"
     },
 
     {
