@@ -2,11 +2,11 @@ const negocios = [
     {
         nombre: "Drogueria Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
-        descripcion: "Drogueria y Tienda Naturista, Recargas, Servicio de Inyectologia",
+        descripcion: "Drogueria y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectologia",
         ubicacion: "Cra 7 # 11-12",
         telefono: "3155178654 - 3173805598",
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
-        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, ",
+        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
         correo: ""
     },
