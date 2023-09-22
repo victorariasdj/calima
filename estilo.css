@@ -207,7 +207,7 @@ a p:hover {
 #formulario {
     padding: 7px;
     width: 55%;
-    font-size: 24px;
+    font-size: 15px;
 }
 
 .caja-titulo {
@@ -226,14 +226,17 @@ a p:hover {
 }
 
 .categoria-btn {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 14px;
     width: 222px;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .categoria-btn img{
-    display: block;
-    margin: auto;
-    max-width: 40px;
+    /* margin: 12px; */
+    max-width: 30px;
     object-fit: contain;
     filter: invert(100%);
 }
@@ -287,7 +290,7 @@ button:hover {
 }
 
 #boton {
-    font-size: 22px;
+    font-size: 18px;
 }
 
 /* FINAL DEL BUSCADOR */

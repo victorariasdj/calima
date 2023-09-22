@@ -6,7 +6,7 @@ const negocios = [
         ubicacion: "Cra 7 # 11-12",
         telefono: "3155178654 - 3173805598",
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
-        keywords: "drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, ",
+        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, ",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
         correo: ""
     },
@@ -114,9 +114,21 @@ const negocios = [
         ubicacion: "Cra 6 # 11-62",
         telefono: "3155697534 - 3154553795",
         pagWeb: "https://buscadorcalima.com/tienda-automotriz-calima/tienda-automotriz-calima.html",
-        keywords: "baterias, cambios de aceite, tornilleria, mantenimiento preventivo, aceites, sistema de frenos, amortiguacion, filtros, herramienta, filtracion para aire acondicionado y sistema de refrigeración automotriz",
+        keywords: "transporte, baterias, cambios de aceite, tornilleria, mantenimiento preventivo, aceites, sistema de frenos, amortiguacion, filtros, herramienta, filtracion para aire acondicionado y sistema de refrigeración automotriz",
         rutaInterna: "./tienda-automotriz-calima/tienda-automotriz-calima.html",
         correo: "dianabetancourt80@gmail.com"
+    },
+
+    {
+        nombre: "Tienda Naturista Vive Mejor",
+        imagen: "./img/tiendanaturistavivemejor.jpeg",
+        descripcion: "Venta de productos naturales, citrato de magnesio, ar17, flexdol, artrim, colágenos, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis.",
+        ubicacion: "Calle 10 # 5-36 por la defensa civil",
+        telefono: "3162572997",
+        pagWeb: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
+        keywords: "salud, naturales, citrato de magnesio, ar17, flexdol, artrim, colageno, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis",
+        rutaInterna: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
+        correo: "rosalbaguzman18@gmail.com"
     },
 
     {
