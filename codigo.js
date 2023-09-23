@@ -90,7 +90,7 @@ const negocios = [
         ubicacion: "calle 12 # 7-46 Centro",
         telefono: "3158323853",
         pagWeb: "https://buscadorcalima.com/tornilleria-jm-calima/tornilleria-jm-calima.html",
-        keywords: "tornillos, pegantes, brochas, aerosoles, discos de corte, aceites grasas, refrigerantes, líquido para frenos, desengrasantes, filtros motor, filtros aire, orring, tuercas, arandelas, aerosoles, tarrajas, brocas, prisioneros, herramientas manuales, palas, picas, barretón, sesión, machetes, limas, seguetas, palas para jardinería, serrucho, hola de segunda, clavija",
+        keywords: "tornillos, ferreteria, pegantes, brochas, aerosoles, discos de corte, aceites grasas, refrigerantes, líquido para frenos, desengrasantes, filtros motor, filtros aire, orring, tuercas, arandelas, aerosoles, tarrajas, brocas, prisioneros, herramientas manuales, palas, picas, barretón, sesión, machetes, limas, seguetas, palas para jardinería, serrucho, hola de segunda, clavija",
         rutaInterna: "./tornilleria-jm-calima/tornilleria-jm-calima.html",
         correo: ""
     },
@@ -102,7 +102,7 @@ const negocios = [
         ubicacion: "calle 12 # 7-03 B/Centro",
         telefono: "3185974892",
         pagWeb: "",
-        keywords: "servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
+        keywords: "ferreteria, servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
         rutaInterna: "",
         correo: "ferrecalima2@gmail.com"
     },
@@ -114,7 +114,7 @@ const negocios = [
         ubicacion: "Cra 7 # 12-09",
         telefono: "3152058982",
         pagWeb: "https://www.facebook.com/profile.php?id=100071732051191",
-        keywords: "cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
+        keywords: "ferreteria, cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
         rutaInterna: "https://www.facebook.com/profile.php?id=100071732051191",
         correo: "ferrecampocalima@gmail.com	"
     },
@@ -126,7 +126,7 @@ const negocios = [
         ubicacion: "Carrera 7 # 11-49 B/Centro",
         telefono: "3154068031",
         pagWeb: "",
-        keywords: "construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
+        keywords: "ferreteria, construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
         rutaInterna: "",
         correo: "evergiraldo1@hotmail.com"
     },
