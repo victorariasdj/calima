@@ -77,9 +77,9 @@ const negocios = [
         descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, inodoros, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
         ubicacion: "Cra 7 # 12-09",
         telefono: "3152058982",
-        pagWeb: "",
+        pagWeb: "https://www.facebook.com/profile.php?id=100071732051191",
         keywords: "cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
-        rutaInterna: "",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100071732051191",
         correo: "ferrecampocalima@gmail.com	"
     },
 
@@ -103,7 +103,7 @@ const negocios = [
         telefono: "3187044288",
         pagWeb: "https://www.instagram.com/smazpapelaz_/",
         keywords: "papelería, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
-        rutaInterna: "",
+        rutaInterna: "https://www.instagram.com/smazpapelaz_/",
         correo: "smazpapelaz2022@gmail.com"
     },
 
@@ -151,7 +151,7 @@ const negocios = [
         telefono: "3163251628",
         pagWeb: "https://victorarias.eth.limo/",
         keywords: "dj, música electrónica,matenimiento, técnico de computadores, desarrollador web, mezcla, master, audio, clases personalizadas, producción musical.",
-        rutaInterna: "",
+        rutaInterna: "https://victorarias.eth.limo/",
         correo: "djvictor_arias@hotmail.com"
     },
 
