@@ -12,6 +12,18 @@ const negocios = [
     },
 
     {
+        nombre: "Droguería María Rita Plus",
+        imagen: "./img/drogueriamariaritaplus.jpg",
+        descripcion: "Mini Market - Droguería. Atendemos a nuestros clientes con cuidado y satisfacción. Servicio a Domicilio. Horario de 9 AM a 8 PM",
+        ubicacion: "calle 11 # 7-44 barrio San jorge",
+        telefono: "3206353035 - 3176746329",
+        pagWeb: "https://www.facebook.com/drogueria.maria.rita",
+        keywords: "salud, drogueria, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
+        rutaInterna: "https://www.facebook.com/drogueria.maria.rita",
+        correo: ""
+    },
+
+    {
         nombre: "Villa Willy Finca, Villa Campestre.",
         imagen: "./img/villawilly.png",
         descripcion: "<b>2 cabañas equipadas, Capacidad máxima 20 personas, Cancha de Futbol 5, Parqueadero Privado, Piscina y Jacuzzi</b><br><br>Amplio y acogedor, 100% privado, ubicado frente al Museo Nacional Calima, a 3 minutos del Lago Calima.",
@@ -33,6 +45,30 @@ const negocios = [
         keywords: "hotel, alquiler, estadia, hospedaje, hostal, hosteria, albergue, posada, alojamiento, alquiler por noche, estancia",
         rutaInterna: "./encanto-calima/encanto-calima.html",
         correo: "gladysmenesesm@hotmail.com"
+    },
+
+    {
+        nombre: "Odontología Verónica Gamarra Giraldo		",
+        imagen: "./img/odontologiaveronica.jpg",
+        descripcion: "El mejor momento para visitar al odontólogo es cuando no te duele nada. Crema Glister para la Sensibilidad Dental",
+        ubicacion: "Calle 11 # 4-64 consultorio 2",
+        telefono: "3172922417",
+        pagWeb: "https://www.facebook.com/veronica.gamarra.90813",
+        keywords: "Salud odontologia. Limpieza, tratamiento crema dental",
+        rutaInterna: "https://www.facebook.com/veronica.gamarra.90813",
+        correo: ""
+    },
+
+    {
+        nombre: "Omar Burgos Chuletas",
+        imagen: "./img/chuleta.jpg",
+        descripcion: "Se hacen chuletas por encargo.",
+        ubicacion: "Calle 12 # 5-35 san jorge",
+        telefono: "3187662037 - 3165537811",
+        pagWeb: "",
+        keywords: "chuleta, restaurante",
+        rutaInterna: "",
+        correo: "mariaosorio2053@gmail.com	"
     },
 
     {
@@ -93,6 +129,18 @@ const negocios = [
         keywords: "construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
         rutaInterna: "",
         correo: "evergiraldo1@hotmail.com"
+    },
+
+    {
+        nombre: "Mazamorra Maxi",
+        imagen: "./img/mazamorramaxi.jpeg",
+        descripcion: "Mazamorra maxi 100% natural.",
+        ubicacion: "",
+        telefono: "3215076117",
+        pagWeb: "",
+        keywords: "mazamorra, restaurante",
+        rutaInterna: "",
+        correo: "maxirojas1345@gmail.com"
     },
 
     {
