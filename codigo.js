@@ -18,7 +18,7 @@ const negocios = [
         ubicacion: "calle 11 # 7-44 barrio San jorge",
         telefono: "3206353035 - 3176746329",
         pagWeb: "https://www.facebook.com/drogueria.maria.rita",
-        keywords: "salud, drogueria, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
+        keywords: "salud, drogueria, inyectologia, medicamento, suero",
         rutaInterna: "https://www.facebook.com/drogueria.maria.rita",
         correo: ""
     },
