@@ -66,7 +66,7 @@ const negocios = [
         ubicacion: "Calle 12 # 5-35 san jorge",
         telefono: "3187662037 - 3165537811",
         pagWeb: "",
-        keywords: "chuleta, restaurante",
+        keywords: "chuleta, comestible",
         rutaInterna: "",
         correo: "mariaosorio2053@gmail.com	"
     },
@@ -138,7 +138,7 @@ const negocios = [
         ubicacion: "",
         telefono: "3215076117",
         pagWeb: "",
-        keywords: "mazamorra, restaurante",
+        keywords: "mazamorra, comestible",
         rutaInterna: "",
         correo: "maxirojas1345@gmail.com"
     },
@@ -210,7 +210,7 @@ const negocios = [
         ubicacion: "Calima Darien",
         telefono: "3153730917",
         pagWeb: "",
-        keywords: "yogurt, yogurt griego, uva, fresa",
+        keywords: "comestible, yogurt, yogurt griego, uva, fresa",
         rutaInterna: "",
         correo: ""
     },
