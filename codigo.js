@@ -15,12 +15,24 @@ const negocios = [
         nombre: "Droguería María Rita Plus",
         imagen: "./img/drogueriamariaritaplus.jpg",
         descripcion: "Mini Market - Droguería. Atendemos a nuestros clientes con cuidado y satisfacción. Servicio a Domicilio. Horario de 9 AM a 8 PM",
-        ubicacion: "calle 11 # 7-44 barrio San jorge",
+        ubicacion: "Calle 11 # 7-44 barrio San jorge",
         telefono: "3206353035 - 3176746329",
         pagWeb: "https://www.facebook.com/drogueria.maria.rita",
         keywords: "salud, drogueria, inyectologia, medicamento, suero",
         rutaInterna: "https://www.facebook.com/drogueria.maria.rita",
         correo: ""
+    },
+
+    {
+        nombre: "El Pulguero Ramírez",
+        imagen: "./el-pulguero-ramirez/1.jpeg",
+        descripcion: "Antigüedades, muebles, bicicletas, ropa, zapatos, lámparas, detalles, y más…",
+        ubicacion: "Calle 12 - 6 # 41 por el comité de cafeteros",
+        telefono: "3007921673",
+        pagWeb: "https://buscadorcalima.com/el-pulguero-ramirez/el-pulguero-ramirez.html",
+        keywords: "antiguedades, muebles, bicicletas, ropa, zapatos, lamparas, detalles",
+        rutaInterna: "./el-pulguero-ramirez/el-pulguero-ramirez.html",
+        correo: "juliohernandez14978507@gmail.com"
     },
 
     {
