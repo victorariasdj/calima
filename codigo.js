@@ -27,7 +27,7 @@ const negocios = [
         nombre: "El Pulguero Ramírez",
         imagen: "./el-pulguero-ramirez/1.jpeg",
         descripcion: "Antigüedades, muebles, bicicletas, ropa, zapatos, lámparas, detalles, y más…",
-        ubicacion: "Calle 12 - 6 # 41 por el comité de cafeteros",
+        ubicacion: "Calle 12 # 6 - 41 por el comité de cafeteros",
         telefono: "3007921673",
         pagWeb: "https://buscadorcalima.com/el-pulguero-ramirez/el-pulguero-ramirez.html",
         keywords: "antiguedades, muebles, bicicletas, ropa, zapatos, lamparas, detalles",
