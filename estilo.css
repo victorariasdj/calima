@@ -138,7 +138,7 @@ footer {
 
 
 .container__iconlogo {
-    height: 40px;
+    height: 35px;
     transition: .4s ease-in;
     
 }
@@ -231,13 +231,14 @@ a p:hover {
     align-items: center;
     padding: 14px;
     width: 222px;
+    height: 45px;
     font-size: 18px;
 }
 
 .categoria-btn img{
     /* margin: 12px; */
     max-width: 30px;
-    object-fit: contain;
+    object-fit: cover;
     filter: invert(100%);
 }
 
@@ -277,7 +278,7 @@ button {
     background-color: #1e1e1e;
     color: #fff;
     border: none;
-    width: 270px;
+    width: 222px;
     font-weight:600;
     font-size: 24px;
     padding: 10px 16px;
@@ -290,7 +291,7 @@ button:hover {
 }
 
 #boton {
-    font-size: 18px;
+    /* font-size: 18px; */
 }
 
 /* FINAL DEL BUSCADOR */
