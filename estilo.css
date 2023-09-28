@@ -188,26 +188,40 @@ a p:hover {
 }
 
 .caja-formulario {
+    padding-top: 90px;
     text-align: center;
 }
 
 .contenedor {
     display: flex;
-    flex-wrap: wrap;
-    width: 75%;
+    /* flex-wrap: wrap; */
+    width: 85%;
     /* height: 120px; */
     justify-content: center;
     margin: auto;
-    padding: 20px;
-    background-color: #3498db6e;
+    /* padding-top: 10px; */
+    /* background-color: #3498db6e; */
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contenedor-agregar-anuncio {
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 85%; */
+    /* height: 120px; */
+    justify-content: space-around;
+    margin: 9px;
+    /* padding-top: 10px; */
+    /* background-color: #3498db6e; */
     border-radius: 5px;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 #formulario {
     padding: 7px;
-    width: 55%;
-    font-size: 15px;
+    width: 80%;
+    /* font-size: 15px; */
 }
 
 .caja-titulo {
@@ -227,10 +241,10 @@ a p:hover {
 
 .categoria-btn {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    padding: 14px;
-    width: 222px;
+    padding: 0px 7px 0px 10px;
+    width: 204px;
     height: 45px;
     font-size: 18px;
 }
@@ -281,7 +295,7 @@ button {
     width: 222px;
     font-weight:600;
     font-size: 24px;
-    padding: 10px 16px;
+    padding: 7px;
     cursor: pointer;
     border-radius: 3px;
 }
@@ -290,9 +304,10 @@ button:hover {
     background-color: #1f77d0;
 }
 
-/* #boton {
-    
-} */
+#boton {
+    flex: 1;
+    height: 45px;
+}
 
 /* FINAL DEL BUSCADOR */
 
@@ -328,6 +343,7 @@ button:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
+    text-align: center;
 }
 
 .card {
@@ -339,7 +355,7 @@ button:hover {
     /* max-width: 300px; */
     text-align: center;
     background-color: #f5f5f5;
-    border-radius: 10px;
+    border-radius: 3px;
     padding: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     flex: 1;
@@ -462,6 +478,10 @@ button:hover {
 
 .container__ul-toggle {
     transform: translateX(20%);
+}
+
+.caja-formulario {
+    padding-top: 10px;
 }
 
 .menu__toggle {
