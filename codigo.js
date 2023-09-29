@@ -24,6 +24,18 @@ const negocios = [
     },
 
     {
+        nombre: "Línea Electrónica",
+        imagen: "./img/lineaelectronica.jpeg",
+        descripcion: "Servicio técnico, Mantenimiento, reparación y venta de equipos electrónicos.",
+        ubicacion: "Cra 7 # 12-40",
+        telefono: "3176737455",
+        pagWeb: "",
+        keywords: "linea electronica, electricista, cables, mantenimiento, reparacion, electronico, televisores, electrodomesticos servicio tecnico",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "El Pulguero Ramírez",
         imagen: "./el-pulguero-ramirez/1.jpeg",
         descripcion: "Antigüedades, muebles, bicicletas, ropa, zapatos, lámparas, detalles, y más…",
