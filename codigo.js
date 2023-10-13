@@ -174,7 +174,7 @@ const negocios = [
         ubicacion: "Carrera 11 # 10-54 B/San Vicente",
         telefono: "3187044288",
         pagWeb: "https://www.instagram.com/smazpapelaz_/",
-        keywords: "papelería, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
+        keywords: "papeleria, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
         rutaInterna: "https://www.instagram.com/smazpapelaz_/",
         correo: "smazpapelaz2022@gmail.com"
     },
