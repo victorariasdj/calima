@@ -3,7 +3,7 @@ const negocios = [
         nombre: "Cholados Miluki",
         imagen: "./img/choladosmiluki.jpeg",
         descripcion: "Cholados Frutales, Raspados, Luladas, Maracuyadas, Obleas Frutales, Guanábanazo, Fresas con Crema, Smoothies (Batidos Frutales), Sándwiches, Wafles.",
-        ubicacion: "calle 9 # 6-35",
+        ubicacion: "Calle 9 # 6-35",
         telefono: "3158855846",
         pagWeb: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
         keywords: "comestibles, heladeria,  frutas, batidos, helado, bebidas, frio cholado frutales, raspados, lulo, luladas, maracuyadas, obleas frutales, guanabanazo, fresas con crema, smoothies, batidos frutales, sandwiches, wafles",
@@ -12,7 +12,7 @@ const negocios = [
     },
     
     {
-        nombre: "Drogueria Don Victor",
+        nombre: "Droguería Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
         descripcion: "Drogueria y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectologia",
         ubicacion: "Cra 7 # 11-12",
@@ -24,7 +24,7 @@ const negocios = [
     },
 
     {
-        nombre: "Drogueria Don Mauro",
+        nombre: "Droguería Don Mauro",
         imagen: "./img/drogueriadonmauro.jpeg",
         descripcion: "La mejor atención con los precios que enamoran. Servicio a domicilio sin costo adicional.",
         ubicacion: "Cra 5 # 9-31",
