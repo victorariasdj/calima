@@ -180,6 +180,18 @@ const negocios = [
     },
 
     {
+        nombre: "Mally Nails",
+        imagen: "./img/mallynails.jpeg",
+        descripcion: "Manicura semi, Pedicura semi, Forrado acrílico polygel, Kapping, Acrílicas esculpidas, tradicional para pies, etc…",
+        ubicacion: "Servicio a domicilio de Darién a Puente Tierra.",
+        telefono: "3152428496",
+        pagWeb: "https://www.instagram.com/mally_nailss/",
+        keywords: "uñas, manicura semi, pedicura, domicilio, forrado acrilico polygel, kapping, esculpidas, tradicional, pies",
+        rutaInterna: "https://www.instagram.com/mally_nailss/",
+        correo: ""
+    },
+
+    {
         nombre: "Mazamorra Maxi",
         imagen: "./img/mazamorramaxi.jpeg",
         descripcion: "Mazamorra maxi 100% natural.",
