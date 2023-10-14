@@ -1,5 +1,17 @@
 const negocios = [
     {
+        nombre: "Cholados Miluki",
+        imagen: "./img/choladosmiluki.jpeg",
+        descripcion: "Cholados Frutales, Raspados, Luladas, Maracuyadas, Obleas Frutales, Guanábanazo, Fresas con Crema, Smoothies (Batidos Frutales), Sándwiches, Wafles.",
+        ubicacion: "calle 9 # 6-35",
+        telefono: "3158855846",
+        pagWeb: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
+        keywords: "comestibles, heladeria,  frutas, batidos, helado, bebidas, frio cholado frutales, raspados, lulo, luladas, maracuyadas, obleas frutales, guanabanazo, fresas con crema, smoothies, batidos frutales, sandwiches, wafles",
+        rutaInterna: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
+        correo: ""
+    },
+    
+    {
         nombre: "Drogueria Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
         descripcion: "Drogueria y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectologia",
@@ -8,6 +20,18 @@ const negocios = [
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
         keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
+        correo: ""
+    },
+
+    {
+        nombre: "Drogueria Don Mauro",
+        imagen: "./img/drogueriadonmauro.jpeg",
+        descripcion: "La mejor atención con los precios que enamoran. Servicio a domicilio sin costo adicional.",
+        ubicacion: "Cra 5 # 9-31",
+        telefono: "3022691047",
+        pagWeb: "https://www.facebook.com/maurocaicedofotografia",
+        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recomendador, atencion, remedio, pasta, productos naturales",
+        rutaInterna: "https://www.facebook.com/maurocaicedofotografia",
         correo: ""
     },
 
