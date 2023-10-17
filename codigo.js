@@ -204,6 +204,18 @@ const negocios = [
     },
 
     {
+        nombre: "Paga Rápido Calima",
+        imagen: "./img/pagarapidocalima.jpeg",
+        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), pago de servicios, certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
+        ubicacion: "Cra 6 # 14-40 a un costado del centro multipropósito (tesorería municipal) B/La Virgen.",
+        telefono: "3042842485",
+        pagWeb: "",
+        keywords: "giros, pago de servicios, seguro, soat, envios, inter, rapidisimo, servientrega, dhl, pago de servicios, certificado de tradicion, banco, corresponsal aval, falabella, davivienda, bancamia, suscripciones, netflix, amazon prime, spotify, recargas, compras amazon ebay",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Smaz Papelería y Miscelánea",
         imagen: "./img/smaz-papeleria.jpeg",
         descripcion: "Ven y conoce una forma diferente tierna y divertida en papelería, manejamos servicios de: fotocopias blanco y negro o a color, impresión láser, papelería general y papelería kawaii, miscelánea entre otros. Se vale antojarse!",
