@@ -136,7 +136,7 @@ const negocios = [
         imagen: "./tornilleria-jm-calima/frente-frente.jpg",
         descripcion: "Tornilleria JM tiene para ofrecerles variedad en productos como:<br><br>Arandelas, tuercas, tornilleria en general, herramientas eléctricas y manuales, soldadura acero inoxidable y aluminio, puntillas, bisagras, remaches, chapas lijas, aerosoles, brocas, rodillos, aceite, filtros, racores de aire, escobillas, mangueras, discos en general de corte, llaves hexagonales, copas, rache, destornilladores, candados, abrazaderas, amarras plásticas, nylon para guadaña, herramientas manuales agrícolas, varilla roscada, pines, pernos, variedad en electricos para el hogar, manilas, copas sierra y diamantadas, siliconas, guayas, cintas reflectivas, grasa, cadena, tubo cortineros, guantes, roda-chines, gafas , cancamos, cinta aislante y de enmascarar y otros.",
         ubicacion: "calle 12 # 7-46 Centro",
-        telefono: "3158323853",
+        telefono: "3182216194",
         pagWeb: "https://buscadorcalima.com/tornilleria-jm-calima/tornilleria-jm-calima.html",
         keywords: "tornillos, ferreteria, pegantes, brochas, aerosoles, discos de corte, aceites grasas, refrigerantes, líquido para frenos, desengrasantes, filtros motor, filtros aire, orring, tuercas, arandelas, aerosoles, tarrajas, brocas, prisioneros, herramientas manuales, palas, picas, barretón, sesión, machetes, limas, seguetas, palas para jardinería, serrucho, hola de segunda, clavija",
         rutaInterna: "./tornilleria-jm-calima/tornilleria-jm-calima.html",
