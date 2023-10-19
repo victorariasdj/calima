@@ -206,7 +206,7 @@ const negocios = [
     {
         nombre: "Paga Rápido Calima",
         imagen: "./img/pagarapidocalima.jpeg",
-        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), pago de servicios, certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
+        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
         ubicacion: "Cra 6 # 14-40 a un costado del centro multipropósito (tesorería municipal) B/La Virgen.",
         telefono: "3042842485",
         pagWeb: "",
