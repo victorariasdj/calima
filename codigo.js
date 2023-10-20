@@ -264,6 +264,18 @@ const negocios = [
     },
 
     {
+        nombre: "Vanidosas Belleza Capilar",
+        imagen: "./img/vanidosasbellezacapilar.jpeg",
+        descripcion: "<b>Tienda virtual y fisica. Sabemos lo frustrante que es tener un cabello maltratado.</b><br>Amplia gama de productos para el cabello, productos nacionales e importados, para que puedas satisfacer la necesidad de tu cabello. Atención rápida y un proceso de pedido sencillo para que no pierdas tiempo valioso. Ventas al Detal, domicilios dentro de la zona paga tu pedido al momento que lo recibas.",
+        ubicacion: "Calle 11 # 4-07 B/San Jorge",
+        telefono: "3163704804",
+        pagWeb: "https://www.facebook.com/Vanidosas.calimaDarien",
+        keywords: "productos capilares, cuidado cabello, shampoo, tratamientos, mascarillas, acondicionador",
+        rutaInterna: "https://www.facebook.com/Vanidosas.calimaDarien",
+        correo: "lilimasavi@gmail.com"
+    },
+
+    {
         nombre: "Victor Arias",
         imagen: "./img/victor-arias.jpg",
         descripcion: "Dj de música electrónica, técnico de computadores, desarrollador web, mezcla y master de audio, clases personalizadas de producción musical.",
