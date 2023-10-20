@@ -121,7 +121,7 @@ const negocios = [
 
     {
         nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
-        imagen: "./img/piscinasrs.jpeg",
+        imagen: "./img/piscinabrujas.png",
         descripcion: "Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas",
         ubicacion: "Calima Darien Calle 12 No. 7 - 59 - Sede Santa Elena Cerrito calle 4 # 3-66",
         telefono: "Darien 3174424874<br>Cerrito 3174412589",
