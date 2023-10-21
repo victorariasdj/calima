@@ -1,5 +1,17 @@
 const negocios = [
     {
+        nombre: "Ancell Mobile Shop",
+        imagen: "./img/ancell.jpeg",
+        descripcion: "<b>Reparación, servicio técnico, celulares,</b> vidrio protector, cargadores, carcasas, pantallas,  display, cables, audífonos, papel craft, , artesanías,  fotocopias, impresiones, papelería, cerámica.",
+        ubicacion: "Calle 7 # 8-04 b/Obrero diagonal a la escuela María Inmaculada.",
+        telefono: "3182732827",
+        pagWeb: "https://www.facebook.com/profile.php?id=100083593561734",
+        keywords: "reparacion, servicio tecnico, celulares, vidrio protector, cargadores, carcasas, pantallas,  display, cables, audifonos, papel craft, , artesanias,  fotocopias, impresiones, papeleria, ceramica",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100083593561734",
+        correo: "ancellmobileshop@gmail.com"
+    },
+    
+    {
         nombre: "Cholados Miluki",
         imagen: "./img/choladosmiluki.jpeg",
         descripcion: "Cholados Frutales, Raspados, Luladas, Maracuyadas, Obleas Frutales, Guanábanazo, Fresas con Crema, Smoothies (Batidos Frutales), Sándwiches, Wafles.",
