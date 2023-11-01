@@ -60,6 +60,18 @@ const negocios = [
     },
 
     {
+        nombre: "La Colmena",
+        imagen: "./img/lacolmena.jpeg",
+        descripcion: "Producto para la Salud y Belleza, también Papelería",
+        ubicacion: "Calle 11#8-15",
+        telefono: "3042842485",
+        pagWeb: "",
+        keywords: "salud, belleza, papeleria",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Línea Electrónica",
         imagen: "./img/lineaelectronica.jpeg",
         descripcion: "Servicio técnico, Mantenimiento, reparación y venta de equipos electrónicos.",
