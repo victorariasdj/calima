@@ -50,9 +50,9 @@ const negocios = [
     {
         nombre: "La Colmena",
         imagen: "./img/lacolmena.jpeg",
-        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales Tel: 3042842485 Calle 11 # 8-15 Producto para la Salud y Belleza, también Papelería",
+        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales Tel: 3042842485 Calle 11 # 8-15 Productos para la Salud y Belleza, también Papelería",
         ubicacion: "Calle 11#8-15",
-        telefono: "3042842485",
+        telefono: "3165651241",
         pagWeb: "",
         keywords: "salud, belleza, estetica facial y corporal, papeleria",
         rutaInterna: "",
