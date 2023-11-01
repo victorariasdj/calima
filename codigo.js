@@ -48,18 +48,6 @@ const negocios = [
     },
 
     {
-        nombre: "Droguería María Rita Plus",
-        imagen: "./img/drogueriamariaritaplus.jpg",
-        descripcion: "Mini Market - Droguería. Atendemos a nuestros clientes con cuidado y satisfacción. Servicio a Domicilio. Horario de 9 AM a 8 PM",
-        ubicacion: "Calle 11 # 7-44 barrio San jorge",
-        telefono: "3206353035 - 3176746329",
-        pagWeb: "https://www.facebook.com/drogueria.maria.rita",
-        keywords: "salud, drogueria, inyectologia, medicamento, suero",
-        rutaInterna: "https://www.facebook.com/drogueria.maria.rita",
-        correo: ""
-    },
-
-    {
         nombre: "La Colmena",
         imagen: "./img/lacolmena.jpeg",
         descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales Tel: 3042842485 Calle 11 # 8-15 Producto para la Salud y Belleza, también Papelería",
@@ -120,18 +108,6 @@ const negocios = [
     },
 
     {
-        nombre: "Odontología Verónica Gamarra Giraldo		",
-        imagen: "./img/odontologiaveronica.jpg",
-        descripcion: "El mejor momento para visitar al odontólogo es cuando no te duele nada. Crema Glister para la Sensibilidad Dental",
-        ubicacion: "Calle 11 # 4-64 consultorio 2",
-        telefono: "3172922417",
-        pagWeb: "https://www.facebook.com/veronica.gamarra.90813",
-        keywords: "Salud odontologia. Limpieza, tratamiento crema dental",
-        rutaInterna: "https://www.facebook.com/veronica.gamarra.90813",
-        correo: ""
-    },
-
-    {
         nombre: "Omar Burgos Chuletas y Almuerzos",
         imagen: "./img/chuleta.jpg",
         descripcion: "Se hacen chuletas y almuerzos por encargo.",
@@ -189,18 +165,6 @@ const negocios = [
         keywords: "ferreteria, cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
         rutaInterna: "https://www.facebook.com/profile.php?id=100071732051191",
         correo: "ferrecampocalima@gmail.com	"
-    },
-
-    {
-        nombre: "Ferretería Medellín",
-        imagen: "./img/ferreteria-medellin.jpeg",
-        descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo, etc...",
-        ubicacion: "Carrera 7 # 11-49 B/Centro",
-        telefono: "3154068031",
-        pagWeb: "",
-        keywords: "ferreteria, construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico.",
-        rutaInterna: "",
-        correo: "evergiraldo1@hotmail.com"
     },
 
     {
