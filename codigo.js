@@ -132,13 +132,13 @@ const negocios = [
     },
 
     {
-        nombre: "Omar Burgos Chuletas",
+        nombre: "Omar Burgos Chuletas y Almuerzos",
         imagen: "./img/chuleta.jpg",
-        descripcion: "Se hacen chuletas por encargo.",
+        descripcion: "Se hacen chuletas y almuerzos por encargo.",
         ubicacion: "Calle 12 # 5-35 san jorge",
         telefono: "3187662037 - 3165537811",
         pagWeb: "",
-        keywords: "chuleta, comestible",
+        keywords: "chuleta, almuerzo, comestible",
         rutaInterna: "",
         correo: "mariaosorio2053@gmail.com	"
     },
