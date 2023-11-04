@@ -182,11 +182,11 @@ const negocios = [
     {
         nombre: "Mazamorra Maxi",
         imagen: "./img/mazamorramaxi.jpeg",
-        descripcion: "Mazamorra maxi 100% natural.",
+        descripcion: "Mazamorra y Champús Maxi 100% natural.",
         ubicacion: "",
         telefono: "3215076117",
         pagWeb: "",
-        keywords: "mazamorra, comestible",
+        keywords: "mazamorra, Champus, comestible",
         rutaInterna: "",
         correo: "maxirojas1345@gmail.com"
     },
