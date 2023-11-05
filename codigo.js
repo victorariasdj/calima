@@ -26,7 +26,7 @@ const negocios = [
     {
         nombre: "Droguería Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
-        descripcion: "Drogueria y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectologia",
+        descripcion: "Droguería y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectología",
         ubicacion: "Cra 7 # 11-12",
         telefono: "3155178654 - 3173805598",
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
@@ -121,7 +121,7 @@ const negocios = [
 
     {
         nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
-        imagen: "./img/piscinabrujas.png",
+        imagen: "./img/Piscinasrs.png",
         descripcion: "Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas",
         ubicacion: "Calima Darien Calle 12 No. 7 - 59 - Sede Santa Elena Cerrito calle 4 # 3-66",
         telefono: "Darien 3174424874<br>Cerrito 3174412589",
