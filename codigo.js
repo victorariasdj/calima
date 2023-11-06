@@ -145,7 +145,7 @@ const negocios = [
 
     {
         nombre: "FerreCalima 2",
-        imagen: "./img/ferrecalima.jpeg",
+        imagen: "./img/ferrecalima2.jpeg",
         descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, inodoros, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería,  sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
         ubicacion: "calle 12 # 7-03 B/Centro",
         telefono: "3185974892",
