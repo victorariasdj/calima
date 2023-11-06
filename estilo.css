@@ -425,6 +425,17 @@ button:hover {
     max-width: 100%;
 }
 
+.imagenes-paginas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 9px;
+}
+
+.imagenes-paginas img {
+    max-height: 200px;
+}
+
 .correo-landing,
 .pagina-web,
 .telefono {
