@@ -96,6 +96,18 @@ const negocios = [
     },
 
     {
+        nombre: "Verónica Gamarra Giraldo Odontología",
+        imagen: "./img/odontologiaveronica.jpg",
+        descripcion: "El mejor momento para visitar al odontólogo es cuando no te duele nada. Crema Glister para la Sensibilidad Dental",
+        ubicacion: "Calle 11 # 4-64 consultorio 2",
+        telefono: "3172922417",
+        pagWeb: "",
+        keywords: "salud, odontologia. limpieza, tratamiento, crema dental",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Omar Burgos Chuletas y Almuerzos",
         imagen: "./img/chuleta.jpg",
         descripcion: "Se hacen chuletas y almuerzos por encargo.",
