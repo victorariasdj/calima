@@ -84,6 +84,18 @@ const negocios = [
     },
 
     {
+        nombre: "GPS SENTINEL",
+        imagen: "./img/gpssentinel.jpeg",
+        descripcion: "<b>GPS SENTINEL YA EN CALIMA EL DARIÉN. Protege tu carro o moto por tan solo $380.000 anuales.</b><br><br>GPS SENTINEL YA EN CALIMA EL DARIÉN. Protege tu carro o moto por tan solo $380.000 anuales. Ubicación monitoreo y emergencias 24/7 de tu vehículo. Aplicación dinámica para fácil manejo. Grupo de apoyo y acompañamiento en caso de emergencia.    Apagado remoto de motor.        Historial de recorridos y operación hasta por 1 mes. Descuentos en talleres aliados, tecnomecánica, aceites y lavado vehicular.     GPS con batería de respaldo por hasta 6 horas. Notificaciones de encendido, apagado, exceso de velocidad. Geo-cercas. Muy pronto tendremos vigilancia para el hogar.",
+        ubicacion: "Darién",
+        telefono: "3169933227",
+        pagWeb: "https://www.facebook.com/profile.php?id=61552769812180",
+        keywords: "Seguridad, gps, vigilancia",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61552769812180",
+        correo: ""
+    },
+
+    {
         nombre: "Omar Burgos Chuletas y Almuerzos",
         imagen: "./img/chuleta.jpg",
         descripcion: "Se hacen chuletas y almuerzos por encargo.",
@@ -93,6 +105,18 @@ const negocios = [
         keywords: "chuleta, almuerzo, comestible",
         rutaInterna: "",
         correo: "mariaosorio2053@gmail.com	"
+    },
+
+    {
+        nombre: "Mari's Pizza",
+        imagen: "./img/marispizza.jpeg",
+        descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
+        ubicacion: "Ciudadela German Mejia, Calle Principal Frente al Coliseo.",
+        telefono: "3145018504",
+        pagWeb: "",
+        keywords: "comestible, restaurante, pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
+        rutaInterna: "",
+        correo: ""
     },
 
     {
