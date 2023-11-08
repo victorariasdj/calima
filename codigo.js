@@ -72,18 +72,6 @@ const negocios = [
     },
 
     {
-        nombre: "El Pulguero Ramírez",
-        imagen: "./el-pulguero-ramirez/1.jpeg",
-        descripcion: "Antigüedades, muebles, bicicletas, ropa, zapatos, lámparas, detalles, y más…",
-        ubicacion: "Calle 12 # 6 - 41 por el comité de cafeteros",
-        telefono: "3007921673",
-        pagWeb: "https://buscadorcalima.com/el-pulguero-ramirez/el-pulguero-ramirez.html",
-        keywords: "antiguedades, muebles, bicicletas, ropa, zapatos, lamparas, detalles",
-        rutaInterna: "./el-pulguero-ramirez/el-pulguero-ramirez.html",
-        correo: "juliohernandez14978507@gmail.com"
-    },
-
-    {
         nombre: "Villa Willy Finca, Villa Campestre.",
         imagen: "./img/villawilly.png",
         descripcion: "<b>2 cabañas equipadas, Capacidad máxima 20 personas, Cancha de Futbol 5, Parqueadero Privado, Piscina y Jacuzzi</b><br><br>Amplio y acogedor, 100% privado, ubicado frente al Museo Nacional Calima, a 3 minutos del Lago Calima.",
@@ -132,18 +120,6 @@ const negocios = [
     },
 
     {
-        nombre: "Tornillería JM Calima",
-        imagen: "./tornilleria-jm-calima/frente-frente.jpg",
-        descripcion: "Tornilleria JM tiene para ofrecerles variedad en productos como:<br><br>Arandelas, tuercas, tornilleria en general, herramientas eléctricas y manuales, soldadura acero inoxidable y aluminio, puntillas, bisagras, remaches, chapas lijas, aerosoles, brocas, rodillos, aceite, filtros, racores de aire, escobillas, mangueras, discos en general de corte, llaves hexagonales, copas, rache, destornilladores, candados, abrazaderas, amarras plásticas, nylon para guadaña, herramientas manuales agrícolas, varilla roscada, pines, pernos, variedad en electricos para el hogar, manilas, copas sierra y diamantadas, siliconas, guayas, cintas reflectivas, grasa, cadena, tubo cortineros, guantes, roda-chines, gafas , cancamos, cinta aislante y de enmascarar y otros.",
-        ubicacion: "calle 12 # 7-46 Centro",
-        telefono: "3182216194",
-        pagWeb: "https://buscadorcalima.com/tornilleria-jm-calima/tornilleria-jm-calima.html",
-        keywords: "tornillos, ferreteria, pegantes, brochas, aerosoles, discos de corte, aceites grasas, refrigerantes, líquido para frenos, desengrasantes, filtros motor, filtros aire, orring, tuercas, arandelas, aerosoles, tarrajas, brocas, prisioneros, herramientas manuales, palas, picas, barretón, sesión, machetes, limas, seguetas, palas para jardinería, serrucho, hola de segunda, clavija",
-        rutaInterna: "./tornilleria-jm-calima/tornilleria-jm-calima.html",
-        correo: ""
-    },
-
-    {
         nombre: "FerreCalima 2",
         imagen: "./img/ferrecalima2.jpeg",
         descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, combo sanitario, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería,  sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
@@ -153,18 +129,6 @@ const negocios = [
         keywords: "ferreteria, servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
         rutaInterna: "",
         correo: "ferrecalima2@gmail.com"
-    },
-
-    {
-        nombre: "FerreCampo",
-        imagen: "./img/ferrecampo.jpeg",
-        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, inodoros, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
-        ubicacion: "Cra 7 # 12-09",
-        telefono: "3152058982",
-        pagWeb: "https://www.facebook.com/profile.php?id=100071732051191",
-        keywords: "ferreteria, cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100071732051191",
-        correo: "ferrecampocalima@gmail.com	"
     },
 
     {
