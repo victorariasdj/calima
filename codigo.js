@@ -144,15 +144,15 @@ const negocios = [
     },
 
     {
-        nombre: "FerreCalima 2",
-        imagen: "./img/ferrecalima2.jpeg",
-        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, combo sanitario, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería,  sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
-        ubicacion: "calle 12 # 7-03 B/Centro",
-        telefono: "3185974892 - 315 8943843",
-        pagWeb: "",
-        keywords: "ferreteria, servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
-        rutaInterna: "",
-        correo: "ferrecalima2@gmail.com"
+        nombre: "FerreMundo Siglo 21",
+        imagen: "./img/ferremundo.png",
+        descripcion: "Autoservicio, electrodomésticos, tecnología, pinturas, accesorios, lavaplatos, estufas, pvc, tuberías de agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, varillas, hierro, etc...",
+        ubicacion: "calle 7 # 6-31 B/Obrero",
+        telefono: "3226167001",
+        pagWeb: "https://www.instagram.com/ferremundosiglo21/",
+        keywords: "ferreteria, autoservicio, electrodomesticos, tecnologia, pintura, accesorios, lavaplatos, estufa, tornilleria, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, varillas, hierro",
+        rutaInterna: "https://www.instagram.com/ferremundosiglo21/",
+        correo: "Ferremundosiglo21@gmail.com"
     },
 
     {
@@ -225,18 +225,6 @@ const negocios = [
         keywords: "salud, naturales, citrato de magnesio, ar17, flexdol, artrim, colageno, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis",
         rutaInterna: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
         correo: "rosalbaguzman18@gmail.com"
-    },
-
-    {
-        nombre: "Triplex y Molduras Jose",
-        imagen: "./img/tripex-molduras-jose.jpeg",
-        descripcion: "Ventas de retales de tripex y Listonería. MDF, molduras, machimbre, tendidos de cama, tintillas, laca, sellador, carpincol, barniz, etc…",
-        ubicacion: "Cra 6 # 11-27",
-        telefono: "3169238817",
-        pagWeb: "",
-        keywords: "Triplex, mdf, molduras, machimbre, tendidos de cama, listones, tintillas, laca, sellador, carpincol, barniz",
-        rutaInterna: "",
-        correo: "jloe991@hotmail.com"
     },
 
     {
