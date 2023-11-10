@@ -156,18 +156,6 @@ const negocios = [
     },
 
     {
-        nombre: "FerreCalima 2",
-        imagen: "./img/ferrecalima2.jpeg",
-        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, combo sanitario, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería,  sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
-        ubicacion: "calle 12 # 7-03 B/Centro",
-        telefono: "3185974892 - 315 8943843",
-        pagWeb: "",
-        keywords: "ferreteria, servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
-        rutaInterna: "",
-        correo: "ferrecalima2@gmail.com"
-    },
-
-    {
         nombre: "Mally Nails",
         imagen: "./img/mallynails.jpeg",
         descripcion: "Manicura semi, Pedicura semi, Forrado acrílico polygel, Kapping, Acrílicas esculpidas, tradicional para pies, etc…",
