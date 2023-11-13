@@ -60,18 +60,6 @@ const negocios = [
     },
 
     {
-        nombre: "Línea Electrónica",
-        imagen: "./img/lineaelectronica.jpeg",
-        descripcion: "Servicio técnico, Mantenimiento, reparación y venta de equipos electrónicos.",
-        ubicacion: "Cra 7 # 12-40",
-        telefono: "3176737455",
-        pagWeb: "",
-        keywords: "linea electronica, electricista, cables, mantenimiento, reparacion, electronico, televisores, electrodomesticos servicio tecnico",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
         nombre: "Encanto Calima",
         imagen: "./img/encanto-calima-sala-de-estar.png",
         descripcion: "<b>6 huéspedes, 3 habitaciones, 4 camas, 2 baños.</b><br><br>Encanto Calima es una casa familiar ubicada en una zona residencial tranquila, a 5 cuadras de la zona centro del municipio. Cuenta con una distribución y espacios cómodos divididos en tres habitaciones, con dos baños, cocina, comedor, sala, espacio de lavado y wi fi. Además cuenta con un espacio para parquear al frente de la casa.",
