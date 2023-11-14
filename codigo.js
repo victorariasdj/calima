@@ -72,6 +72,18 @@ const negocios = [
     },
 
     {
+        nombre: "native english conversation",
+        imagen: "./img/nativeenglish.jpeg",
+        descripcion: "<b>Personalized Tutorials</b><br><br>* Phonetics<br>* Practical Skills",
+        ubicacion: "At your place",
+        telefono: "3112852217",
+        pagWeb: "",
+        keywords: " clases ingles, cursos, clases particulares. profesores privados, magistrales",
+        rutaInterna: "",
+        correo: "jrmg3103@hotmail.com"
+    },
+
+    {
         nombre: "GPS SENTINEL",
         imagen: "./img/gpssentinel.jpeg",
         descripcion: "<b>GPS SENTINEL YA EN CALIMA EL DARIÉN. Protege tu carro o moto por tan solo $380.000 anuales.</b><br><br> Ubicación monitoreo y emergencias 24/7 de tu vehículo. Aplicación dinámica para fácil manejo. Grupo de apoyo y acompañamiento en caso de emergencia.    Apagado remoto de motor.        Historial de recorridos y operación hasta por 1 mes. Descuentos en talleres aliados, tecnomecánica, aceites y lavado vehicular.     GPS con batería de respaldo por hasta 6 horas. Notificaciones de encendido, apagado, exceso de velocidad. Geo-cercas. Muy pronto tendremos vigilancia para el hogar.",
@@ -80,18 +92,6 @@ const negocios = [
         pagWeb: "https://www.facebook.com/profile.php?id=61552769812180",
         keywords: "Seguridad, gps, vigilancia",
         rutaInterna: "https://www.facebook.com/profile.php?id=61552769812180",
-        correo: ""
-    },
-
-    {
-        nombre: "Verónica Gamarra Giraldo Odontología",
-        imagen: "./img/odontologiaveronica.jpg",
-        descripcion: "El mejor momento para visitar al odontólogo es cuando no te duele nada. Crema Glister para la Sensibilidad Dental",
-        ubicacion: "Calle 11 # 4-64 consultorio 2",
-        telefono: "3172922417",
-        pagWeb: "",
-        keywords: "salud, odontologia. limpieza, tratamiento, crema dental",
-        rutaInterna: "",
         correo: ""
     },
 
@@ -180,6 +180,42 @@ const negocios = [
     },
 
     {
+        nombre: "Rehabilitación y Diagnostico",
+        imagen: "./img/rehabilitacionydiagnostico.jpeg",
+        descripcion: "Electrocardiograma con reporte médico, Monitoreo Ambulatorio de Presión Arterial, Espirometria, Terapia Respiratoria, Lavado Nasal.",
+        ubicacion: "Agenda tu cita y vamos hasta tu domicilio.",
+        telefono: "3117966529",
+        pagWeb: "",
+        keywords: "Salud, presion arterial, electrocardiograma, terapia respiratoria, espirometria, rehabilitación, lavado nasal",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Tienda Naturista Vive Mejor",
+        imagen: "./img/tiendanaturistavivemejor.jpeg",
+        descripcion: "Venta de productos naturales, citrato de magnesio, ar17, flexdol, artrim, colágenos, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis.",
+        ubicacion: "Calle 10 # 5-36 por la defensa civil",
+        telefono: "3162572997",
+        pagWeb: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
+        keywords: "salud, naturales, citrato de magnesio, ar17, flexdol, artrim, colageno, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis",
+        rutaInterna: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
+        correo: "rosalbaguzman18@gmail.com"
+    },
+
+    {
+        nombre: "Verónica Gamarra Giraldo Odontología",
+        imagen: "./img/odontologiaveronica.jpg",
+        descripcion: "El mejor momento para visitar al odontólogo es cuando no te duele nada. Crema Glister para la Sensibilidad Dental",
+        ubicacion: "Calle 11 # 4-64 consultorio 2",
+        telefono: "3172922417",
+        pagWeb: "",
+        keywords: "salud, odontologia. limpieza, tratamiento, crema dental",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Smaz Papelería y Miscelánea",
         imagen: "./img/smaz-papeleria.jpeg",
         descripcion: "Ven y conoce una forma diferente tierna y divertida en papelería, manejamos servicios de: fotocopias blanco y negro o a color, impresión láser, papelería general y papelería kawaii, miscelánea entre otros. Se vale antojarse!",
@@ -201,18 +237,6 @@ const negocios = [
         keywords: "transporte, ferreteria, baterias, cambios de aceite, tornilleria, mantenimiento preventivo, aceites, sistema de frenos, amortiguacion, filtros, herramienta, filtracion para aire acondicionado y sistema de refrigeración automotriz",
         rutaInterna: "./tienda-automotriz-calima/tienda-automotriz-calima.html",
         correo: "dianabetancourt80@gmail.com"
-    },
-
-    {
-        nombre: "Tienda Naturista Vive Mejor",
-        imagen: "./img/tiendanaturistavivemejor.jpeg",
-        descripcion: "Venta de productos naturales, citrato de magnesio, ar17, flexdol, artrim, colágenos, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis.",
-        ubicacion: "Calle 10 # 5-36 por la defensa civil",
-        telefono: "3162572997",
-        pagWeb: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
-        keywords: "salud, naturales, citrato de magnesio, ar17, flexdol, artrim, colageno, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis",
-        rutaInterna: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
-        correo: "rosalbaguzman18@gmail.com"
     },
 
     {
