@@ -36,18 +36,6 @@ const negocios = [
     },
 
     {
-        nombre: "Droguería Don Mauro",
-        imagen: "./img/drogueriadonmauro.jpeg",
-        descripcion: "La mejor atención con los precios que enamoran. Servicio a domicilio sin costo adicional.",
-        ubicacion: "Cra 5 # 9-31",
-        telefono: "3022691047",
-        pagWeb: "https://www.facebook.com/maurocaicedofotografia",
-        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recomendador, atencion, remedio, pasta, productos naturales",
-        rutaInterna: "https://www.facebook.com/maurocaicedofotografia",
-        correo: ""
-    },
-
-    {
         nombre: "La Colmena",
         imagen: "./img/lacolmena.jpeg",
         descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. Productos para la Salud y Belleza, también Papelería",
