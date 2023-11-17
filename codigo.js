@@ -12,6 +12,18 @@ const negocios = [
     },
     
     {
+        nombre: "Bomberos Darien",
+        imagen: "./img/bomberosdarien.jpeg",
+        descripcion: "Bomberos Darién",
+        ubicacion: "",
+        telefono: "3154170578",
+        pagWeb: "",
+        keywords: "bomberos, ambulancia",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Cholados Miluki",
         imagen: "./img/choladosmiluki.jpeg",
         descripcion: "Cholados Frutales, Raspados, Luladas, Maracuyadas, Obleas Frutales, Guanábanazo, Fresas con Crema, Smoothies (Batidos Frutales), Sándwiches, Wafles.",
@@ -23,6 +35,18 @@ const negocios = [
         correo: ""
     },
     
+    {
+        nombre: "Defensa Civil",
+        imagen: "./img/defensacivil.jpeg",
+        descripcion: "",
+        ubicacion: "Calle 10 # 5-36",
+        telefono: "3188463732",
+        pagWeb: "",
+        keywords: "defensa civil",
+        rutaInterna: "",
+        correo: ""
+    },
+
     {
         nombre: "Droguería Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
@@ -84,6 +108,18 @@ const negocios = [
     },
 
     {
+        nombre: "Hospital San Jorge",
+        imagen: "./img/hospitalsanjorge.jpeg",
+        descripcion: "",
+        ubicacion: "Darién",
+        telefono: "6022395008",
+        pagWeb: "",
+        keywords: "salud hospital",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Omar Burgos Chuletas y Almuerzos",
         imagen: "./img/chuleta.jpg",
         descripcion: "Se hacen chuletas y almuerzos por encargo.",
@@ -117,6 +153,18 @@ const negocios = [
         keywords: "insumos quimicos, mantenimiento, construccion, reparacion de piscinas, turcos, jacuzzis, fuentes, espejos de agua, redes eléctricas, redes de gas.",
         rutaInterna: "https://piscinasyaccesoriosrs.com/rs",
         correo: "info@piscinasyaccesoriosrs.com"
+    },
+
+    {
+        nombre: "Policía Cuadrante Darién",
+        imagen: "./img/policia.jpeg",
+        descripcion: "Policía Cuadrante Darién",
+        ubicacion: "Parque Principal",
+        telefono: "3172607745",
+        pagWeb: "",
+        keywords: "policia",
+        rutaInterna: "",
+        correo: ""
     },
 
     {
