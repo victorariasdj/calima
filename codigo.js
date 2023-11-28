@@ -22,18 +22,6 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
-
-    {
-        nombre: "Cholados Miluki",
-        imagen: "./img/choladosmiluki.jpeg",
-        descripcion: "Cholados Frutales, Raspados, Luladas, Maracuyadas, Obleas Frutales, Guanábanazo, Fresas con Crema, Smoothies (Batidos Frutales), Sándwiches, Wafles.",
-        ubicacion: "Calle 9 # 6-35",
-        telefono: "3158855846",
-        pagWeb: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
-        keywords: "comestibles, heladeria,  frutas, batidos, helado, bebidas, frio cholado frutales, raspados, lulo, luladas, maracuyadas, obleas frutales, guanabanazo, fresas con crema, smoothies, batidos frutales, sandwiches, wafles",
-        rutaInterna: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
-        correo: ""
-    },
     
     {
         nombre: "Defensa Civil",
@@ -141,6 +129,18 @@ const negocios = [
         keywords: "comestible, restaurante, pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
         rutaInterna: "",
         correo: ""
+    },
+
+    {
+        nombre: "Maquey Shoes Zapatillas",
+        imagen: "./img/maqueyzapatillas.jpeg",
+        descripcion: "Zapatillas a precio de bodega, calzado para hombre, mujer y niños, sistema de separado.",
+        ubicacion: "Calle 11- 7-85",
+        telefono: "3153730986",
+        pagWeb: "https://www.instagram.com/distribuidorariojagourmet/",
+        keywords: "zapatillas importadas, zapatos",
+        rutaInterna: "https://www.instagram.com/distribuidorariojagourmet/",
+        correo: "maquey11@hotmail.com"
     },
 
     {
