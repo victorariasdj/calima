@@ -204,18 +204,6 @@ const negocios = [
     },
 
     {
-        nombre: "Paga Rápido Calima",
-        imagen: "./img/pagarapidocalima.jpeg",
-        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
-        ubicacion: "Cra 6 # 14-40 a un costado del centro multipropósito (tesorería municipal) B/La Virgen.",
-        telefono: "3042842485",
-        pagWeb: "",
-        keywords: "giros, pago de servicios, seguro, soat, envios, inter, rapidisimo, servientrega, dhl, pago de servicios, certificado de tradicion, banco, corresponsal aval, falabella, davivienda, bancamia, suscripciones, netflix, amazon prime, spotify, recargas, compras amazon ebay",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
         nombre: "Rehabilitación y Diagnostico",
         imagen: "./img/rehabilitacionydiagnostico.jpeg",
         descripcion: "Electrocardiograma con reporte médico, Monitoreo Ambulatorio de Presión Arterial, Espirometria, Terapia Respiratoria, Lavado Nasal.",
