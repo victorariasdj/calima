@@ -72,6 +72,18 @@ const negocios = [
     },
 
     {
+        nombre: "FerreMundo Siglo 21",
+        imagen: "./img/ferremundo.png",
+        descripcion: "Autoservicio, electrodomésticos, tecnología, pinturas, accesorios, lavaplatos, estufas, pvc, tuberías de agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, varillas, hierro, etc...",
+        ubicacion: "calle 7 # 6-31 B/Obrero",
+        telefono: "3226167001",
+        pagWeb: "https://www.instagram.com/ferremundosiglo21/",
+        keywords: "ferreteria, autoservicio, electrodomesticos, tecnologia, pintura, accesorios, lavaplatos, estufa, tornilleria, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, varillas, hierro",
+        rutaInterna: "https://www.instagram.com/ferremundosiglo21/",
+        correo: "Ferremundosiglo21@gmail.com"
+    },
+
+    {
         nombre: "native english conversation",
         imagen: "./img/nativeenglish.jpeg",
         descripcion: "<b>Personalized Tutorials</b><br><br>* Phonetics<br>* Practical Skills",
@@ -108,18 +120,6 @@ const negocios = [
     },
 
     {
-        nombre: "Omar Burgos Chuletas y Almuerzos",
-        imagen: "./img/chuleta.jpg",
-        descripcion: "Se hacen chuletas y almuerzos por encargo.",
-        ubicacion: "Calle 12 # 5-35 san jorge",
-        telefono: "3187662037 - 3165537811",
-        pagWeb: "",
-        keywords: "chuleta, almuerzo, comestible",
-        rutaInterna: "",
-        correo: "mariaosorio2053@gmail.com	"
-    },
-
-    {
         nombre: "Mari's Pizza",
         imagen: "./img/marispizza.jpeg",
         descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
@@ -128,6 +128,18 @@ const negocios = [
         pagWeb: "",
         keywords: "comestible, restaurante, pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
         rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Mally Nails",
+        imagen: "./img/mallynails.jpeg",
+        descripcion: "Manicura semi, Pedicura semi, Forrado acrílico polygel, Kapping, Acrílicas esculpidas, tradicional para pies, etc…",
+        ubicacion: "Servicio a domicilio de Darién a Puente Tierra.",
+        telefono: "3116341633",
+        pagWeb: "https://www.instagram.com/mally_nailss/",
+        keywords: "uñas, manicura semi, pedicura, domicilio, forrado acrilico polygel, kapping, esculpidas, tradicional, pies",
+        rutaInterna: "https://www.instagram.com/mally_nailss/",
         correo: ""
     },
 
@@ -144,6 +156,30 @@ const negocios = [
     },
 
     {
+        nombre: "Mazamorra Maxi",
+        imagen: "./img/mazamorramaxi.jpeg",
+        descripcion: "Mazamorra y Champús Maxi 100% natural.",
+        ubicacion: "",
+        telefono: "3215076117",
+        pagWeb: "",
+        keywords: "mazamorra, Champus, comestible",
+        rutaInterna: "",
+        correo: "maxirojas1345@gmail.com"
+    },
+
+    {
+        nombre: "Omar Burgos Chuletas y Almuerzos",
+        imagen: "./img/chuleta.jpg",
+        descripcion: "Se hacen chuletas y almuerzos por encargo.",
+        ubicacion: "Calle 12 # 5-35 san jorge",
+        telefono: "3187662037 - 3165537811",
+        pagWeb: "",
+        keywords: "chuleta, almuerzo, comestible",
+        rutaInterna: "",
+        correo: "mariaosorio2053@gmail.com	"
+    },
+
+    {
         nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
         imagen: "./img/Piscinasrs.jpeg",
         descripcion: "<b>Abierto jornada continua toda la semana, domingos hasta la 1 pm.</b><br>Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas.",
@@ -156,6 +192,18 @@ const negocios = [
     },
 
     {
+        nombre: "Pizzería La Estación",
+        imagen: "./img/pizzerialaestacion.jpeg",
+        descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
+        ubicacion: "cra 8 # 11-49",
+        telefono: "3186093285 solo whatsapp.",
+        pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
+        keywords: "comestible sandwich, pizza, comida rapida.",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
+        correo: ""
+    },
+
+    {
         nombre: "Policía Cuadrante Darién",
         imagen: "./img/policia.jpeg",
         descripcion: "Policía Cuadrante Darién",
@@ -165,42 +213,6 @@ const negocios = [
         keywords: "policia",
         rutaInterna: "",
         correo: ""
-    },
-
-    {
-        nombre: "FerreMundo Siglo 21",
-        imagen: "./img/ferremundo.png",
-        descripcion: "Autoservicio, electrodomésticos, tecnología, pinturas, accesorios, lavaplatos, estufas, pvc, tuberías de agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, varillas, hierro, etc...",
-        ubicacion: "calle 7 # 6-31 B/Obrero",
-        telefono: "3226167001",
-        pagWeb: "https://www.instagram.com/ferremundosiglo21/",
-        keywords: "ferreteria, autoservicio, electrodomesticos, tecnologia, pintura, accesorios, lavaplatos, estufa, tornilleria, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, varillas, hierro",
-        rutaInterna: "https://www.instagram.com/ferremundosiglo21/",
-        correo: "Ferremundosiglo21@gmail.com"
-    },
-
-    {
-        nombre: "Mally Nails",
-        imagen: "./img/mallynails.jpeg",
-        descripcion: "Manicura semi, Pedicura semi, Forrado acrílico polygel, Kapping, Acrílicas esculpidas, tradicional para pies, etc…",
-        ubicacion: "Servicio a domicilio de Darién a Puente Tierra.",
-        telefono: "3116341633",
-        pagWeb: "https://www.instagram.com/mally_nailss/",
-        keywords: "uñas, manicura semi, pedicura, domicilio, forrado acrilico polygel, kapping, esculpidas, tradicional, pies",
-        rutaInterna: "https://www.instagram.com/mally_nailss/",
-        correo: ""
-    },
-
-    {
-        nombre: "Mazamorra Maxi",
-        imagen: "./img/mazamorramaxi.jpeg",
-        descripcion: "Mazamorra y Champús Maxi 100% natural.",
-        ubicacion: "",
-        telefono: "3215076117",
-        pagWeb: "",
-        keywords: "mazamorra, Champus, comestible",
-        rutaInterna: "",
-        correo: "maxirojas1345@gmail.com"
     },
 
     {
