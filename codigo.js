@@ -22,6 +22,18 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
+
+    {
+        nombre: "Cholados Miluki",
+        imagen: "./img/choladosmiluki.jpeg",
+        descripcion: "Cholados Frutales, Raspados, Luladas, Maracuyadas, Obleas Frutales, Guanábanazo, Fresas con Crema, Smoothies (Batidos Frutales), Sándwiches, Wafles.",
+        ubicacion: "Calle 9 # 6-35",
+        telefono: "3158855846",
+        pagWeb: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
+        keywords: "comestibles, heladeria,  frutas, batidos, helado, bebidas, frio cholado frutales, raspados, lulo, luladas, maracuyadas, obleas frutales, guanabanazo, fresas con crema, smoothies, batidos frutales, sandwiches, wafles",
+        rutaInterna: "https://instagram.com/cholados_miluki?igshid=MzMyNGUyNmU2YQ==",
+        correo: ""
+    },
     
     {
         nombre: "Defensa Civil",
@@ -44,6 +56,30 @@ const negocios = [
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
         keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
+        correo: ""
+    },
+
+    {
+        nombre: "Droguería María Rita Plus",
+        imagen: "./img/drogueriamariaritaplus.jpg",
+        descripcion: "Atendemos a nuestros clientes con cuidado y satisfacción servicio a domicilio.",
+        ubicacion: "Calle 11 # 4-73 Barrio San Jorge",
+        telefono: "3206353035 - 3176746329",
+        pagWeb: "",
+        keywords: "salud, drogueria, inyectologia, medicamento, suero",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Droguería Don Mauro",
+        imagen: "./img/drogueriadonmauro.jpeg",
+        descripcion: "La mejor atención con los precios que enamoran. Servicio a domicilio sin costo adicional.",
+        ubicacion: "Cra 5 # 9-31",
+        telefono: "3022691047",
+        pagWeb: "https://www.facebook.com/maurocaicedofotografia",
+        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recomendador, atencion, remedio, pasta, productos naturales",
+        rutaInterna: "https://www.facebook.com/maurocaicedofotografia",
         correo: ""
     },
 
@@ -72,6 +108,18 @@ const negocios = [
     },
 
     {
+        nombre: "El Pulguero Ramírez",
+        imagen: "./img/1.jpeg",
+        descripcion: "Antigüedades, muebles, bicicletas, ropa, zapatos, lámparas, detalles, y más…",
+        ubicacion: "Calle 12 # 6 - 41 por el comité de cafeteros",
+        telefono: "3007921673",
+        pagWeb: "https://buscadorcalima.com/el-pulguero-ramirez/el-pulguero-ramirez.html",
+        keywords: "antiguedades, muebles, bicicletas, ropa, zapatos, lamparas, detalles",
+        rutaInterna: "./el-pulguero-ramirez/el-pulguero-ramirez.html",
+        correo: "juliohernandez14978507@gmail.com"
+    },
+
+    {
         nombre: "FerreMundo Siglo 21",
         imagen: "./img/ferremundo.png",
         descripcion: "Autoservicio, electrodomésticos, tecnología, pinturas, accesorios, lavaplatos, estufas, pvc, tuberías de agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, varillas, hierro, etc...",
@@ -81,6 +129,54 @@ const negocios = [
         keywords: "ferreteria, autoservicio, electrodomesticos, tecnologia, pintura, accesorios, lavaplatos, estufa, tornilleria, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, varillas, hierro",
         rutaInterna: "https://www.instagram.com/ferremundosiglo21/",
         correo: "Ferremundosiglo21@gmail.com"
+    },
+
+    {
+        nombre: "FerreCalima 2",
+        imagen: "./img/ferrecalima2.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, combo sanitario, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería,  sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
+        ubicacion: "calle 12 # 7-03 B/Centro",
+        telefono: "3185974892 - 315 8943843",
+        pagWeb: "",
+        keywords: "ferreteria, servicio a domicilio, cemento, estuco, pinturas, tornilleria, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
+        rutaInterna: "",
+        correo: "ferrecalima2@gmail.com"
+    },
+
+    {
+        nombre: "FerreCampo",
+        imagen: "./img/ferrecampo.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, cemento, estuco, pinturas, tornillería, inodoros, pvc, tuberías agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro, etc...",
+        ubicacion: "Cra 7 # 12-09",
+        telefono: "3152058982",
+        pagWeb: "https://www.facebook.com/profile.php?id=100071732051191",
+        keywords: "ferreteria, cemento, estuco, pinturas, tornilleria, servicio a domicilio, inodoros, pvc, tuberias agua, candados, cascos, viseras protectoras, ceramica, perfileria, sika, lijas, pulidora, material de rio, balastro, triturado, arena, varillas, hierro",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100071732051191",
+        correo: "ferrecampocalima@gmail.com	"
+    },
+
+    {
+        nombre: "Ferretería Medellín",
+        imagen: "./img/ferreteria-medellin.jpeg",
+        descripcion: "Venta de materiales para construcción, servicio a domicilio, pintura, eternit, pvc, lijas, cemento, estuco, alquiler de andamios, productos de aseo.",
+        ubicacion: "Carrera 7 # 11-49 B/Centro",
+        telefono: "3154068031",
+        pagWeb: "",
+        keywords: "ferreteria, construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico",
+        rutaInterna: "",
+        correo: "evergiraldo1@hotmail.com"
+    },
+
+    {
+        nombre: "Línea Electrónica",
+        imagen: "./img/lineaelectronica.jpeg",
+        descripcion: "Servicio técnico, Mantenimiento, reparación y venta de equipos electrónicos.",
+        ubicacion: "Cra 7 # 12-40",
+        telefono: "3176737455",
+        pagWeb: "",
+        keywords: "linea electronica, electricista, cables, mantenimiento, reparacion, electronico, televisores, electrodomesticos servicio tecnico",
+        rutaInterna: "",
+        correo: ""
     },
 
     {
@@ -174,7 +270,7 @@ const negocios = [
         ubicacion: "Calle 12 # 5-35 san jorge",
         telefono: "3187662037 - 3165537811",
         pagWeb: "",
-        keywords: "chuleta, almuerzo, comestible",
+        keywords: "chuleta, almuerzo, restaurante, comestible",
         rutaInterna: "",
         correo: "mariaosorio2053@gmail.com	"
     },
@@ -198,7 +294,7 @@ const negocios = [
         ubicacion: "cra 8 # 11-49",
         telefono: "3186093285 solo whatsapp.",
         pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
-        keywords: "comestible sandwich, pizza, comida rapida.",
+        keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
         rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
         correo: ""
     },
@@ -237,6 +333,30 @@ const negocios = [
         keywords: "salud, naturales, citrato de magnesio, ar17, flexdol, artrim, colageno, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis",
         rutaInterna: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
         correo: "rosalbaguzman18@gmail.com"
+    },
+
+    {
+        nombre: "Tornillería JM Calima",
+        imagen: "./img/frente-frente.jpg",
+        descripcion: "Tornilleria JM tiene para ofrecerles variedad en productos como:<br><br>Arandelas, tuercas, tornilleria en general, herramientas eléctricas y manuales, soldadura acero inoxidable y aluminio, puntillas, bisagras, remaches, chapas lijas, aerosoles, brocas, rodillos, aceite, filtros, racores de aire, escobillas, mangueras, discos en general de corte, llaves hexagonales, copas, rache, destornilladores, candados, abrazaderas, amarras plásticas, nylon para guadaña, herramientas manuales agrícolas, varilla roscada, pines, pernos, variedad en electricos para el hogar, manilas, copas sierra y diamantadas, siliconas, guayas, cintas reflectivas, grasa, cadena, tubo cortineros, guantes, roda-chines, gafas , cancamos, cinta aislante y de enmascarar y otros.",
+        ubicacion: "calle 12 # 7-46 Centro",
+        telefono: "3182216194",
+        pagWeb: "https://buscadorcalima.com/tornilleria-jm-calima/tornilleria-jm-calima.html",
+        keywords: "tornillos, ferreteria, pegantes, brochas, aerosoles, discos de corte, aceites grasas, refrigerantes, líquido para frenos, desengrasantes, filtros motor, filtros aire, orring, tuercas, arandelas, aerosoles, tarrajas, brocas, prisioneros, herramientas manuales, palas, picas, barretón, sesión, machetes, limas, seguetas, palas para jardinería, serrucho, hola de segunda, clavija",
+        rutaInterna: "./tornilleria-jm-calima/tornilleria-jm-calima.html",
+        correo: ""
+    },
+
+    {
+        nombre: "Triplex y Molduras Jose",
+        imagen: "./img/tripex-molduras-jose.jpeg",
+        descripcion: "Ventas de retales de tripex y Listonería. MDF, molduras, machimbre, tendidos de cama, tintillas, laca, sellador, carpincol, barniz, etc…",
+        ubicacion: "Cra 6 # 11-27",
+        telefono: "3169238817",
+        pagWeb: "",
+        keywords: "Triplex, mdf, molduras, machimbre, tendidos de cama, listones, tintillas, laca, sellador, carpincol, barniz",
+        rutaInterna: "",
+        correo: "jloe991@hotmail.com"
     },
 
     {
