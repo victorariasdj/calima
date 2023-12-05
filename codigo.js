@@ -60,42 +60,6 @@ const negocios = [
     },
 
     {
-        nombre: "Droguería María Rita Plus",
-        imagen: "./img/drogueriamariaritaplus.jpg",
-        descripcion: "Atendemos a nuestros clientes con cuidado y satisfacción servicio a domicilio.",
-        ubicacion: "Calle 11 # 4-73 Barrio San Jorge",
-        telefono: "3206353035 - 3176746329",
-        pagWeb: "",
-        keywords: "salud, drogueria, inyectologia, medicamento, suero",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
-        nombre: "Droguería Don Mauro",
-        imagen: "./img/drogueriadonmauro.jpeg",
-        descripcion: "La mejor atención con los precios que enamoran. Servicio a domicilio sin costo adicional.",
-        ubicacion: "Cra 5 # 9-31",
-        telefono: "3022691047",
-        pagWeb: "https://www.facebook.com/maurocaicedofotografia",
-        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recomendador, atencion, remedio, pasta, productos naturales",
-        rutaInterna: "https://www.facebook.com/maurocaicedofotografia",
-        correo: ""
-    },
-
-    {
-        nombre: "La Colmena",
-        imagen: "./img/lacolmena.jpeg",
-        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. Productos para la Salud y Belleza, también Papelería",
-        ubicacion: "Calle 11 # 8-15",
-        telefono: "3165651241",
-        pagWeb: "",
-        keywords: "salud, belleza, estetica facial y corporal, papeleria",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
         nombre: "Encanto Calima",
         imagen: "./img/encanto-calima-sala-de-estar.png",
         descripcion: "<b>6 huéspedes, 3 habitaciones, 4 camas, 2 baños.</b><br><br>Encanto Calima es una casa familiar ubicada en una zona residencial tranquila, a 5 cuadras de la zona centro del municipio. Cuenta con una distribución y espacios cómodos divididos en tres habitaciones, con dos baños, cocina, comedor, sala, espacio de lavado y wi fi. Además cuenta con un espacio para parquear al frente de la casa.",
@@ -165,6 +129,18 @@ const negocios = [
         keywords: "ferreteria, construccion, pintura, eternit, pvc, lija, cemento, estuco, andamios, aseo, electrico",
         rutaInterna: "",
         correo: "evergiraldo1@hotmail.com"
+    },
+
+    {
+        nombre: "La Colmena",
+        imagen: "./img/lacolmena.jpeg",
+        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. Productos para la Salud y Belleza, también Papelería",
+        ubicacion: "Calle 11 # 8-15",
+        telefono: "3165651241",
+        pagWeb: "",
+        keywords: "salud, belleza, estetica facial y corporal, papeleria",
+        rutaInterna: "",
+        correo: ""
     },
 
     {
@@ -428,6 +404,30 @@ const negocios = [
         pagWeb: "",
         keywords: "comestible, yogurt, yogurt griego, uva, fresa",
         rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Droguería María Rita Plus",
+        imagen: "./img/drogueriamariaritaplus.jpg",
+        descripcion: "Atendemos a nuestros clientes con cuidado y satisfacción servicio a domicilio.",
+        ubicacion: "Calle 11 # 4-73 Barrio San Jorge",
+        telefono: "3206353035 - 3176746329",
+        pagWeb: "",
+        keywords: "salud, drogueria, inyectologia, medicamento, suero",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Droguería Don Mauro",
+        imagen: "./img/drogueriadonmauro.jpeg",
+        descripcion: "La mejor atención con los precios que enamoran. Servicio a domicilio sin costo adicional.",
+        ubicacion: "Cra 5 # 9-31",
+        telefono: "3022691047",
+        pagWeb: "https://www.facebook.com/maurocaicedofotografia",
+        keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recomendador, atencion, remedio, pasta, productos naturales",
+        rutaInterna: "https://www.facebook.com/maurocaicedofotografia",
         correo: ""
     },
 
