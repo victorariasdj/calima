@@ -13,7 +13,7 @@ const negocios = [
 
     {
         nombre: "Alejo Platanitos",
-        imagen: "./img/platanitos.jpeg",
+        imagen: "./img/alejoplatanitos.png",
         descripcion: "Platanitos Verdes y Maduros",
         ubicacion: "",
         telefono: "3154165229",
