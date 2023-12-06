@@ -10,6 +10,18 @@ const negocios = [
         rutaInterna: "https://www.facebook.com/profile.php?id=100083593561734",
         correo: "ancellmobileshop@gmail.com"
     },
+
+    {
+        nombre: "Alejo Platanitos",
+        imagen: "./img/platanitos.jpeg",
+        descripcion: "Platanitos Verdes y Maduros",
+        ubicacion: "",
+        telefono: "3154165229",
+        pagWeb: "",
+        keywords: "comestibles, platanos, platanitos, alejo",
+        rutaInterna: "",
+        correo: ""
+    },
     
     {
         nombre: "Bomberos Darien",
