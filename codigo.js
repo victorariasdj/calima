@@ -216,6 +216,18 @@ const negocios = [
     },
 
     {
+        nombre: "Mr. Pig Chicharrones",
+        imagen: "./img/MR-PIG-DEFINITIVO.png",
+        descripcion: "Chicharrones y platos para carnívoros, comparte en familia o con amigos. Entrega a domicilio.",
+        ubicacion: "Carrera 8 # 10-41, Darién,",
+        telefono: "3127960372",
+        pagWeb: "https://www.facebook.com/profile.php?id=61553636014178",
+        keywords: "comestible, restaurante, servicio a domicilio, chicharrones, chorizo",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61553636014178",
+        correo: "chicharronesdelocura@gmail.com"
+    },
+
+    {
         nombre: "Mally Nails",
         imagen: "./img/mallynails.jpeg",
         descripcion: "Manicura semi, Pedicura semi, Forrado acrílico polygel, Kapping, Acrílicas esculpidas, tradicional para pies, etc…",
