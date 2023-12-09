@@ -60,6 +60,18 @@ const negocios = [
     },
 
     {
+        nombre: "Diego Henao Entretaiment y Venta de Propiedad Raíz.",
+        imagen: "./img/diegohenao.jpeg",
+        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
+        ubicacion: "",
+        telefono: "3176406226",
+        pagWeb: "https://www.facebook.com/diego.henao.714",
+        keywords: "hotel, finca montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
+        rutaInterna: "https://www.facebook.com/diego.henao.714",
+        correo: ""
+    },
+
+    {
         nombre: "Droguería Don Victor",
         imagen: "./drogueria-don-victor/drogueria.jpg",
         descripcion: "Droguería y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectología",
@@ -414,7 +426,7 @@ const negocios = [
         ubicacion: "Colombia",
         telefono: "3163251628",
         pagWeb: "https://victorarias.eth.limo/",
-        keywords: "dj, música electrónica,matenimiento, técnico de computadores, desarrollador web, mezcla, master, audio, clases personalizadas, producción musical.",
+        keywords: "dj, musica electronica, entretenimiento, matenimiento, tecnico de computadores, desarrollador web, mezcla, master, audio, clases personalizadas, produccion musical.",
         rutaInterna: "https://victorarias.eth.limo/",
         correo: "djvictor_arias@hotmail.com"
     },
