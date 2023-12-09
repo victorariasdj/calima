@@ -66,7 +66,7 @@ const negocios = [
         ubicacion: "",
         telefono: "3176406226",
         pagWeb: "https://www.facebook.com/diego.henao.714",
-        keywords: "hotel, finca montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
+        keywords: "hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
         rutaInterna: "https://www.facebook.com/diego.henao.714",
         correo: ""
     },
@@ -426,7 +426,7 @@ const negocios = [
         ubicacion: "Colombia",
         telefono: "3163251628",
         pagWeb: "https://victorarias.eth.limo/",
-        keywords: "dj, musica electronica, entretenimiento, matenimiento, tecnico de computadores, desarrollador web, mezcla, master, audio, clases personalizadas, produccion musical.",
+        keywords: "dj, musica electronica, matenimiento, tecnico de computadores, desarrollador web, mezcla, master, audio, clases personalizadas, produccion musical.",
         rutaInterna: "https://victorarias.eth.limo/",
         correo: "djvictor_arias@hotmail.com"
     },
