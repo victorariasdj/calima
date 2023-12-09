@@ -60,7 +60,7 @@ const negocios = [
     },
 
     {
-        nombre: "Diego Henao Entretaiment y Venta de Propiedad Raíz.",
+        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
         imagen: "./img/diegohenao.jpeg",
         descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
         ubicacion: "",
