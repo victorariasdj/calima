@@ -372,6 +372,18 @@ const negocios = [
     },
 
     {
+        nombre: "TransCalima",
+        imagen: "./img/bus.jpg",
+        descripcion: "<b>DARIÉN - BUGA</b><br><br>DARIÉN - BUGA (VÍA LA CECILIA)<br>7:00 a.m. - 05:00 p.m.<br><br> DARIÉN - BUGA (VÍA LAGO CALIMA)<br>06:30 a.m. - 8:30 a.m. - 11:00 a.m.1:30 p.m. - 3:30 p.m. - 6:00 p.m.</br></br>DARIÉN - BUGA (VÍA JIGUALES)</br>5:30 a.m. - 6:00 a.m. - 7:30 a.m. - 8:00 a.m. - 9:00 a.m. - 9:30 a.m. - 10:00 a.m. - 10:30 a.m. - 11:30 a.m. - 12:00 p.m. - 12:30 p.m. - 1:00 p.m. - 2:00 p.m. - 2:30 p.m. - 3:00 p.m. - 4:00 p.m. - 4:30 p.m. - 5:30 p.m. - 6:30 p.m.<br><br><b>BUGA - DARIÉN</b><br><br>BUGA - DARIÉN (VÍA JIGUALES)<br>6:00 a.m. - 7:00 a.m. - 7:30 a.m. - 9:00 a.m. - 9:30 a.m. - 10:00 a.m. - 10:30 a.m. - 11:30 a.m. - 12:00 p.m. - 1:00 p.m. - 1:30 p.m. - 2:30 p.m. - 3:00 p.m. - 3:30 p.m. - 5:00 p.m. - 5:30 p.m. - 6:00 p.m. - 7:00 p.m.<br><br> BUGA - DARIÉN (VÍA LA CECILIA)<br>8:00 a.m. - 4:30 p.m.<br><br>BUGA - DARIÉN ( VÍA LAGO CALIMA)<br>6:30 a.m. - 8:30 a.m. - 11:00 a.m. - 12:30 p.m. - 2:00 p.m. - 4:00 p.m. -  6:30 p.m.<br><br><b>DARIÉN - CALI</b><br><br>DARIÉN - CALI (VÍA DAGUA)<br>6:00 a.m. - 8:00 a.m - 4:00 p. m.<br><br>DARIÉN CALI (VÍA JIGUALES)<br>5:00 a.m. - 7:00 a.m. - 11:00 a.m. - 03:00 p.m. - 6:00 p.m.<br><br>DARIÉN - CALI (VÍA LAGO CALIMA)<br>9:00 a.m. - 10:00 a.m. - 12:00 p.m.1:00 p.m. - 2:00 p.m. - 5:00 p.m.<br><br><b>CALI - DARIÉN</b><br><br>CALI - DARIÉN (VÍA DAGUA)<br>7:00 a.m. - 3:00 p.m. - 4:30 p.m.<br><br>CALI - DARIÉN (VÍA JIGUALES)<br>10:00 a.m. - 1:00 p.m. - 4:00 p.m. - 6:30 p.m.<br><br>CALI - DARIÉN (VÍA LAGO CALIMA)<br>6:00 a.m. - 8:00 a.m. - 9:00 a.m. - 11:00 a.m. - 12:00 p.m. - 2:00 p.m. - 5:30 p.m.",
+        ubicacion: "",
+        telefono: "3108494364",
+        pagWeb: "https://transportescalima.com/",
+        keywords: "transcalima, transporte, bus, horario",
+        rutaInterna: "https://transportescalima.com/",
+        correo: "info@transportescalima.com"
+    },
+
+    {
         nombre: "Verónica Gamarra Giraldo Odontología",
         imagen: "./img/odontologiaveronica.jpg",
         descripcion: "El mejor momento para visitar al odontólogo es cuando no te duele nada. Crema Glister para la Sensibilidad Dental",
