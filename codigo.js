@@ -168,6 +168,18 @@ const negocios = [
     },
 
     {
+        nombre: "Lashes Alexa",
+        imagen: "./img/lashesalexa.jpg",
+        descripcion: "Extensiones de pestañas, pelo a pelo.",
+        ubicacion: "Dirección: Calle 6A # 2-63 BARRIO CANADA",
+        telefono: "3136303446 - 3233478113",
+        pagWeb: "https://www.facebook.com/lashes.Darien",
+        keywords: "pestañas, belleza, estetica facial,",
+        rutaInterna: "https://www.facebook.com/lashes.Darien",
+        correo: ""
+    },
+
+    {
         nombre: "Línea Electrónica",
         imagen: "./img/lineaelectronica.jpeg",
         descripcion: "Servicio técnico, Mantenimiento, reparación y venta de equipos electrónicos.",
@@ -273,6 +285,18 @@ const negocios = [
         keywords: "mazamorra, Champus, comestible",
         rutaInterna: "",
         correo: "maxirojas1345@gmail.com"
+    },
+
+    {
+        nombre: "Nirvano Store",
+        imagen: "./img/nirvano.jpg",
+        descripcion: "Somos una Marca Orgullosa de pertenecer a Nuestro Calima el Darién<br>Somos embajadores representativos.",
+        ubicacion: "Enseguida de la Fiscalía de Calima el Darién",
+        telefono: "3215997446",
+        pagWeb: "https://www.facebook.com/zapatosdarien",
+        keywords: "zapatos, calzado, zapatillas, tienda, store, calidad, economía, versatilidad",
+        rutaInterna: "https://www.facebook.com/zapatosdarien",
+        correo: ""
     },
 
     {
