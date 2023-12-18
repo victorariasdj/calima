@@ -171,7 +171,7 @@ const negocios = [
         nombre: "Lashes Alexa",
         imagen: "./img/lashesalexa.jpg",
         descripcion: "Extensiones de pestañas, pelo a pelo.",
-        ubicacion: "Dirección: Calle 6A # 2-63 BARRIO CANADA",
+        ubicacion: "Calle 6A # 2-63 BARRIO CANADA",
         telefono: "3136303446 - 3233478113",
         pagWeb: "https://www.facebook.com/lashes.Darien",
         keywords: "pestañas, belleza, estetica facial,",
