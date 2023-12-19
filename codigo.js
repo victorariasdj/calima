@@ -328,7 +328,7 @@ const negocios = [
         imagen: "./img/pizzerialaestacion.jpeg",
         descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
         ubicacion: "cra 8 # 11-49",
-        telefono: "3186093285 solo whatsapp.",
+        telefono: "3154799993 - 3186307966",
         pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
         keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
         rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
