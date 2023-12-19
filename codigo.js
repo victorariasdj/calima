@@ -228,6 +228,30 @@ const negocios = [
     },
 
     {
+        nombre: "Pizzería La Estación",
+        imagen: "./img/pizzerialaestacion.jpeg",
+        descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
+        ubicacion: "cra 8 # 11-49",
+        telefono: "3154799993 - 3186307966",
+        pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
+        keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
+        correo: ""
+    },
+
+    {
+        nombre: "Omar Burgos Chuletas y Almuerzos",
+        imagen: "./img/chuleta.jpeg",
+        descripcion: "Se hacen chuletas y almuerzos por encargo.",
+        ubicacion: "Calle 12 # 5-35 san jorge",
+        telefono: "3164568549 - 3165537811",
+        pagWeb: "",
+        keywords: "chuleta, almuerzo, restaurante, comestible",
+        rutaInterna: "",
+        correo: "mariaosorio2053@gmail.com	"
+    },
+
+    {
         nombre: "Mari's Pizza",
         imagen: "./img/marispizza.jpeg",
         descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
@@ -300,18 +324,6 @@ const negocios = [
     },
 
     {
-        nombre: "Omar Burgos Chuletas y Almuerzos",
-        imagen: "./img/chuleta.jpeg",
-        descripcion: "Se hacen chuletas y almuerzos por encargo.",
-        ubicacion: "Calle 12 # 5-35 san jorge",
-        telefono: "3164568549 - 3165537811",
-        pagWeb: "",
-        keywords: "chuleta, almuerzo, restaurante, comestible",
-        rutaInterna: "",
-        correo: "mariaosorio2053@gmail.com	"
-    },
-
-    {
         nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
         imagen: "./img/Piscinasrs.jpeg",
         descripcion: "<b>Abierto jornada continua toda la semana, domingos hasta la 1 pm.</b><br>Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas.",
@@ -321,18 +333,6 @@ const negocios = [
         keywords: "insumos quimicos, mantenimiento, construccion, reparacion de piscinas, turcos, jacuzzis, fuentes, espejos de agua, redes eléctricas, redes de gas.",
         rutaInterna: "https://piscinasyaccesoriosrs.com/rs",
         correo: "info@piscinasyaccesoriosrs.com"
-    },
-
-    {
-        nombre: "Pizzería La Estación",
-        imagen: "./img/pizzerialaestacion.jpeg",
-        descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
-        ubicacion: "cra 8 # 11-49",
-        telefono: "3154799993 - 3186307966",
-        pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
-        keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
-        correo: ""
     },
 
     {
