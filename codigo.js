@@ -1,17 +1,5 @@
 const negocios = [
     {
-        nombre: "Ancell Mobile Shop",
-        imagen: "./img/ancell.jpeg",
-        descripcion: "<b>Reparación, servicio técnico, celulares,</b> vidrio protector, cargadores, carcasas, pantallas,  display, cables, audífonos, papel craft, , artesanías,  fotocopias, impresiones, papelería, cerámica.",
-        ubicacion: "Calle 7 # 8-04 b/Obrero diagonal a la escuela María Inmaculada.",
-        telefono: "3182732827",
-        pagWeb: "https://www.facebook.com/profile.php?id=100083593561734",
-        keywords: "reparacion, servicio tecnico, celulares, vidrio protector, cargadores, carcasas, pantallas,  display, cables, audifonos, papel craft, , artesanias,  fotocopias, impresiones, papeleria, ceramica",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100083593561734",
-        correo: "ancellmobileshop@gmail.com"
-    },
-
-    {
         nombre: "Alejo Platanitos",
         imagen: "./img/alejoplatanitos.png",
         descripcion: "Platanitos Verdes y Maduros",
@@ -49,7 +37,7 @@ const negocios = [
 
     {
         nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
-        imagen: "./img/diegohenao.jpeg",
+        imagen: "./img/diegohenao1.jpeg",
         descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
         ubicacion: "",
         telefono: "3176406226",
@@ -269,9 +257,9 @@ const negocios = [
         descripcion: "Zapatillas a precio de bodega, calzado para hombre, mujer y niños, sistema de separado.",
         ubicacion: "Calle 11- 7-85",
         telefono: "3249256393",
-        pagWeb: "https://www.instagram.com/distribuidorariojagourmet/",
+        pagWeb: "https://www.facebook.com/profile.php?id=61555275853333&mibextid=ZbWKwL",
         keywords: "zapatillas importadas, zapatos",
-        rutaInterna: "https://www.instagram.com/distribuidorariojagourmet/",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61555275853333&mibextid=ZbWKwL",
         correo: "maquey11@hotmail.com"
     },
 
