@@ -264,11 +264,11 @@ const negocios = [
     },
 
     {
-        nombre: "Maquey Shoes Zapatillas",
+        nombre: "STAR SHOES Zapatillas",
         imagen: "./img/maqueyzapatillas.jpeg",
         descripcion: "Zapatillas a precio de bodega, calzado para hombre, mujer y niños, sistema de separado.",
         ubicacion: "Calle 11- 7-85",
-        telefono: "3153730986",
+        telefono: "3249256393",
         pagWeb: "https://www.instagram.com/distribuidorariojagourmet/",
         keywords: "zapatillas importadas, zapatos",
         rutaInterna: "https://www.instagram.com/distribuidorariojagourmet/",
