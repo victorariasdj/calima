@@ -25,18 +25,20 @@ let fa_xmark = document.querySelector('#fa_xmark');
         fa_xmark.style.display = "none";
     })
 
-    function copiarTexto() {
-        var texto = document.getElementById("texto-copiar").textContent;
+    function copiarTexto(id) {
+        var texto = document.getElementById(id).textContent;
     
         navigator.clipboard.writeText(texto)
             .then(() => {
-                var boton = document.querySelector("button");
+                let boton = document.querySelector(`button[data-id="${id}"]`);
                 boton.innerHTML = "¡Copiado!";
             })
             .catch(err => {
                 console.error("Error al copiar el texto:", err);
             });
     }
+
+    
 
 const btnArriba = document.querySelector("#btn-arriba");
 
