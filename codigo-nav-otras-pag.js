@@ -30,7 +30,7 @@ let fa_xmark = document.querySelector('#fa_xmark');
     
         navigator.clipboard.writeText(texto)
             .then(() => {
-                let boton = document.querySelector(`button[data-id="${id}"]`);
+                let boton = document.querySelector(`button[data-id="boton${id.charAt(id.length-1)}"]`);
                 boton.innerHTML = "¡Copiado!";
             })
             .catch(err => {
