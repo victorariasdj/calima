@@ -156,18 +156,6 @@ const negocios = [
     },
 
     {
-        nombre: "Línea Electrónica",
-        imagen: "./img/lineaelectronica.jpeg",
-        descripcion: "Servicio técnico, Mantenimiento, reparación y venta de equipos electrónicos.",
-        ubicacion: "Cra 7 # 12-40",
-        telefono: "3176737455",
-        pagWeb: "",
-        keywords: "linea electronica, electricista, cables, mantenimiento, reparacion, electronico, televisores, electrodomesticos servicio tecnico",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
         nombre: "native english conversation",
         imagen: "./img/nativeenglish.jpeg",
         descripcion: "<b>Personalized Tutorials</b><br><br>* Phonetics<br>* Practical Skills",
