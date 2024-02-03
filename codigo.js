@@ -325,7 +325,7 @@ const negocios = [
 
     {
         nombre: "Tienda Naturista Vive Mejor",
-        imagen: "./img/tiendanaturistavivemejor.jpeg",
+        imagen: "./img/tiendanaturistavivemejor1.jpeg",
         descripcion: "Venta de productos naturales, citrato de magnesio, ar17, flexdol, artrim, colágenos, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis.",
         ubicacion: "Calle 10 # 5-36 por la defensa civil",
         telefono: "3162572997",
