@@ -72,18 +72,6 @@ const negocios = [
     },
 
     {
-        nombre: "El Pulguero Ramírez",
-        imagen: "./img/1.jpeg",
-        descripcion: "Antigüedades, muebles, bicicletas, ropa, zapatos, lámparas, detalles, y más…",
-        ubicacion: "Calle 12 # 6 - 41 por el comité de cafeteros",
-        telefono: "3007921673",
-        pagWeb: "https://buscadorcalima.com/el-pulguero-ramirez/el-pulguero-ramirez.html",
-        keywords: "antiguedades, muebles, bicicletas, ropa, zapatos, lamparas, detalles",
-        rutaInterna: "./el-pulguero-ramirez/el-pulguero-ramirez.html",
-        correo: "juliohernandez14978507@gmail.com"
-    },
-
-    {
         nombre: "FerreMundo Siglo 21",
         imagen: "./img/ferremundo.png",
         descripcion: "Autoservicio, electrodomésticos, tecnología, pinturas, accesorios, lavaplatos, estufas, pvc, tuberías de agua, candados, cascos, viseras protectoras, cerámica, perfilería, sika, lijas, pulidora, varillas, hierro, etc...",
@@ -194,7 +182,7 @@ const negocios = [
     {
         nombre: "Omar Burgos Chuletas y Almuerzos",
         imagen: "./img/chuleta.jpeg",
-        descripcion: "Se hacen chuletas y almuerzos por encargo.",
+        descripcion: "Se hacen chuletas por encargo.",
         ubicacion: "Calle 12 # 5-35 san jorge",
         telefono: "3164568549 - 3165537811",
         pagWeb: "",
