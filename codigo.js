@@ -42,20 +42,8 @@ const negocios = [
         ubicacion: "Lago Calima",
         telefono: "3187901764",
         pagWeb: "https://www.facebook.com/profile.php?id=100063727833697",
-        keywords: "hotel, finca, alquiler, finca, piscina natural, acuático, jet ski, lancha, jacuzzi",
+        keywords: "hotel, entretenimiento, finca, alquiler, finca, piscina natural, acuático, jet ski, lancha, jacuzzi",
         rutaInterna: "https://www.facebook.com/profile.php?id=100063727833697",
-        correo: ""
-    },
-
-    {
-        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
-        imagen: "./img/diegohenao1.jpeg",
-        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
-        ubicacion: "",
-        telefono: "3176406226",
-        pagWeb: "https://www.facebook.com/diego.henao.714",
-        keywords: "hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
-        rutaInterna: "https://www.facebook.com/diego.henao.714",
         correo: ""
     },
 
@@ -92,18 +80,6 @@ const negocios = [
         pagWeb: "",
         keywords: "salud, belleza, estetica facial y corporal, papeleria",
         rutaInterna: "",
-        correo: ""
-    },
-
-    {
-        nombre: "Lashes Alexa",
-        imagen: "./img/lashesalexa.jpg",
-        descripcion: "Extensiones de pestañas, pelo a pelo.",
-        ubicacion: "Calle 6A # 2-63 BARRIO CANADA",
-        telefono: "3136303446 - 3233478113",
-        pagWeb: "https://www.facebook.com/lashes.Darien",
-        keywords: "pestañas, belleza, estetica facial,",
-        rutaInterna: "https://www.facebook.com/lashes.Darien",
         correo: ""
     },
 
