@@ -18,7 +18,7 @@ const negocios = [
         ubicacion: "",
         telefono: "3154170578",
         pagWeb: "",
-        keywords: "bomberos, ambulancia",
+        keywords: "emergencias, bomberos, ambulancia",
         rutaInterna: "",
         correo: ""
     },
@@ -30,7 +30,7 @@ const negocios = [
         ubicacion: "Calle 10 # 5-36",
         telefono: "3188463732",
         pagWeb: "",
-        keywords: "defensa civil",
+        keywords: "emergencias, defensa civil",
         rutaInterna: "",
         correo: ""
     },
@@ -66,7 +66,7 @@ const negocios = [
         ubicacion: "Darién",
         telefono: "6022395008",
         pagWeb: "",
-        keywords: "salud hospital",
+        keywords: "emergencias, salud, hospital",
         rutaInterna: "",
         correo: ""
     },
@@ -162,7 +162,7 @@ const negocios = [
         ubicacion: "Calle 11- 7-85",
         telefono: "3249256393",
         pagWeb: "https://www.facebook.com/profile.php?id=61555275853333&mibextid=ZbWKwL",
-        keywords: "zapatillas importadas, zapatos",
+        keywords: "ropa, calzado, zapatillas importadas, zapatos",
         rutaInterna: "https://www.facebook.com/profile.php?id=61555275853333&mibextid=ZbWKwL",
         correo: "maquey11@hotmail.com"
     },
@@ -174,7 +174,7 @@ const negocios = [
         ubicacion: "Enseguida de la Fiscalía de Calima el Darién",
         telefono: "3215997446",
         pagWeb: "https://www.facebook.com/zapatosdarien",
-        keywords: "zapatos, calzado, zapatillas, tienda, store, calidad, economía, versatilidad",
+        keywords: "ropa, zapatos, calzado, zapatillas, tienda, store, calidad, economía, versatilidad",
         rutaInterna: "https://www.facebook.com/zapatosdarien",
         correo: ""
     },
@@ -198,7 +198,7 @@ const negocios = [
         ubicacion: "Parque Principal",
         telefono: "3172607745",
         pagWeb: "",
-        keywords: "policia",
+        keywords: "emergencias, policia",
         rutaInterna: "",
         correo: ""
     },
