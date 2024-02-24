@@ -48,6 +48,18 @@ const negocios = [
     },
 
     {
+        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
+        imagen: "./img/diegohenao1.jpeg",
+        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
+        ubicacion: "",
+        telefono: "3176406226",
+        pagWeb: "https://www.facebook.com/diego.henao.714",
+        keywords: "hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
+        rutaInterna: "https://www.facebook.com/diego.henao.714",
+        correo: ""
+    },
+
+    {
         nombre: "Hospital San Jorge",
         imagen: "./img/hospitalsanjorge.jpeg",
         descripcion: "",
@@ -158,7 +170,7 @@ const negocios = [
     {
         nombre: "Nirvano Store",
         imagen: "./img/nirvano.jpg",
-        descripcion: "Somos una Marca Orgullosa de pertenecer a Nuestro Calima el Darién<br>Somos embajadores representativos.",
+        descripcion: "Somos una Tienda que siempre esta innovando, que te ofrece los mejores productos, al mejor precio y con la mejor atención. Verte bien, es sentirte bien, Marca Orgullosa de pertenecer a Nuestro Calima el Darién.",
         ubicacion: "Enseguida de la Fiscalía de Calima el Darién",
         telefono: "3215997446",
         pagWeb: "https://www.facebook.com/zapatosdarien",
