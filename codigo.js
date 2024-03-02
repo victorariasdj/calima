@@ -181,9 +181,9 @@ const negocios = [
 
     {
         nombre: "Paga Rápido Calima",
-        imagen: "./img/pagarapidocalima1.jpeg",
+        imagen: "./img/pagarapidojuzgado.jpeg",
         descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
-        ubicacion: "Cra 6 # 8-78 Barrio Centro, Diagonal a la Salsamentaría 2000.",
+        ubicacion: "Calle 12 # 7-57 centro, al lado del juzgado.",
         telefono: "3042842485",
         pagWeb: "",
         keywords: "giros, pago de servicios, seguro, soat, envios, inter, rapidisimo, servientrega, dhl, pago de servicios, certificado de tradicion, banco, corresponsal aval, falabella, davivienda, bancamia, suscripciones, netflix, amazon prime, spotify, recargas, compras amazon ebay",
