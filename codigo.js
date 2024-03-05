@@ -10,6 +10,18 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
+
+    {
+        nombre: "Belleza & Bienestar Spa",
+        imagen: "./img/bellezaybienestarspa.jpeg",
+        descripcion: "Descubre la excelencia en tratamientos faciales y corporales en Belleza y Bienestar SPA. Nuestros servicios incluyen: Limpieza Facial Profunda, Nutrición Facial con Plasma Rico en Plaquetas, Hidratación Facial, tratamientos especializados para el acné y las manchas en la piel. Además, disfruta de masajes relajantes y masajes diseñados para reducir tallas, eliminar grasa localizada y estilizar tu figura. Ofrecemos posoperatorios para garantizar el éxito de tu cirugía, tratamientos para la fibrosis, sueroterapia, servicios de depilación con cera, etc. Eleva tu bienestar con nosotros.",
+        ubicacion: "cra 6 # 12-38 b/ la virgen - Servicio a domicilio para fincas y hoteles.",
+        telefono: "3226434241",
+        pagWeb: "",
+        keywords: "Salud, domicilio, relajacion, limpieza facial, hidratacion. Piel, bajar de peso, suero, depilacion, plasma, rejuvenecimiento, subir defensas, bienes, terapia",
+        rutaInterna: "",
+        correo: ""
+    },
     
     {
         nombre: "Bomberos Darien",
