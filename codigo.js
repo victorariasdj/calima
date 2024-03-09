@@ -168,18 +168,6 @@ const negocios = [
     },
 
     {
-        nombre: "Pizzería La Estación",
-        imagen: "./img/pizzerialaestacion.jpeg",
-        descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
-        ubicacion: "cra 8 # 11-49",
-        telefono: "3154799993 - 3186307966",
-        pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
-        keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
-        correo: ""
-    },
-
-    {
         nombre: "Omar Burgos Chuletas",
         imagen: "./img/chuleta.jpeg",
         descripcion: "Se hacen chuletas, costilla, sobre barriga, carne asada, hígado, lengua, bistec. por encargo.",
@@ -201,6 +189,18 @@ const negocios = [
         keywords: "comestible, restaurante, servicio a domicilio, chicharrones, chorizo",
         rutaInterna: "https://www.facebook.com/profile.php?id=61553636014178",
         correo: "chicharronesdelocura@gmail.com"
+    },
+
+    {
+        nombre: "Pizzería La Estación",
+        imagen: "./img/pizzerialaestacion.jpeg",
+        descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
+        ubicacion: "cra 8 # 11-49",
+        telefono: "3154799993 - 3186307966",
+        pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
+        keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
+        correo: ""
     },
 
     {
