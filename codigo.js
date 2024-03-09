@@ -137,9 +137,9 @@ const negocios = [
         descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
         ubicacion: "Del ancianato media cuadra hacia arriba.",
         telefono: "3184436947 (whatsapp) - 3178004643",
-        pagWeb: "",
+        pagWeb: "https://buscadorcalima.com/madera/madera.html",
         keywords: "cedro, tablas para tendido de cama todas las medidas, leña, estivas para construccion. rodajas de madera. cisco, aserrin",
-        rutaInterna: "",
+        rutaInterna: "https://buscadorcalima.com/madera/madera.html",
         correo: ""
     },
 
