@@ -72,6 +72,18 @@ const negocios = [
     },
 
     {
+        nombre: "Goku Burger",
+        imagen: "./img/gokuburguer.jpeg",
+        descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
+        ubicacion: "calle 12 # 9 - 66 dos quebradas servicio a domicilio",
+        telefono: "3233989891 - 3184584656",
+        pagWeb: "https://www.facebook.com/profile.php?id=61553772451406",
+        keywords: "comida rapida, comestible, restaurante, papas, aborrajados, chorizos, empanada, morcilla, jugos naturales, hamburguesas",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61553772451406",
+        correo: ""
+    },
+
+    {
         nombre: "Hospital San Jorge",
         imagen: "./img/hospitalsanjorge.jpeg",
         descripcion: "",
@@ -103,6 +115,30 @@ const negocios = [
         telefono: "3165651241",
         pagWeb: "",
         keywords: "salud, belleza, estetica facial y corporal, papeleria",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Lavadoras Nando",
+        imagen: "./img/lavadorasnando.jpeg",
+        descripcion: "Alquiler de lavadoras, reparación, mantenimiento, repuestos, todo sobre lavadoras.",
+        ubicacion: "Servicio a domicilio.",
+        telefono: "3184436947 (whatsapp) - 3178004643",
+        pagWeb: "",
+        keywords: "lavadoras, alquiler, domicilio, reparacion, mantenimiento",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Variedad en Madera",
+        imagen: "./img/maderasnando.jpeg",
+        descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
+        ubicacion: "Del ancianato media cuadra hacia arriba.",
+        telefono: "3184436947 (whatsapp) - 3178004643",
+        pagWeb: "",
+        keywords: "cedro, tablas para tendido de cama todas las medidas, leña, estivas para construccion. rodajas de madera. cisco, aserrin",
         rutaInterna: "",
         correo: ""
     },
