@@ -180,9 +180,9 @@ const negocios = [
     },
 
     {
-        nombre: "Omar Burgos Chuletas y Almuerzos",
+        nombre: "Omar Burgos Chuletas",
         imagen: "./img/chuleta.jpeg",
-        descripcion: "Se hacen chuletas por encargo.",
+        descripcion: "Se hacen chuletas, costilla, sobre barriga, carne asada, hígado, lengua, bistec. por encargo.",
         ubicacion: "Calle 12 # 5-35 san jorge",
         telefono: "3164568549 - 3165537811",
         pagWeb: "",
