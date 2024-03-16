@@ -27,8 +27,8 @@ const negocios = [
     {
         nombre: "Casa Parrilla Comedor Campestre.",
         imagen: "https://dt5w3al7rwva6nchppyekukqwzqm4w2ld33xjdhw7v2fadfdeujq.arweave.net/HPttgX-Nqg80R3vwRVFQtmDOW0se93SM9v10UAyjJRM",
-        descripcion: "Especialidad en comida casera y platos típicos, bajos en condimentos. Los domingos sancocho en fogón de leña.</b>",
-        ubicacion: "A 100 metros de la estación de servicio petromil la Fontana.",
+        descripcion: "Especialidad en comida casera y platos típicos, bajos en condimentos. Los domingos sancocho en fogón de leña, Abierto todos los días de 7:00 am a 9:00 pm jornada continua.</b>",
+        ubicacion: "A 100 metros de la estación de servicio petromil la Fontana. Servicio a Domicilio",
         telefono: "3167659571, 3184272345 (WhatsApp)",
         pagWeb: "https://www.facebook.com/hebert.gomezgallego",
         keywords: "restaurante, comestible, lago Calima, Comida casera, almuerzo",
