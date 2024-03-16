@@ -1,15 +1,4 @@
 const negocios = [
-    {
-        nombre: "Alejo Platanitos",
-        imagen: "./img/alejoplatanitos.png",
-        descripcion: "Platanitos Verdes y Maduros",
-        ubicacion: "",
-        telefono: "3154165229",
-        pagWeb: "",
-        keywords: "comestibles, platanos, platanitos, alejo",
-        rutaInterna: "",
-        correo: ""
-    },
 
     {
         nombre: "Belleza & Bienestar Spa",
@@ -32,6 +21,18 @@ const negocios = [
         pagWeb: "",
         keywords: "emergencias, bomberos, ambulancia",
         rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Casa Parrilla Comedor Campestre.",
+        imagen: "https://dt5w3al7rwva6nchppyekukqwzqm4w2ld33xjdhw7v2fadfdeujq.arweave.net/HPttgX-Nqg80R3vwRVFQtmDOW0se93SM9v10UAyjJRM",
+        descripcion: "Especialidad en comida casera y platos típicos, bajos en condimentos. Los domingos sancocho en fogón de leña.</b>",
+        ubicacion: "A 100 metros de la estación de servicio petromil la Fontana.",
+        telefono: "3167659571, 3184272345 (WhatsApp)",
+        pagWeb: "https://www.facebook.com/hebert.gomezgallego",
+        keywords: "restaurante, comestible, lago Calima, Comida casera, almuerzo",
+        rutaInterna: "https://www.facebook.com/hebert.gomezgallego",
         correo: ""
     },
     
