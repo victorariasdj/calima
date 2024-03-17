@@ -241,10 +241,11 @@ a p:hover {
 
 .categoria-btn {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-around;
     align-items: center;
     padding: 0px 7px 0px 10px;
-    width: 204px;
+    width: 170px;
     height: 45px;
     font-size: 18px;
 }
