@@ -195,7 +195,7 @@ const negocios = [
     {
         nombre: "Mr. Pig Chicharrones",
         imagen: "./img/MR-PIG-DEFINITIVO.png",
-        descripcion: "Chicharrones y platos para carnívoros, comparte en familia o con amigos. Entrega a domicilio.",
+        descripcion: "Chicharrones y platos para carnívoros, comparte en familia o con amigos.",
         ubicacion: "Carrera 8 # 10-41, Darién,",
         telefono: "3127960372",
         pagWeb: "https://www.facebook.com/profile.php?id=61553636014178",
