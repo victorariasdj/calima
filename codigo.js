@@ -193,6 +193,18 @@ const negocios = [
     },
 
     {
+        nombre: "Mari's Pizza",
+        imagen: "./img/marispizza.jpeg",
+        descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
+        ubicacion: "Ciudadela German Mejia, Calle Principal Frente al Coliseo.",
+        telefono: "3145018504",
+        pagWeb: "",
+        keywords: "comestible, restaurante, pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Mr. Pig Chicharrones",
         imagen: "./img/MR-PIG-DEFINITIVO.png",
         descripcion: "Chicharrones y platos para carnívoros, comparte en familia o con amigos.",
@@ -202,30 +214,6 @@ const negocios = [
         keywords: "comestible, restaurante, servicio a domicilio, chicharrones, chorizo",
         rutaInterna: "https://www.facebook.com/profile.php?id=61553636014178",
         correo: "chicharronesdelocura@gmail.com"
-    },
-
-    {
-        nombre: "Pizzería La Estación",
-        imagen: "./img/pizzerialaestacion.jpeg",
-        descripcion: "Servicio a domicilio, pizzas y sandwich tipo cubano.",
-        ubicacion: "cra 8 # 11-49",
-        telefono: "3154799993 - 3186307966",
-        pagWeb: "https://www.facebook.com/profile.php?id=100091570401342",
-        keywords: "restaurante, comestible, sandwich, pizza, comida rapida.",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100091570401342",
-        correo: ""
-    },
-
-    {
-        nombre: "STAR SHOES Zapatillas",
-        imagen: "./img/maqueyzapatillas.jpeg",
-        descripcion: "Zapatillas a precio de bodega, calzado para hombre, mujer y niños, sistema de separado.",
-        ubicacion: "Calle 11- 7-85",
-        telefono: "3249256393",
-        pagWeb: "https://www.facebook.com/profile.php?id=61555275853333&mibextid=ZbWKwL",
-        keywords: "ropa, calzado, zapatillas importadas, zapatos",
-        rutaInterna: "https://www.facebook.com/profile.php?id=61555275853333&mibextid=ZbWKwL",
-        correo: "maquey11@hotmail.com"
     },
 
     {
