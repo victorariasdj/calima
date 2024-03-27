@@ -195,7 +195,7 @@ const negocios = [
     {
         nombre: "Mari's Pizza",
         imagen: "./img/marispizza.jpeg",
-        descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
+        descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, empanadas, pollo a la broaster, jugos naturales, micheladas, Jueves a Martes de 5:00 am a 10:00 pm, Servicio a Domicilio.",
         ubicacion: "Ciudadela German Mejia, Calle Principal Frente al Coliseo.",
         telefono: "3145018504",
         pagWeb: "",
