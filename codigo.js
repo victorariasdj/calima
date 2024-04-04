@@ -230,7 +230,7 @@ const negocios = [
 
     {
         nombre: "Paga Rápido Calima",
-        imagen: "./img/pagarapidojuzgado.jpeg",
+        imagen: "./img/pagarapidojuzgado2.jpeg",
         descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
         ubicacion: "Calle 12 # 7-57 centro, al lado del juzgado.",
         telefono: "3042842485",
