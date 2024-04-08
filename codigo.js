@@ -110,7 +110,7 @@ const negocios = [
 
     {
         nombre: "Droguería Don Victor",
-        imagen: "./drogueria-don-victor/drogueria.jpg",
+        imagen: "./drogueria-don-victor/donvictorcuadrado.png",
         descripcion: "Droguería y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectología",
         ubicacion: "Cra 7 # 11-12",
         telefono: "3155178654 - 3173805598",
