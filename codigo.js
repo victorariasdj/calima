@@ -254,13 +254,13 @@ const negocios = [
 
     {
         nombre: "Tienda Naturista Vive Mejor",
-        imagen: "./img/tiendanaturistavivemejor1.png",
+        imagen: "./img/frentetiendavivemejor.jpg",
         descripcion: "Venta de productos naturales, citrato de magnesio, ar17, flexdol, artrim, colágenos, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis.",
         ubicacion: "Calle 10 # 5-36 por la defensa civil",
-        telefono: "3162572997",
-        pagWeb: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
+        telefono: "3233976017",
+        pagWeb: "https://www.facebook.com/profile.php?id=61557273638376",
         keywords: "salud, naturales, citrato de magnesio, ar17, flexdol, artrim, colageno, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis",
-        rutaInterna: "https://instagram.com/vivemejor_tienda_naturista?igshid=MmU2YjMzNjRlOQ==",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61557273638376",
         correo: "rosalbaguzman18@gmail.com"
     },
 
