@@ -205,18 +205,6 @@ const negocios = [
     },
 
     {
-        nombre: "Paga Rápido Calima",
-        imagen: "./img/pagarapidojuzgado2.jpeg",
-        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
-        ubicacion: "Calle 12 # 7-57 centro, al lado del juzgado.",
-        telefono: "3042842485",
-        pagWeb: "",
-        keywords: "giros, pago de servicios, seguro, soat, envios, inter, rapidisimo, servientrega, dhl, pago de servicios, certificado de tradicion, banco, corresponsal aval, falabella, davivienda, bancamia, suscripciones, netflix, amazon prime, spotify, recargas, compras amazon ebay",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
         nombre: "Policía Cuadrante Darién",
         imagen: "./img/policia.jpeg",
         descripcion: "Policía Cuadrante Darién",
