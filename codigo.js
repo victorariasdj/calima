@@ -109,6 +109,18 @@ const negocios = [
     },
 
     {
+        nombre: "Paga Rápido Calima",
+        imagen: "https://uylkuofczwg3e35tc27fivajxb63wiwp6mbcwbtith3obxjjfoaq.arweave.net/phaqOKLNjbJvsxa-VFQJuH27Is_zAisGaJn24N0pK4E",
+        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
+        ubicacion: "Calle 12 # 7-57 centro, al lado del juzgado.",
+        telefono: "3042842485",
+        pagWeb: "",
+        keywords: "giros, pago de servicios, seguro, soat, envios, inter, rapidisimo, servientrega, dhl, pago de servicios, certificado de tradicion, banco, corresponsal aval, falabella, davivienda, bancamia, suscripciones, netflix, amazon prime, spotify, recargas, compras amazon ebay",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
         nombre: "Droguería Don Victor",
         imagen: "./drogueria-don-victor/donvictorcuadrado.png",
         descripcion: "Droguería y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectología",
