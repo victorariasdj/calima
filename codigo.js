@@ -145,6 +145,30 @@ const negocios = [
     },
 
     {
+        nombre: "Lavadoras Nando",
+        imagen: "./img/lavadorasnando.jpeg",
+        descripcion: "Alquiler de lavadoras, reparación, mantenimiento, repuestos, todo sobre lavadoras.",
+        ubicacion: "Servicio a domicilio.",
+        telefono: "3184436947 (whatsapp) - 3178004643",
+        pagWeb: "",
+        keywords: "lavadoras, alquiler, domicilio, reparacion, mantenimiento",
+        rutaInterna: "",
+        correo: ""
+    },
+
+    {
+        nombre: "Variedad en Madera",
+        imagen: "./img/maderasnando.jpeg",
+        descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
+        ubicacion: "Del ancianato media cuadra hacia arriba.",
+        telefono: "3184436947 (whatsapp) - 3178004643",
+        pagWeb: "https://buscadorcalima.com/madera/madera.html",
+        keywords: "cedro, tablas para tendido de cama todas las medidas, leña, estivas para construccion. rodajas de madera. cisco, aserrin",
+        rutaInterna: "https://buscadorcalima.com/madera/madera.html",
+        correo: ""
+    },
+
+    {
         nombre: "native english conversation",
         imagen: "./img/nativeenglish.jpeg",
         descripcion: "<b>Personalized Tutorials</b><br><br>* Phonetics<br>* Practical Skills",
