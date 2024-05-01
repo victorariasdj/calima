@@ -73,18 +73,6 @@ const negocios = [
     },
 
     {
-        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
-        imagen: "./img/diegohenao1.jpeg",
-        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
-        ubicacion: "",
-        telefono: "3176406226",
-        pagWeb: "https://www.facebook.com/diego.henao.714",
-        keywords: "hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
-        rutaInterna: "https://www.facebook.com/diego.henao.714",
-        correo: ""
-    },
-
-    {
         nombre: "Goku Burger",
         imagen: "./img/gokuburguer.jpeg",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
@@ -129,18 +117,6 @@ const negocios = [
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
         keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
-        correo: ""
-    },
-
-    {
-        nombre: "La Colmena",
-        imagen: "./img/lacolmena.jpeg",
-        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. Productos para la Salud y Belleza, también Papelería",
-        ubicacion: "Calle 11 # 8-15",
-        telefono: "3165651241",
-        pagWeb: "",
-        keywords: "salud, belleza, estetica facial y corporal, papeleria",
-        rutaInterna: "",
         correo: ""
     },
 
@@ -217,18 +193,6 @@ const negocios = [
     },
 
     {
-        nombre: "Mr. Pig Chicharrones",
-        imagen: "./img/MR-PIG-DEFINITIVO.png",
-        descripcion: "Chicharrones y platos para carnívoros, comparte en familia o con amigos.",
-        ubicacion: "Carrera 8 # 10-41, Darién,",
-        telefono: "3127960372",
-        pagWeb: "https://www.facebook.com/profile.php?id=61553636014178",
-        keywords: "comestible, restaurante, servicio a domicilio, chicharrones, chorizo",
-        rutaInterna: "https://www.facebook.com/profile.php?id=61553636014178",
-        correo: "chicharronesdelocura@gmail.com"
-    },
-
-    {
         nombre: "Nirvano Store",
         imagen: "./img/nirvano.jpg",
         descripcion: "Somos una Tienda que siempre esta innovando, que te ofrece los mejores productos, al mejor precio y con la mejor atención. Verte bien, es sentirte bien, Marca Orgullosa de pertenecer a Nuestro Calima el Darién.",
@@ -286,18 +250,6 @@ const negocios = [
         keywords: "papeleria, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
         rutaInterna: "https://www.instagram.com/smazpapelaz_/",
         correo: "smazpapelaz2022@gmail.com"
-    },
-
-    {
-        nombre: "Vanidosas Belleza Capilar",
-        imagen: "./img/vanidosasbellezacapilar.jpeg",
-        descripcion: "<b>Tienda virtual y fisica. Sabemos lo frustrante que es tener un cabello maltratado.</b><br>Amplia gama de productos para el cabello, productos nacionales e importados, para que puedas satisfacer la necesidad de tu cabello. Atención rápida y un proceso de pedido sencillo para que no pierdas tiempo valioso. Ventas al Detal, domicilios dentro de la zona paga tu pedido al momento que lo recibas.",
-        ubicacion: "Calle 11 # 4-07 B/San Jorge",
-        telefono: "3163704804",
-        pagWeb: "https://www.facebook.com/Vanidosas.calimaDarien",
-        keywords: "productos capilares, cuidado cabello, shampoo, tratamientos, mascarillas, acondicionador",
-        rutaInterna: "https://www.facebook.com/Vanidosas.calimaDarien",
-        correo: "lilimasavi@gmail.com"
     },
 
     {
