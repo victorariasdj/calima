@@ -97,6 +97,18 @@ const negocios = [
     },
 
     {
+        nombre: "Inmobiliariacalima.com",
+        imagen: "./img/inmobiliariacalima.png",
+        descripcion: "Estamos aquí para brindarte la seguridad y el apoyo jurídico e inmobiliario que necesitas. Nuestro enfoque va más allá de las ventas; se trata de guiarte hacia la mejor decisión con confianza y transparencia.",
+        ubicacion: "Calle 8 # 6-50 Calima Darién",
+        telefono: "3015636844",
+        pagWeb: "https://inmobiliariacalima.com/",
+        keywords: "inmobiliaria, compra, venta, inversion",
+        rutaInterna: "https://inmobiliariacalima.com/",
+        correo: "contacto@inmobiliariacalima.com"
+    },
+
+    {
         nombre: "Paga Rápido Calima",
         imagen: "https://uylkuofczwg3e35tc27fivajxb63wiwp6mbcwbtith3obxjjfoaq.arweave.net/phaqOKLNjbJvsxa-VFQJuH27Is_zAisGaJn24N0pK4E",
         descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
@@ -117,6 +129,18 @@ const negocios = [
         pagWeb: "https://buscadorcalima.com/drogueria-don-victor/drogueria-don-victor.html",
         keywords: "salud, drogueria, tienda naturista, inyectologia, medicamento, suero, recargas, Baloto, Pago, Facturas, giros",
         rutaInterna: "./drogueria-don-victor/drogueria-don-victor.html",
+        correo: ""
+    },
+
+    {
+        nombre: "Domiservicios 24 horas",
+        imagen: "./img/domiservicios.jpeg",
+        descripcion: "Licores, bebidas y comestibles las 24 horas del día. Contamos con todos los medios pago.",
+        ubicacion: "Domicilios en el área urbana y rural de Calima Darién",
+        telefono: "3186972290",
+        pagWeb: "https://www.instagram.com/domiservicios_/",
+        keywords: "comestible, licor, aguardiente, ron, cerveza, wisky, domicilio",
+        rutaInterna: "https://www.instagram.com/domiservicios_/",
         correo: ""
     },
 
@@ -189,18 +213,6 @@ const negocios = [
         pagWeb: "",
         keywords: "comestible, restaurante, pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
         rutaInterna: "",
-        correo: ""
-    },
-
-    {
-        nombre: "Nirvano Store",
-        imagen: "./img/nirvano.jpg",
-        descripcion: "Somos una Tienda que siempre esta innovando, que te ofrece los mejores productos, al mejor precio y con la mejor atención. Verte bien, es sentirte bien, Marca Orgullosa de pertenecer a Nuestro Calima el Darién.",
-        ubicacion: "Enseguida de la Fiscalía de Calima el Darién",
-        telefono: "3215997446",
-        pagWeb: "https://www.facebook.com/zapatosdarien",
-        keywords: "ropa, zapatos, calzado, zapatillas, tienda, store, calidad, economía, versatilidad",
-        rutaInterna: "https://www.facebook.com/zapatosdarien",
         correo: ""
     },
 
