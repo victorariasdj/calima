@@ -97,7 +97,7 @@ const negocios = [
     },
 
     {
-        nombre: "Inmobiliariacalima.com",
+        nombre: "Inmobiliaria Calima",
         imagen: "./img/inmobiliariacalima.png",
         descripcion: "Estamos aquí para brindarte la seguridad y el apoyo jurídico e inmobiliario que necesitas. Nuestro enfoque va más allá de las ventas; se trata de guiarte hacia la mejor decisión con confianza y transparencia.",
         ubicacion: "Calle 8 # 6-50 Calima Darién",
