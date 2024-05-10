@@ -169,18 +169,6 @@ const negocios = [
     },
 
     {
-        nombre: "native english conversation",
-        imagen: "./img/nativeenglish.jpeg",
-        descripcion: "<b>Personalized Tutorials</b><br><br>* Phonetics<br>* Practical Skills",
-        ubicacion: "At your place",
-        telefono: "3112852217",
-        pagWeb: "",
-        keywords: " clases ingles, cursos, clases particulares. profesores privados, magistrales",
-        rutaInterna: "",
-        correo: "jrmg3103@hotmail.com"
-    },
-
-    {
         nombre: "Mazamorra Maxi",
         imagen: "./img/mazamorramaxi.jpeg",
         descripcion: "Mazamorra y Champús Maxi 100% natural.",
@@ -207,8 +195,8 @@ const negocios = [
     {
         nombre: "Mari's Pizza",
         imagen: "./img/marispizza.jpeg",
-        descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, empanadas, pollo a la broaster, jugos naturales, micheladas, Jueves a Martes de 5:00 am a 10:00 pm, Servicio a Domicilio.",
-        ubicacion: "Ciudadela German Mejia, Calle Principal Frente al Coliseo.",
+        descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, empanadas, pollo a la broaster, jugos naturales, micheladas, Jueves a Martes de 5:00 pm a 10:00 pm,",
+        ubicacion: "Ciudadela German Mejia, Calle Principal Frente al Coliseo. Servicio a Domicilio.",
         telefono: "3145018504",
         pagWeb: "",
         keywords: "comestible, restaurante, pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, jugos naturales, micheladas, servicio a domicilio",
