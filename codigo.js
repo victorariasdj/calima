@@ -61,6 +61,18 @@ const negocios = [
     },
 
     {
+        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
+        imagen: "./img/diegohenao1.jpeg",
+        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
+        ubicacion: "",
+        telefono: "3176406226",
+        pagWeb: "https://www.facebook.com/diego.henao.714",
+        keywords: "hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
+        rutaInterna: "https://www.facebook.com/diego.henao.714",
+        correo: ""
+    },
+
+    {
         nombre: "Finca Calima Bonavencho.",
         imagen: "./img/muellenitido.jpeg",
         descripcion: "Finca Calima a orillas del lago, donde las aguas se transforman en una piscina natural. Camina sobre el suelo de cemento y deslízate con nuestras tablas de paddle incluidas en tu estancia. Disfruta de un ambiente tranquilo, perfecto para descansar con familiares o amigos. Nuestra finca, ubicada en una parcelación privada de alto nivel, garantiza privacidad y paz. Sumérgete en el lujo con nuestro jacuzzi, explora nuestro muelle privado y relájate en el bar con una amplia variedad de bebidas y aperitivos. Disfruta de emocionantes actividades acuáticas como paddle, jet ski, lancha y pontoon. En nuestras reuniones, la música es bienvenida pero moderada, sin grandes parlantes ni DJs, asegurando un ambiente armonioso. Recuerda que la puerta de la parcelación se cierra a las 10 pm, garantizando tu tranquilidad durante toda la noche.",
