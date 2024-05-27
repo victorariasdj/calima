@@ -74,7 +74,7 @@ const negocios = [
 
     {
         nombre: "Goku Burger",
-        imagen: "./img/gokuburguer.jpeg",
+        imagen: "./img/goku-burger.jpeg",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
         ubicacion: "calle 12 # 9 - 66 dos quebradas servicio a domicilio",
         telefono: "3233989891 - 3184584656",
@@ -117,18 +117,6 @@ const negocios = [
         pagWeb: "https://www.facebook.com/diego.henao.714",
         keywords: "inmobiliaria, hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
         rutaInterna: "https://www.facebook.com/diego.henao.714",
-        correo: ""
-    },
-
-    {
-        nombre: "Paga Rápido Calima",
-        imagen: "https://uylkuofczwg3e35tc27fivajxb63wiwp6mbcwbtith3obxjjfoaq.arweave.net/phaqOKLNjbJvsxa-VFQJuH27Is_zAisGaJn24N0pK4E",
-        descripcion: "Giros, pago de servicios, seguro, soat, envíos (inter rapidísimo, servientrega, DHL), certificado de tradición, banco, corresponsal(grupo aval, Falabella, Davivienda, bancamia, móvil,) suscripciones (netflix, amazon prime, spotify, etc…) recargas, compras por amazon y ebay.",
-        ubicacion: "Calle 12 # 7-57 centro, al lado del juzgado.",
-        telefono: "3042842485",
-        pagWeb: "",
-        keywords: "giros, pago de servicios, seguro, soat, envios, inter, rapidisimo, servientrega, dhl, pago de servicios, certificado de tradicion, banco, corresponsal aval, falabella, davivienda, bancamia, suscripciones, netflix, amazon prime, spotify, recargas, compras amazon ebay",
-        rutaInterna: "",
         correo: ""
     },
 
