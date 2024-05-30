@@ -151,7 +151,7 @@ const negocios = [
         ubicacion: "Servicio a domicilio.",
         telefono: "3184436947 (whatsapp) - 3178004643",
         pagWeb: "",
-        keywords: "lavadoras, alquiler, domicilio, reparacion, mantenimiento",
+        keywords: "lavadora, alquiler, domicilio, reparacion, mantenimiento",
         rutaInterna: "",
         correo: ""
     },
