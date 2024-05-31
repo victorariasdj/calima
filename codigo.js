@@ -14,7 +14,7 @@ const negocios = [
     
     {
         nombre: "Belleza & Bienestar Spa",
-        imagen: "./img/bellezaybienestarspa.jpeg",
+        imagen: "./img/bellezaybienestarmayo2024.jpg",
         descripcion: "Descubre la excelencia en tratamientos faciales y corporales en Belleza y Bienestar SPA. Nuestros servicios incluyen: Limpieza Facial Profunda, Nutrición Facial con Plasma Rico en Plaquetas, Hidratación Facial, tratamientos especializados para el acné y las manchas en la piel. Además, disfruta de masajes relajantes y masajes diseñados para reducir tallas, eliminar grasa localizada y estilizar tu figura. Ofrecemos posoperatorios para garantizar el éxito de tu cirugía, tratamientos para la fibrosis, sueroterapia, servicios de depilación con cera, etc. Eleva tu bienestar con nosotros. Servicio a domicilio para fincas y hoteles.",
         ubicacion: "cra 6 # 12-38 b/ la virgen.",
         telefono: "3226434241",
