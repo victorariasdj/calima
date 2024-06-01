@@ -2,7 +2,7 @@ const negocios = [
 
     {
         nombre: "Alejo Platanitos",
-        imagen: "./img/alejoplatanitos.png",
+        imagen: "./img/alejoplatanitos.jpg",
         descripcion: "Platanitos Verdes y Maduros",
         ubicacion: "",
         telefono: "3154165229",
@@ -50,7 +50,7 @@ const negocios = [
     
     {
         nombre: "Defensa Civil",
-        imagen: "./img/defensacivil.jpeg",
+        imagen: "./img/defensacivil.jpg",
         descripcion: "",
         ubicacion: "Calle 10 # 5-36",
         telefono: "3188463732",
@@ -62,7 +62,7 @@ const negocios = [
 
     {
         nombre: "Finca Calima Bonavencho.",
-        imagen: "./img/muellenitido.jpeg",
+        imagen: "./img/muellenitido.jpg",
         descripcion: "Finca Calima a orillas del lago, donde las aguas se transforman en una piscina natural. Camina sobre el suelo de cemento y deslízate con nuestras tablas de paddle incluidas en tu estancia. Disfruta de un ambiente tranquilo, perfecto para descansar con familiares o amigos. Nuestra finca, ubicada en una parcelación privada de alto nivel, garantiza privacidad y paz. Sumérgete en el lujo con nuestro jacuzzi, explora nuestro muelle privado y relájate en el bar con una amplia variedad de bebidas y aperitivos. Disfruta de emocionantes actividades acuáticas como paddle, jet ski, lancha y pontoon. En nuestras reuniones, la música es bienvenida pero moderada, sin grandes parlantes ni DJs, asegurando un ambiente armonioso. Recuerda que la puerta de la parcelación se cierra a las 10 pm, garantizando tu tranquilidad durante toda la noche.",
         ubicacion: "Lago Calima",
         telefono: "3187901764",
@@ -74,7 +74,7 @@ const negocios = [
 
     {
         nombre: "Goku Burger",
-        imagen: "./img/goku-burger.jpeg",
+        imagen: "./img/goku-burger.jpg",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
         ubicacion: "calle 12 # 9 - 66 dos quebradas servicio a domicilio",
         telefono: "3233989891 - 3184584656",
@@ -86,7 +86,7 @@ const negocios = [
 
     {
         nombre: "Hospital San Jorge",
-        imagen: "./img/hospitalsanjorge.jpeg",
+        imagen: "./img/hospitalsanjorge.jpg",
         descripcion: "",
         ubicacion: "Darién",
         telefono: "6022395008",
@@ -110,7 +110,7 @@ const negocios = [
 
     {
         nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
-        imagen: "./img/diegohenao1.jpeg",
+        imagen: "./img/diegohenao1.jpg",
         descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
         ubicacion: "",
         telefono: "3176406226",
@@ -134,7 +134,7 @@ const negocios = [
 
     {
         nombre: "Domiservicios 24 horas",
-        imagen: "./img/domiservicios.jpeg",
+        imagen: "./img/domiservicios.jpg",
         descripcion: "Licores, bebidas y comestibles las 24 horas del día. Contamos con todos los medios pago.",
         ubicacion: "Domicilios en el área urbana y rural de Calima Darién",
         telefono: "3186972290",
@@ -158,7 +158,7 @@ const negocios = [
 
     {
         nombre: "Variedad en Madera",
-        imagen: "./img/maderasnando.jpeg",
+        imagen: "./img/maderasnando.jpg",
         descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
         ubicacion: "Del ancianato media cuadra hacia arriba.",
         telefono: "3184436947 (whatsapp) - 3178004643",
@@ -170,7 +170,7 @@ const negocios = [
 
     {
         nombre: "Mazamorra Maxi",
-        imagen: "./img/mazamorramaxi.jpeg",
+        imagen: "./img/mazamorramaxi.jpg",
         descripcion: "Mazamorra y Champús Maxi 100% natural.",
         ubicacion: "",
         telefono: "3215076117",
@@ -194,7 +194,7 @@ const negocios = [
 
     {
         nombre: "Mari's Pizza",
-        imagen: "./img/marispizza.jpeg",
+        imagen: "./img/marispizza.jpg",
         descripcion: "Pizza, hamburguesa, perros, sandwich, lasaña, salchipapa, empanadas, pollo a la broaster, jugos naturales, micheladas, Jueves a Martes de 5:00 pm a 10:00 pm,",
         ubicacion: "Ciudadela German Mejia, Calle Principal Frente al Coliseo. Servicio a Domicilio.",
         telefono: "3145018504",
@@ -242,7 +242,7 @@ const negocios = [
 
     {
         nombre: "Smaz Papelería y Miscelánea",
-        imagen: "./img/smaz-papeleria.jpeg",
+        imagen: "./img/smaz-papeleria.jpg",
         descripcion: "Ven y conoce una forma diferente tierna y divertida en papelería, manejamos servicios de: fotocopias blanco y negro o a color, impresión láser, papelería general y papelería kawaii, miscelánea entre otros. Se vale antojarse!",
         ubicacion: "Carrera 11 # 10-54 B/San Vicente",
         telefono: "3187044288",
