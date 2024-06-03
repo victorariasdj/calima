@@ -326,6 +326,7 @@ categoriaButtons.forEach(button => {
         const categoria = button.getAttribute("data-categoria");
         formulario.value = categoria;
         filter();
+        window.scrollTo({ top: 0, behavior: "smooth" })
     });
 });
 
