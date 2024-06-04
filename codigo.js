@@ -99,7 +99,7 @@ const negocios = [
     {
         nombre: "Se Vende Casa de 3 Pisos en Calima Darién",
         imagen: "https://tvnhv7yomryl5fbyn2alcduafzxvxwhzwsrfblz67bkjqdprsh4q.arweave.net/nVp6_w5kcL6UOG6AsQ6ALm9b2Pm0olCvPvhUmA3xkfk",
-        descripcion: "Área total de 6 metros de frente por 12.5 metros de fondo. Libre de impuestos, no está en proceso de sucesión. Tres pisos construidos, cada uno con entradas independientes.<br> Primer piso con dos locales comerciales, 2do local con espacio de cocina baño y lavadero.<br> Segundo piso con 4 habitaciones con clóset, balcón, 2 baños, cocina, sala, lavadero con espacio para lavadora.<br> 3 piso terraza con entrada independiente, todo bajo techo",
+        descripcion: "Área total de 6 metros de frente por 12.5 metros de fondo. Libre de impuestos, no está en proceso de sucesión. Tres pisos construidos, cada uno con entradas independientes.<br><br> <strong>Primer piso</strong> con dos locales comerciales, el 2do local con espacio de cocina baño y lavadero.<br> <strong>Segundo piso</strong> con 4 habitaciones con clóset, balcón, 2 baños, cocina, sala, lavadero con espacio para lavadora.<br> <strong>Tercer piso</strong> terraza con entrada independiente, todo bajo techo",
         ubicacion: "Calima Darien",
         telefono: "No llamadas. Solo Whatsapp: +57 3176402729",
         pagWeb: "https://buscadorcalima.com/casa-servientrega.html",
