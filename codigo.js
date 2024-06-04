@@ -35,18 +35,6 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
-
-    {
-        nombre: "Casa Parrilla Comedor Campestre.",
-        imagen: "https://dt5w3al7rwva6nchppyekukqwzqm4w2ld33xjdhw7v2fadfdeujq.arweave.net/HPttgX-Nqg80R3vwRVFQtmDOW0se93SM9v10UAyjJRM",
-        descripcion: "Especialidad en comida casera y platos típicos, bajos en condimentos. Los domingos sancocho en fogón de leña, Abierto todos los días de 7:00 am a 9:00 pm jornada continua.</b>",
-        ubicacion: "A 100 metros de la estación de servicio petromil la Fontana. Servicio a Domicilio",
-        telefono: "3167659571, 3184272345 (WhatsApp)",
-        pagWeb: "https://www.facebook.com/hebert.gomezgallego",
-        keywords: "restaurante, comestible, lago Calima, Comida casera, almuerzo",
-        rutaInterna: "https://www.facebook.com/hebert.gomezgallego",
-        correo: ""
-    },
     
     {
         nombre: "Defensa Civil",
@@ -105,7 +93,19 @@ const negocios = [
         pagWeb: "https://inmobiliariacalima.com/",
         keywords: "inmobiliaria, compra, venta, inversion",
         rutaInterna: "https://inmobiliariacalima.com/",
-        correo: "contacto@inmobiliariacalima.com"
+        correo: "abogado.carloscontreras@hotmail.com"
+    },
+
+    {
+        nombre: "Se Vende Casa de 3 Pisos en Calima Darién",
+        imagen: "https://tvnhv7yomryl5fbyn2alcduafzxvxwhzwsrfblz67bkjqdprsh4q.arweave.net/nVp6_w5kcL6UOG6AsQ6ALm9b2Pm0olCvPvhUmA3xkfk",
+        descripcion: "Área total de 6 metros de frente por 12.5 metros de fondo. Libre de impuestos, no está en proceso de sucesión. Tres pisos construidos, cada uno con entradas independientes.<br> Primer piso con dos locales comerciales, 2do local con espacio de cocina baño y lavadero.<br> Segundo piso con 4 habitaciones con clóset, balcón, 2 baños, cocina, sala, lavadero con espacio para lavadora.<br> 3 piso terraza con entrada independiente, todo bajo techo",
+        ubicacion: "Calima Darien",
+        telefono: "No llamadas. Solo Whatsapp: +57 3176402729",
+        pagWeb: "https://buscadorcalima.com/casa-servientrega.html",
+        keywords: "inmobiliaria, venta, casa",
+        rutaInterna: "https://buscadorcalima.com/casa-servientrega.html",
+        correo: ""
     },
 
     {
