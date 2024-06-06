@@ -133,18 +133,6 @@ const negocios = [
     },
 
     {
-        nombre: "Domiservicios 24 horas",
-        imagen: "./img/domiservicios.jpg",
-        descripcion: "Licores, bebidas y comestibles las 24 horas del día. Contamos con todos los medios pago.",
-        ubicacion: "Domicilios en el área urbana y rural de Calima Darién",
-        telefono: "3186972290",
-        pagWeb: "https://www.instagram.com/domiservicios_/",
-        keywords: "comestible, licor, aguardiente, ron, cerveza, wisky, domicilio",
-        rutaInterna: "https://www.instagram.com/domiservicios_/",
-        correo: ""
-    },
-
-    {
         nombre: "Lavadoras Nando",
         imagen: "./img/lavadorasnando.jpeg",
         descripcion: "Alquiler de lavadoras, reparación, mantenimiento, repuestos, todo sobre lavadoras.",
