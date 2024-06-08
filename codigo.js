@@ -145,6 +145,18 @@ const negocios = [
     },
 
     {
+        nombre: "La Casona Restaurante y Comidas Rápidas",
+        imagen: "./img/lacasonafrente.jpg",
+        descripcion: "Abrimos todos los días.<br>Ricos desayunos, almuerzos ejecutivos y almuerzos a la carta de 8 am a 4 pm.<br>Comidas rápidas 6 a 11 pm.<br>Variedad de platos, con la mejor atención.",
+        ubicacion: "Parque Los fundadores, enseguida de la Chaverona 2do piso. Servicio a Domicilio.",
+        telefono: "3126933829",
+        pagWeb: "https://www.instagram.com/restaurantelacasona06/",
+        keywords: "restaurante, comestible, comidas rapidas, hamburguesas, picadas, salchipapa, patacon, arepas, almuerzos ejecutivos, a la carta, desayunos",
+        rutaInterna: "https://www.instagram.com/restaurantelacasona06/",
+        correo: "henrryrodriguez2053@gmail.com"
+    },
+
+    {
         nombre: "Variedad en Madera",
         imagen: "./img/maderasnando.jpg",
         descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
