@@ -49,18 +49,6 @@ const negocios = [
     },
 
     {
-        nombre: "Finca Calima Bonavencho.",
-        imagen: "./img/muellenitido.jpg",
-        descripcion: "Finca Calima a orillas del lago, donde las aguas se transforman en una piscina natural. Camina sobre el suelo de cemento y deslízate con nuestras tablas de paddle incluidas en tu estancia. Disfruta de un ambiente tranquilo, perfecto para descansar con familiares o amigos. Nuestra finca, ubicada en una parcelación privada de alto nivel, garantiza privacidad y paz. Sumérgete en el lujo con nuestro jacuzzi, explora nuestro muelle privado y relájate en el bar con una amplia variedad de bebidas y aperitivos. Disfruta de emocionantes actividades acuáticas como paddle, jet ski, lancha y pontoon. En nuestras reuniones, la música es bienvenida pero moderada, sin grandes parlantes ni DJs, asegurando un ambiente armonioso. Recuerda que la puerta de la parcelación se cierra a las 10 pm, garantizando tu tranquilidad durante toda la noche.",
-        ubicacion: "Lago Calima",
-        telefono: "3187901764",
-        pagWeb: "https://www.facebook.com/profile.php?id=100063727833697",
-        keywords: "hotel, entretenimiento, finca, alquiler, finca, piscina natural, acuático, jet ski, lancha, jacuzzi",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100063727833697",
-        correo: ""
-    },
-
-    {
         nombre: "Goku Burger",
         imagen: "./img/goku-burger.jpg",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
@@ -255,7 +243,7 @@ const negocios = [
     {
         nombre: "Victor Arias",
         imagen: "./img/victor-arias.jpg",
-        descripcion: "Dj de música electrónica, técnico de computadores, desarrollador web, mezcla y master de audio, clases personalizadas de producción musical.",
+        descripcion: "Dj de música electrónica, técnico de computadores, desarrollador web, mezcla y master de audio, clases personalizadas de informática y producción musical.",
         ubicacion: "Colombia",
         telefono: "3163251628",
         pagWeb: "https://victorarias.eth.limo/",
