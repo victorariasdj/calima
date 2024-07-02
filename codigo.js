@@ -35,6 +35,18 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
+
+    {
+        nombre: "Victor Cargas, Mudanzas y Fletes",
+        imagen: "./img/victormudanza.jpeg",
+        descripcion: "Todo tipo de carga a nivel local y nacional, con ubicación satelital por si deseas saber el curso de tu carga, ARL por si deseas cargar en alguna empresa que lo requiera. Seriedad y cumplimiento en el servicio.",
+        ubicacion: "Calima el Darién, Servicio 24/7 con disponibilidad en dónde la requieran.",
+        telefono: "3157915586",
+        pagWeb: "https://www.facebook.com/profile.php?id=100088902925753",
+        keywords: "transporte, mudanza, carga, flete, camion",
+        rutaInterna: "https://www.facebook.com/profile.php?id=100088902925753",
+        correo: "victorcamicruz@gimail.com"
+    },
     
     {
         nombre: "Defensa Civil",
@@ -166,18 +178,6 @@ const negocios = [
         keywords: "mazamorra, Champus, comestible",
         rutaInterna: "",
         correo: "maxirojas1345@gmail.com"
-    },
-
-    {
-        nombre: "Omar Burgos Chuletas",
-        imagen: "./img/chuleta.jpeg",
-        descripcion: "Se hacen chuletas, costilla, sobre barriga, carne asada, hígado, lengua, bistec. por encargo.",
-        ubicacion: "Calle 12 # 5-35 san jorge",
-        telefono: "3164568549 - 3165537811",
-        pagWeb: "",
-        keywords: "chuleta, almuerzo, restaurante, comestible",
-        rutaInterna: "",
-        correo: "mariaosorio2053@gmail.com	"
     },
 
     {
