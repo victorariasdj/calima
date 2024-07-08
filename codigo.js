@@ -1,30 +1,6 @@
 const negocios = [
 
     {
-        nombre: "Alejo Platanitos",
-        imagen: "./img/alejoplatanitos.jpg",
-        descripcion: "Platanitos Verdes y Maduros",
-        ubicacion: "",
-        telefono: "3154165229",
-        pagWeb: "",
-        keywords: "comestibles, platanos, platanitos, alejo",
-        rutaInterna: "",
-        correo: ""
-    },
-    
-    {
-        nombre: "Belleza & Bienestar Spa",
-        imagen: "./img/bellezaybienestarmayo2024.jpg",
-        descripcion: "Descubre la excelencia en tratamientos faciales y corporales en Belleza y Bienestar SPA. Nuestros servicios incluyen: Limpieza Facial Profunda, Nutrición Facial con Plasma Rico en Plaquetas, Hidratación Facial, tratamientos especializados para el acné y las manchas en la piel. Además, disfruta de masajes relajantes y masajes diseñados para reducir tallas, eliminar grasa localizada y estilizar tu figura. Ofrecemos posoperatorios para garantizar el éxito de tu cirugía, tratamientos para la fibrosis, sueroterapia, servicios de depilación con cera, etc. Eleva tu bienestar con nosotros. Servicio a domicilio para fincas y hoteles.",
-        ubicacion: "cra 6 # 12-38 b/ la virgen.",
-        telefono: "3226434241",
-        pagWeb: "",
-        keywords: "Salud, domicilio, relajacion, limpieza facial, hidratacion. Piel, bajar de peso, suero, depilacion, plasma, rejuvenecimiento, subir defensas, bienestar, terapia",
-        rutaInterna: "",
-        correo: ""
-    },
-    
-    {
         nombre: "Bomberos Darien",
         imagen: "./img/bomberosdarien.jpeg",
         descripcion: "Bomberos Darién",
@@ -105,18 +81,6 @@ const negocios = [
         pagWeb: "https://buscadorcalima.com/casa-servientrega.html",
         keywords: "inmobiliaria, venta, casa",
         rutaInterna: "https://buscadorcalima.com/casa-servientrega.html",
-        correo: ""
-    },
-
-    {
-        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
-        imagen: "./img/diegohenao1.jpg",
-        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
-        ubicacion: "",
-        telefono: "3176406226",
-        pagWeb: "https://www.facebook.com/diego.henao.714",
-        keywords: "inmobiliaria, hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
-        rutaInterna: "https://www.facebook.com/diego.henao.714",
         correo: ""
     },
 
