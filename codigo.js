@@ -114,9 +114,9 @@ const negocios = [
         descripcion: "Abrimos todos los días.<br>Ricos desayunos, almuerzos ejecutivos y almuerzos a la carta de 8 am a 4 pm.<br>Comidas rápidas 6 a 11 pm.<br>Variedad de platos, con la mejor atención.",
         ubicacion: "Parque Los fundadores, enseguida de la Chaverona 2do piso. Servicio a Domicilio.",
         telefono: "3126933829",
-        pagWeb: "https://www.instagram.com/restaurantelacasona06/",
+        pagWeb: "https://buscadorcalima.com/lacasonarestaurante",
         keywords: "restaurante, comestible, comidas rapidas, hamburguesas, picadas, salchipapa, patacon, arepas, almuerzos ejecutivos, a la carta, desayunos",
-        rutaInterna: "https://www.instagram.com/restaurantelacasona06/",
+        rutaInterna: "https://buscadorcalima.com/lacasonarestaurante",
         correo: "henrryrodriguez2053@gmail.com"
     },
 
