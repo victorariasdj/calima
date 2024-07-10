@@ -122,7 +122,7 @@ const negocios = [
 
     {
         nombre: "Variedad en Madera",
-        imagen: "./img/maderasnando.jpg",
+        imagen: "https://6aj2wli2ool7j3ivzk2ase2isnpp76c5tezdnf2rsqee5ge7zoha.arweave.net/8BOrLRpzl_TtFcq0CRNIk17_-F2ZMjaXUZQITpify44",
         descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
         ubicacion: "Del ancianato media cuadra hacia arriba.",
         telefono: "3184436947 (whatsapp) - 3178004643",
