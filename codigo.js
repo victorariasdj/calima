@@ -1,6 +1,18 @@
 const negocios = [
 
     {
+        nombre: "Alejo Platanitos",
+        imagen: "https://j3auw6ms2isww6dlj5qkjcuv7bmg5l7dx3yvgnmwil3adssm6ngq.arweave.net/TsFLeZLSJWt4a09gpIqV-Fhur-O-8VM1lkL2AcpM800",
+        descripcion: "Platanitos Verdes y Maduros",
+        ubicacion: "",
+        telefono: "3154165229",
+        pagWeb: "",
+        keywords: "comestibles, platanos, platanitos, alejo",
+        rutaInterna: "",
+        correo: ""
+    },
+    
+    {
         nombre: "Bomberos Darien",
         imagen: "./img/bomberosdarien.jpeg",
         descripcion: "Bomberos Darién",
