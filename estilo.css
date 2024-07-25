@@ -362,6 +362,10 @@ button:hover {
     flex: 1;
 }
 
+.card li {
+    text-align: start;
+}
+
 .before1::before {
     content: "bc1q2te...c60p7te";
 }
