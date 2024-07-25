@@ -93,7 +93,7 @@ header {
 /* COMIENZO DEL MAIN INDEX*/
 
 main {
-    margin-bottom: 50px;
+    margin: 0px 28px 50px;
 }
 
 .contenedor__principal {
@@ -195,7 +195,6 @@ a p:hover {
 .contenedor {
     display: flex;
     /* flex-wrap: wrap; */
-    width: 85%;
     /* height: 120px; */
     justify-content: center;
     margin: auto;
