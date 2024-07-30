@@ -49,6 +49,18 @@ const negocios = [
     },
 
     {
+        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
+        imagen: "https://xcsw2xmnzdmt3kr2u6eunr3gz7222fvnsq3pjvn4ctmpjivrphoa.arweave.net/uKVtXY3I2T2qOqeJRsdmz_WtFq2UNvTVvBTY9KKxedw",
+        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
+        ubicacion: "",
+        telefono: "3176406226",
+        pagWeb: "https://www.facebook.com/diego.henao.714",
+        keywords: "inmobiliaria, hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
+        rutaInterna: "https://www.facebook.com/diego.henao.714",
+        correo: ""
+    },
+
+    {
         nombre: "Goku Burger",
         imagen: "https://ijb2txx6k4dll3zrcgo4woabnrn46kshemv4d4bqeqo5h4qb4jvq.arweave.net/QkOp3v5XBrXvMRGdyzgBbFvPKkcjK8HwMCQd0_IB4ms",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
