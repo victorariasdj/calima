@@ -31,6 +31,7 @@ header {
     justify-content: center;
     position: fixed;
     margin-top: -77px;
+    z-index: 500;
 }
 .container__nav {
     display: flex;
