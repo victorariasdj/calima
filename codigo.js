@@ -49,6 +49,18 @@ const negocios = [
     },
 
     {
+        nombre: "Inmobiliaria Calima",
+        imagen: "https://sbjup5clwxwbxwqky5sommovcu2fgzcnlgvg2lmtohdybudcfira.arweave.net/kFNH9Eu17BvaCsdk5jHVFTRTZE1Zqm0tk3HHgNBiKiI",
+        descripcion: "Estamos aquí para brindarte la seguridad y el apoyo jurídico e inmobiliario que usted necesita. Nuestro enfoque va más allá de las ventas; se trata de guiarte hacia la mejor decisión con confianza y transparencia.",
+        ubicacion: "Calle 8 # 6-50 Calima Darién",
+        telefono: "3015636844",
+        pagWeb: "https://inmobiliariacalima.com/",
+        keywords: "inmobiliaria, compra, venta, inversion",
+        rutaInterna: "https://inmobiliariacalima.com/",
+        correo: "abogado.carloscontreras@hotmail.com"
+    },
+
+    {
         nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
         imagen: "https://xcsw2xmnzdmt3kr2u6eunr3gz7222fvnsq3pjvn4ctmpjivrphoa.arweave.net/uKVtXY3I2T2qOqeJRsdmz_WtFq2UNvTVvBTY9KKxedw",
         descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
@@ -64,7 +76,7 @@ const negocios = [
         nombre: "Goku Burger",
         imagen: "https://ijb2txx6k4dll3zrcgo4woabnrn46kshemv4d4bqeqo5h4qb4jvq.arweave.net/QkOp3v5XBrXvMRGdyzgBbFvPKkcjK8HwMCQd0_IB4ms",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
-        ubicacion: "calle 12 # 9 - 66 dos quebradas servicio a domicilio",
+        ubicacion: "Calle 10 con 8 al frente del hormiguero",
         telefono: "3233989891 - 3184584656",
         pagWeb: "https://www.facebook.com/profile.php?id=61553772451406",
         keywords: "comida rapida, comestible, restaurante, papas, aborrajados, chorizos, empanada, morcilla, jugos naturales, hamburguesas",
@@ -82,18 +94,6 @@ const negocios = [
         keywords: "emergencias, salud, hospital",
         rutaInterna: "",
         correo: ""
-    },
-
-    {
-        nombre: "Inmobiliaria Calima",
-        imagen: "https://sbjup5clwxwbxwqky5sommovcu2fgzcnlgvg2lmtohdybudcfira.arweave.net/kFNH9Eu17BvaCsdk5jHVFTRTZE1Zqm0tk3HHgNBiKiI",
-        descripcion: "Estamos aquí para brindarte la seguridad y el apoyo jurídico e inmobiliario que usted necesita. Nuestro enfoque va más allá de las ventas; se trata de guiarte hacia la mejor decisión con confianza y transparencia.",
-        ubicacion: "Calle 8 # 6-50 Calima Darién",
-        telefono: "3015636844",
-        pagWeb: "https://inmobiliariacalima.com/",
-        keywords: "inmobiliaria, compra, venta, inversion",
-        rutaInterna: "https://inmobiliariacalima.com/",
-        correo: "abogado.carloscontreras@hotmail.com"
     },
 
     {
