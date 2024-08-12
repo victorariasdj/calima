@@ -133,18 +133,6 @@ const negocios = [
     },
 
     {
-        nombre: "La Casona Restaurante y Comidas Rápidas",
-        imagen: "https://m4wimw7cinamdvnr4edli5e5zb67pq2thgkpj4dzblk7hgu4cjmq.arweave.net/ZyyGW-JDQMHVseEGtHSdyH33w1M5lPTweQrV85qcElk",
-        descripcion: "Abrimos todos los días.<br>Ricos desayunos, almuerzos ejecutivos y almuerzos a la carta de 8 am a 4 pm.<br>Comidas rápidas 6 a 11 pm.<br>Variedad de platos, con la mejor atención.",
-        ubicacion: "Parque Los fundadores, enseguida de la Chaverona 2do piso. Servicio a Domicilio.",
-        telefono: "3126933829",
-        pagWeb: "https://buscadorcalima.com/lacasonarestaurante",
-        keywords: "restaurante, comestible, comidas rapidas, hamburguesas, picadas, salchipapa, patacon, arepas, almuerzos ejecutivos, a la carta, desayunos",
-        rutaInterna: "https://buscadorcalima.com/lacasonarestaurante",
-        correo: "henrryrodriguez2053@gmail.com"
-    },
-
-    {
         nombre: "Variedad en Madera",
         imagen: "https://6aj2wli2ool7j3ivzk2ase2isnpp76c5tezdnf2rsqee5ge7zoha.arweave.net/8BOrLRpzl_TtFcq0CRNIk17_-F2ZMjaXUZQITpify44",
         descripcion: "Cedro, tablas para tendido de cama todas las medidas, leña, estivas para construcción solo venta. Rodajas de madera. Cisco aserrín.",
