@@ -251,6 +251,10 @@ a p:hover {
     font-size: 18px;
 }
 
+.categoria-btn:hover{
+    transform: scale(0.95);
+}
+
 .categoria-btn img{
     /* margin: 12px; */
     max-width: 30px;
