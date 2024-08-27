@@ -468,6 +468,10 @@ button:hover {
     margin-right: 10px;
 }
 
+.redes-sociales a:hover {
+    scale: 0.95;
+}
+
 
 /* FIN DEL MAIN INDEX */
 
