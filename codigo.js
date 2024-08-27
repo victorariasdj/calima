@@ -73,6 +73,18 @@ const negocios = [
     },
 
     {
+        nombre: "Turron Ice Cream",
+        imagen: "https://rtwzr42cgwbv2rtl3wyhfztbkoy4aw6usb7agd4uwmcysanysefa.arweave.net/jO2Y80I1g11Ga92wcuZhU7HAW9SQfgMPlLMFiQG4kQo",
+        descripcion: "El destino perfecto para disfrutar en familia, junto al Lago Calima. <br> Nuestra heladería te ofrece una experiencia única y completa. Disfruta en nuestro local familiar o sigue el sabor con nuestra unidad móvil de jueves a domingo. ¡Estamos ubicados en la entrada 4, abiertos todos los días de 10 am a 8 pm!</p><ul><li>Helados</li><li>Juegos para los niños</li><li>Gastropub con comidas rápidas, cócteles y café</li><li>Somos Pet Friendly</li></ul>",
+        ubicacion: "Entrada 4 Lago Calima o sigue el sabor con nuestra unidad móvil",
+        telefono: "3122150924 Solo Whatsapp",
+        pagWeb: "https://buscadorcalima.com/turronicecream",
+        keywords: "comestible, helado, móvil, food truck, don rico, heladeria, juegos para los niños, gastropub, comidas rapidas, cocteles, cafe, pet friendly",
+        rutaInterna: "https://buscadorcalima.com/turronicecream",
+        correo: "turronicecream@gmail.com"
+    },
+
+    {
         nombre: "Goku Burger",
         imagen: "https://ijb2txx6k4dll3zrcgo4woabnrn46kshemv4d4bqeqo5h4qb4jvq.arweave.net/QkOp3v5XBrXvMRGdyzgBbFvPKkcjK8HwMCQd0_IB4ms",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
