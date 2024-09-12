@@ -77,7 +77,7 @@ const negocios = [
         imagen: "https://ijb2txx6k4dll3zrcgo4woabnrn46kshemv4d4bqeqo5h4qb4jvq.arweave.net/QkOp3v5XBrXvMRGdyzgBbFvPKkcjK8HwMCQd0_IB4ms",
         descripcion: "Abierto jueves a lunes, de 3:30 pm a 10:30 pm. Fritanga y comidas rápidas. picadas, hamburguesas, salchipapas, jugos naturales, Patacones, todo tipo de arepas.</b>",
         ubicacion: "Calle 10 con 8 al frente del hormiguero",
-        telefono: "3233989891 - 3184584656",
+        telefono: "3184584656 - 3137966403",
         pagWeb: "https://www.facebook.com/profile.php?id=61553772451406",
         keywords: "comida rapida, comestible, restaurante, papas, aborrajados, chorizos, empanada, morcilla, jugos naturales, hamburguesas",
         rutaInterna: "https://www.facebook.com/profile.php?id=61553772451406",
