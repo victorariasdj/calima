@@ -325,6 +325,30 @@ const negocios = [
     },
 
     {
+        nombre: "La Casona Restaurante y Comidas Rápidas",
+        imagen: "https://m4wimw7cinamdvnr4edli5e5zb67pq2thgkpj4dzblk7hgu4cjmq.arweave.net/ZyyGW-JDQMHVseEGtHSdyH33w1M5lPTweQrV85qcElk",
+        descripcion: "Abrimos todos los días.<br>Ricos desayunos, almuerzos ejecutivos y almuerzos a la carta de 8 am a 4 pm.<br>Comidas rápidas 6 a 11 pm.<br>Variedad de platos, con la mejor atención.",
+        ubicacion: "Parque Los fundadores, enseguida de la Chaverona 2do piso. Servicio a Domicilio.",
+        telefono: "3126933829",
+        pagWeb: "https://buscadorcalima.com/lacasonarestaurante",
+        keywords: "restaurante, comestible, comidas rapidas, hamburguesas, picadas, salchipapa, patacon, arepas, almuerzos ejecutivos, a la carta, desayunos",
+        rutaInterna: "https://buscadorcalima.com/lacasonarestaurante",
+        correo: "henrryrodriguez2053@gmail.com"
+    },
+
+    {
+        nombre: "Mr. Pig Chicharrones",
+        imagen: "https://6w25nh7ghuep3frpdb5ugkmzs3q3cmcxrutwk6lid67lvrdw4fpa.arweave.net/9bXWn-Y9CP2WLxh7QymZluGxMFeNJ2V5aB--usR24V4",
+        descripcion: "Chicharrones y platos para carnívoros, comparte en familia o con amigos.",
+        ubicacion: "Carrera 8 # 10-41, Darién,",
+        telefono: "3127960372",
+        pagWeb: "https://www.facebook.com/profile.php?id=61553636014178",
+        keywords: "comestible, restaurante, servicio a domicilio, chicharrones, chorizo",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61553636014178",
+        correo: "chicharronesdelocura@gmail.com"
+    },
+
+    {
         nombre: "Omar Burgos Chuletas",
         imagen: "https://pi4bcio4fatb5ab2bwnc4etu5rb6qwxxeivab63ihvpk3ahzabzq.arweave.net/ejgRIdwoJh6AOg2aLhJ07EPoWvciKgD7aD1erYD5AHM",
         descripcion: "Se hacen chuletas, costilla, sobre barriga, carne asada, hígado, lengua, bistec. por encargo.",
