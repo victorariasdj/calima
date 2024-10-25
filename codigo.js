@@ -182,7 +182,7 @@ const negocios = [
 
     {
         nombre: "Turron Ice Cream",
-        imagen: "https://rtwzr42cgwbv2rtl3wyhfztbkoy4aw6usb7agd4uwmcysanysefa.arweave.net/jO2Y80I1g11Ga92wcuZhU7HAW9SQfgMPlLMFiQG4kQo",
+        imagen: "https://bb5yatxzcqhluvofrqrjbpfyyztkm5alz4erbeavmbc6zngqb2lq.arweave.net/CHuATvkUDrpVxYwikLy4xmamdAvPCRCQFWBF7LTQDpc",
         descripcion: "El destino perfecto para disfrutar en familia. <br> Nuestra heladería te ofrece una experiencia única y completa. Disfruta en nuestro local familiar o sigue el sabor con nuestra unidad móvil. ¡Local terraza Carrera 19 Calle 1 sur Esquina Al lado de Supermercado Caribe, abierto de martes a domingo de 10 am a 8 pm!</p><ul><li>Helados</li><li>Juegos para los niños</li><li>Gastropub con comidas rápidas, cócteles y café</li><li>Somos Pet Friendly</li></ul>",
         ubicacion: "Local terraza Carrera 19 Calle 1 sur Esquina Al lado de Supermercado Caribe. O sigue el sabor con nuestra unidad móvil",
         telefono: "3122150924 Solo Whatsapp",
