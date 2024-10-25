@@ -181,6 +181,18 @@ const negocios = [
     },
 
     {
+        nombre: "Turron Ice Cream",
+        imagen: "https://rtwzr42cgwbv2rtl3wyhfztbkoy4aw6usb7agd4uwmcysanysefa.arweave.net/jO2Y80I1g11Ga92wcuZhU7HAW9SQfgMPlLMFiQG4kQo",
+        descripcion: "El destino perfecto para disfrutar en familia. <br> Nuestra heladería te ofrece una experiencia única y completa. Disfruta en nuestro local familiar o sigue el sabor con nuestra unidad móvil. ¡Local terraza Carrera 19 Calle 1 sur Esquina Al lado de Supermercado Caribe, abierto de martes a domingo de 10 am a 8 pm!</p><ul><li>Helados</li><li>Juegos para los niños</li><li>Gastropub con comidas rápidas, cócteles y café</li><li>Somos Pet Friendly</li></ul>",
+        ubicacion: "Local terraza Carrera 19 Calle 1 sur Esquina Al lado de Supermercado Caribe. O sigue el sabor con nuestra unidad móvil",
+        telefono: "3122150924 Solo Whatsapp",
+        pagWeb: "https://buscadorcalima.com/turronicecream",
+        keywords: "comestible, helado, móvil, food truck, don rico, heladeria, juegos para los niños, gastropub, comidas rapidas, cocteles, cafe, pet friendly",
+        rutaInterna: "https://buscadorcalima.com/turronicecream",
+        correo: "turronicecream@gmail.com"
+    },
+
+    {
         nombre: "Tienda Naturista Vive Mejor",
         imagen: "https://hemkv6k756eisjkmkq6z4lsn42bmupomnqicwrcarqmnsheyyfha.arweave.net/ORiq-V_viIklTFQ9ni5N5oLKPcxsECtEQIwY2RyYwU4",
         descripcion: "Venta de productos naturales, citrato de magnesio, ar17, flexdol, artrim, colágenos, biotinas, vitamina c, tratamientos para artritis, insomnio, colesterol, estreñimiento, dolores articulares artrosis, artritis.",

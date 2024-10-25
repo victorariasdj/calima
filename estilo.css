@@ -285,6 +285,7 @@ a p:hover {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 12px;
+    content-visibility: auto;
 }
 
 .tituloYDescripcion {
