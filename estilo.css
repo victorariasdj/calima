@@ -441,6 +441,7 @@ button:hover {
     flex-wrap: wrap;
     justify-content: space-around;
     gap: 9px;
+    text-align: center;
     
 }
 
@@ -451,7 +452,7 @@ button:hover {
 }
 
 .imagenes-paginas img {
-    max-height: 270px;
+    max-height: 500px;
 }
 
 .correo-landing,

@@ -61,6 +61,18 @@ const negocios = [
     },
 
     {
+        nombre: "Lote en Condominio Villas del Lago",
+        imagen: "https://oa7abbqdxoxoj73psjh4r4fcn7u4x6ohkbj7we2gg3hr544lxjoq.arweave.net/cD4AhgO7ruT_b5JPyPCib-nL-cdQU_sTRjbPHvOLul0",
+        descripcion: "Lote con la mayor área en el condominio 1200mt2 y la mejor vista al lago.<br>Con todos los permisos de construcción, sin problemas legales.<br>Ideal para desarrollar su proyecto.<br><strong>Dispuestos a escuchar cualquier oferta o negocio.</strong>",
+        ubicacion: "Calima Darien",
+        telefono: "3217582104 - 3136303446",
+        pagWeb: "https://buscadorcalima.com/lote-villas-del-lago.html",
+        keywords: "inmobiliaria, venta, lote",
+        rutaInterna: "https://buscadorcalima.com/lote-villas-del-lago.html",
+        correo: ""
+    },
+
+    {
         nombre: "Inmobiliaria Calima",
         imagen: "https://sbjup5clwxwbxwqky5sommovcu2fgzcnlgvg2lmtohdybudcfira.arweave.net/kFNH9Eu17BvaCsdk5jHVFTRTZE1Zqm0tk3HHgNBiKiI",
         descripcion: "Estamos aquí para brindarte la seguridad y el apoyo jurídico e inmobiliario que usted necesita. Nuestro enfoque va más allá de las ventas; se trata de guiarte hacia la mejor decisión con confianza y transparencia.",
