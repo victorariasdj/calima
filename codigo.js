@@ -217,6 +217,18 @@ const negocios = [
     },
 
     {
+        nombre: "La Tienda de Joseph Ropa y Accesorios",
+        imagen: "https://7igymchdednoq4ethdxscg7hunxcjmivqkaw7fh2rbw5gztteeja.arweave.net/-g2GCOMg2uhwkzjvIRvno24ksRWCgW-U-oht02ZzIRI",
+        descripcion: "Hermosas prendas deportivas elaboradas en las mejores telas con diseños exclusivos, para una sensación de frescura y no se marca celulitis, zapatillas importadas con excelente calidad y a buen precio.",
+        ubicacion: "Calle 10 # 5-09 a media cuadra de la policía, hacemos envíos nacionales.",
+        telefono: "3157541638",
+        pagWeb: "https://www.facebook.com/profile.php?id=61568904202613",
+        keywords: "ropa, zapatos, calzado, zapatillas",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61568904202613",
+        correo: ""
+    },
+
+    {
         nombre: "La Colmena",
         imagen: "https://s3lgzxlzzokvey7jpgb4udmifmxdd6dyg47h7nyqrugohxf4i63q.arweave.net/ltZs3XnLlVJj6XmDyg2IKy4x-Hg3Pn-3EI0M49y8R7c",
         descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. También Papelería",
