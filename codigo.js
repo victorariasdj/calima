@@ -85,18 +85,6 @@ const negocios = [
     },
 
     {
-        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
-        imagen: "https://xcsw2xmnzdmt3kr2u6eunr3gz7222fvnsq3pjvn4ctmpjivrphoa.arweave.net/uKVtXY3I2T2qOqeJRsdmz_WtFq2UNvTVvBTY9KKxedw",
-        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
-        ubicacion: "",
-        telefono: "3176406226",
-        pagWeb: "https://www.facebook.com/diego.henao.714",
-        keywords: "inmobiliaria, hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
-        rutaInterna: "https://www.facebook.com/diego.henao.714",
-        correo: ""
-    },
-
-    {
         nombre: "Hospital San Jorge",
         imagen: "https://6n5qi7wchqe5limaz7vrzd4cse7xrg6wq5qsooa2kf33sze4amuq.arweave.net/83sEfsI8CdWhgM_rHI-CkT94m9aHYSc4GlF3uWScAyk",
         descripcion: "",
@@ -229,18 +217,6 @@ const negocios = [
     },
 
     {
-        nombre: "La Colmena",
-        imagen: "https://s3lgzxlzzokvey7jpgb4udmifmxdd6dyg47h7nyqrugohxf4i63q.arweave.net/ltZs3XnLlVJj6XmDyg2IKy4x-Hg3Pn-3EI0M49y8R7c",
-        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. También Papelería",
-        ubicacion: "Calle 11 # 8-15",
-        telefono: "3165651241",
-        pagWeb: "",
-        keywords: "salud, belleza, estetica facial y corporal papeleria",
-        rutaInterna: "",
-        correo: ""
-    },
-
-    {
         nombre: "TransCalima",
         imagen: "https://npa4kmdpc2dbqwip6flygzne6i2bg2tpqaxjkmibj2gevjfqv2bq.arweave.net/a8HFMG8WhhhZD_FXg2Wk8jQTam-ALpUxAU6MSqSwroM",
         descripcion: "<b>DARIÉN - BUGA</b><br><br>DARIÉN - BUGA (VÍA LA CECILIA)<br>7:00 a.m. - 05:00 p.m.<br><br> DARIÉN - BUGA (VÍA LAGO CALIMA)<br>06:30 a.m. - 8:30 a.m. - 11:00 a.m.1:30 p.m. - 3:30 p.m. - 6:00 p.m.</br></br>DARIÉN - BUGA (VÍA JIGUALES)</br>5:30 a.m. - 6:00 a.m. - 7:30 a.m. - 8:00 a.m. - 9:00 a.m. - 9:30 a.m. - 10:00 a.m. - 10:30 a.m. - 11:30 a.m. - 12:00 p.m. - 12:30 p.m. - 1:00 p.m. - 2:00 p.m. - 2:30 p.m. - 3:00 p.m. - 4:00 p.m. - 4:30 p.m. - 5:30 p.m. - 6:30 p.m.<br><br><b>BUGA - DARIÉN</b><br><br>BUGA - DARIÉN (VÍA JIGUALES)<br>6:00 a.m. - 7:00 a.m. - 7:30 a.m. - 9:00 a.m. - 9:30 a.m. - 10:00 a.m. - 10:30 a.m. - 11:30 a.m. - 12:00 p.m. - 1:00 p.m. - 1:30 p.m. - 2:30 p.m. - 3:00 p.m. - 3:30 p.m. - 5:00 p.m. - 5:30 p.m. - 6:00 p.m. - 7:00 p.m.<br><br> BUGA - DARIÉN (VÍA LA CECILIA)<br>8:00 a.m. - 4:30 p.m.<br><br>BUGA - DARIÉN ( VÍA LAGO CALIMA)<br>6:30 a.m. - 8:30 a.m. - 11:00 a.m. - 12:30 p.m. - 2:00 p.m. - 4:00 p.m. -  6:30 p.m.<br><br><b>DARIÉN - CALI</b><br><br>DARIÉN - CALI (VÍA DAGUA)<br>6:00 a.m. - 8:00 a.m - 4:00 p. m.<br><br>DARIÉN CALI (VÍA JIGUALES)<br>5:00 a.m. - 7:00 a.m. - 11:00 a.m. - 03:00 p.m. - 6:00 p.m.<br><br>DARIÉN - CALI (VÍA LAGO CALIMA)<br>9:00 a.m. - 10:00 a.m. - 12:00 p.m.1:00 p.m. - 2:00 p.m. - 5:00 p.m.<br><br><b>CALI - DARIÉN</b><br><br>CALI - DARIÉN (VÍA DAGUA)<br>7:00 a.m. - 3:00 p.m. - 4:30 p.m.<br><br>CALI - DARIÉN (VÍA JIGUALES)<br>10:00 a.m. - 1:00 p.m. - 4:00 p.m. - 6:30 p.m.<br><br>CALI - DARIÉN (VÍA LAGO CALIMA)<br>6:00 a.m. - 8:00 a.m. - 9:00 a.m. - 11:00 a.m. - 12:00 p.m. - 2:00 p.m. - 5:30 p.m.",
@@ -262,6 +238,18 @@ const negocios = [
         keywords: "papeleria, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
         rutaInterna: "https://www.instagram.com/smazpapelaz_/",
         correo: "smazpapelaz2022@gmail.com"
+    },
+
+    {
+        nombre: "La Colmena",
+        imagen: "https://s3lgzxlzzokvey7jpgb4udmifmxdd6dyg47h7nyqrugohxf4i63q.arweave.net/ltZs3XnLlVJj6XmDyg2IKy4x-Hg3Pn-3EI0M49y8R7c",
+        descripcion: "En La Colmena, cosechamos la belleza de la naturaleza para brindarte salud y bienestar con productos naturales. También Papelería",
+        ubicacion: "Calle 11 # 8-15",
+        telefono: "3165651241",
+        pagWeb: "",
+        keywords: "salud, belleza, estetica facial y corporal papeleria",
+        rutaInterna: "",
+        correo: ""
     },
 
     {
