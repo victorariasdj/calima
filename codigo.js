@@ -61,6 +61,18 @@ const negocios = [
     },
 
     {
+        nombre: "Vendo o permuto Casa en Calima Darién 128mts2",
+        imagen: "https://gmfscpdbcb23i5coagf4xgy4h5j5dcampwujzkl7eyp75xmpklja.arweave.net/MwshPGEQdbR0TgGLy5scP1PRiAx9qJypfyYf_t2PUtI",
+        descripcion: "Ubicada en el barro san Jorge Recién Remodelada. Recibo carro o propiedad de menor valor dentro del municipio (calima) Tel 3176406226",
+        ubicacion: "A 2 cuadras del parque principal de Calima Darien",
+        telefono: "3176406226",
+        pagWeb: "https://buscadorcalima.com/casabsanjorge.html",
+        keywords: "inmobiliaria, venta, lote",
+        rutaInterna: "https://buscadorcalima.com/casabsanjorge.html",
+        correo: ""
+    },
+
+    {
         nombre: "Lote en Condominio Villas del Lago",
         imagen: "https://oa7abbqdxoxoj73psjh4r4fcn7u4x6ohkbj7we2gg3hr544lxjoq.arweave.net/cD4AhgO7ruT_b5JPyPCib-nL-cdQU_sTRjbPHvOLul0",
         descripcion: "Lote con la mayor área en el condominio 1200mt2 y la mejor vista al lago.<br>Con todos los permisos de construcción, sin problemas legales.<br>Ideal para desarrollar su proyecto.<br><strong>Dispuestos a escuchar cualquier oferta o negocio.</strong>",

@@ -474,6 +474,10 @@ button:hover {
     scale: 0.95;
 }
 
+video {
+    max-height: 500px;
+}
+
 
 /* FIN DEL MAIN INDEX */
 
