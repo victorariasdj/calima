@@ -121,6 +121,18 @@ const negocios = [
     },
 
     {
+        nombre: "Diego Henao Entertaiment y Venta de Propiedad Raíz.",
+        imagen: "https://xcsw2xmnzdmt3kr2u6eunr3gz7222fvnsq3pjvn4ctmpjivrphoa.arweave.net/uKVtXY3I2T2qOqeJRsdmz_WtFq2UNvTVvBTY9KKxedw",
+        descripcion: "Fincas, Discotecas, Montaje para todo tipo de evento, grupos empresariales y familiares con alimentación.</br><b>Djs, Cantantes, Orquestas, Mariachi, Humorista y Parrandón Vallenato, Despedidas de fin de año.</b>",
+        ubicacion: "",
+        telefono: "3176406226",
+        pagWeb: "https://www.facebook.com/diego.henao.714",
+        keywords: "inmobiliaria, hotel, finca, alquiler, montaje, entretenimiento, dj, discoteca, salon social  cantantes, orquesta, mariachi, humorista, parrandon vallenato",
+        rutaInterna: "https://www.facebook.com/diego.henao.714",
+        correo: ""
+    },
+
+    {
         nombre: "Droguería Don Victor",
         imagen: "https://qh4vs2hy36kfrdxrabupy5ok7fdfk5itzylerx7gq5ikb2v6jgcq.arweave.net/gflZaPjflFiO8QBo_HXK-UZVdRPOFkjf5odQoOq-SYU",
         descripcion: "Droguería y Tienda Naturista, Servicio de Baloto Pago de Facturas, Giros y Recargas, Servicio de Inyectología",
