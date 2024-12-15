@@ -38,7 +38,7 @@ const negocios = [
 
     {
         nombre: "Victor Cargas, Mudanzas y Fletes",
-        imagen: "https://b7ziznnsgijsbvdql7pkxfq6aqki24zlsu6weprovszclb4q5upq.arweave.net/D_KMtbIyEyDUcF_eq5YeBBSNcyuVPWI-LqyyJYeQ7R8",
+        imagen: "https://7vb5nt64r33ixofjxmdgiwmar462ye4cws7qzqk6okvchsqkv3ua.arweave.net/_UPWz9yO9ou4qbsGZFmAjz2sE4K0vwzBXnKqI8oKrug",
         descripcion: "Todo tipo de carga a nivel local y nacional, con ubicación satelital por si deseas saber el curso de tu carga, ARL por si deseas cargar en alguna empresa que lo requiera. Seriedad y cumplimiento en el servicio.",
         ubicacion: "Calima el Darién, Servicio 24/7 con disponibilidad en dónde la requieran.",
         telefono: "3157915586",
@@ -193,6 +193,18 @@ const negocios = [
     },
 
     {
+        nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
+        imagen: "https://6yqmxav6ifvpiraqh3cvyolrc4w3skqwb2pzwtiqwy3zvjsad7bq.arweave.net/9iDLgr5BavREED7FXDlxFy25KhYOn5tNELY3mqZAH8M",
+        descripcion: "<b>Abierto jornada continua toda la semana, domingos hasta la 1 pm.</b><br>Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas.",
+        ubicacion: "Calima Darien Calle 12 No. 7 - 59 - Sede Santa Elena Cerrito calle 4 # 3-66",
+        telefono: "Darien 3174424874<br>Cerrito 3174412589",
+        pagWeb: "https://piscinasyaccesoriosrs.com/rs",
+        keywords: "insumos quimico, mantenimiento, construccion, reparacion de piscinas, turcos, jacuzzis, fuentes, espejos de agua, redes eléctricas, redes de gas.",
+        rutaInterna: "https://piscinasyaccesoriosrs.com/rs",
+        correo: "info@piscinasyaccesoriosrs.com"
+    },
+
+    {
         nombre: "Policía Cuadrante Darién",
         imagen: "https://gipw2rafa4ric3mwe6na6oie5cogffzipxbxw2kxz54c4cxcgera.arweave.net/Mh9tRAUHIoFtlieaDzkE6Jxilyh9w3tpV894LgriMSI",
         descripcion: "Policía Cuadrante Darién",
@@ -230,7 +242,7 @@ const negocios = [
 
     {
         nombre: "La Tienda de Joseph Ropa y Accesorios",
-        imagen: "https://7igymchdednoq4ethdxscg7hunxcjmivqkaw7fh2rbw5gztteeja.arweave.net/-g2GCOMg2uhwkzjvIRvno24ksRWCgW-U-oht02ZzIRI",
+        imagen: "https://5ainj6rutmgcwzyfzivupbylfs43z67wob2bnash3zh6q3suxqta.arweave.net/6BDU-jSbDCtnBcorR4cLLLm8-_ZwdBaCR95P6G5UvCY",
         descripcion: "Hermosas prendas deportivas elaboradas en las mejores telas con diseños exclusivos, para una sensación de frescura y no se marca celulitis, zapatillas importadas con excelente calidad y a buen precio.",
         ubicacion: "Calle 10 # 5-09 a media cuadra de la policía, hacemos envíos nacionales.",
         telefono: "3157541638",
@@ -358,18 +370,6 @@ const negocios = [
         keywords: "madera, triplex, mdf, molduras, machimbre, tendidos de cama, listones, tintillas, laca, sellador, carpincol, barniz",
         rutaInterna: "",
         correo: "jloe991@hotmail.com"
-    },
-
-    {
-        nombre: "Piscinas y Accesorios RS SAS Darien y Cerrito",
-        imagen: "https://vhudjwqteicya4mell5645wiaictumlbuaj4ps2wnyg4vkoljtsa.arweave.net/qeg02hMiBYBxhFr77nbIAgU6MWGgE8fLVm4NyqnLTOQ",
-        descripcion: "<b>Abierto jornada continua toda la semana, domingos hasta la 1 pm.</b><br>Suministros de insumos químicos y accesorios para un óptimo funcionamiento de su piscina, asesoría, mantenimiento, construcción, reparación de piscinas, turcos, jacuzzis, fuentes y espejos de agua, redes eléctricas y redes de gas.",
-        ubicacion: "Calima Darien Calle 12 No. 7 - 59 - Sede Santa Elena Cerrito calle 4 # 3-66",
-        telefono: "Darien 3174424874<br>Cerrito 3174412589",
-        pagWeb: "https://piscinasyaccesoriosrs.com/rs",
-        keywords: "insumos quimico, mantenimiento, construccion, reparacion de piscinas, turcos, jacuzzis, fuentes, espejos de agua, redes eléctricas, redes de gas.",
-        rutaInterna: "https://piscinasyaccesoriosrs.com/rs",
-        correo: "info@piscinasyaccesoriosrs.com"
     },
 
     {
