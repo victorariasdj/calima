@@ -282,9 +282,9 @@ const negocios = [
         descripcion: "Dj de música electrónica, técnico de computadores, desarrollador web, mezcla y master de audio, clases personalizadas de informática y producción musical.",
         ubicacion: "Colombia",
         telefono: "3163251628",
-        pagWeb: "https://victorarias.eth.limo/",
+        pagWeb: "https://victorarias.co/",
         keywords: "entretenimiento, dj, musica electronica, matenimiento, tecnico de computadores, desarrollador web, mezcla, master, audio, clases personalizadas, produccion musical.",
-        rutaInterna: "https://victorarias.eth.limo/",
+        rutaInterna: "https://victorarias.co/",
         correo: "djvictor_arias@hotmail.com"
     },
 
