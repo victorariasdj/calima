@@ -380,6 +380,10 @@ button:hover {
     content: "0xC2d3...15a7c5";
 }
 
+.before3::before {
+    content: "hurtfulatom28@walletofsatoshi.com";
+}
+
 .card h2 {
     font-size: 1.5rem;
     margin-bottom: 10px;

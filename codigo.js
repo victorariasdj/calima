@@ -244,7 +244,7 @@ const negocios = [
         nombre: "La Tienda de Joseph Ropa y Accesorios",
         imagen: "https://5ainj6rutmgcwzyfzivupbylfs43z67wob2bnash3zh6q3suxqta.arweave.net/6BDU-jSbDCtnBcorR4cLLLm8-_ZwdBaCR95P6G5UvCY",
         descripcion: "Hermosas prendas deportivas elaboradas en las mejores telas con diseños exclusivos, para una sensación de frescura y no se marca celulitis, zapatillas importadas con excelente calidad y a buen precio.",
-        ubicacion: "Calle 10 # 5-09 a media cuadra de la policía, hacemos envíos nacionales.",
+        ubicacion: "Calle 13 # 6-25 la virgen.",
         telefono: "3157541638",
         pagWeb: "https://www.facebook.com/profile.php?id=61568904202613",
         keywords: "ropa, zapatos, calzado, zapatillas",
