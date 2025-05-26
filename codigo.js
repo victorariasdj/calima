@@ -13,6 +13,18 @@ const negocios = [
     },
 
     {
+        nombre: "Mauricio Jurado Sánchez Psicoterapeuta",
+        imagen: "https://35lxo3jf7553m3co66zr3e6h3jumw77cbqucn6cslxhf4fayo22q.arweave.net/31d3bSX_e7ZsTvezHZPH2mjLf-IMKCb4Ul3OXhQYdrU",
+        descripcion: "Constelaciones familiares. Reparentización. Arte-Terapia. Meditación guiada. Tratamiento de Adicciones. Quiropraxia Inca. Meditación con cuenco.",
+        ubicacion: "",
+        telefono: "3186901515",
+        pagWeb: "https://www.facebook.com/mauricio.jurado.12",
+        keywords: "Salud, relajacion, terapia",
+        rutaInterna: "https://www.facebook.com/mauricio.jurado.12",
+        correo: ""
+    },
+
+    {
         nombre: "Belleza & Bienestar Spa",
         imagen: "https://l4hzjxmy5pjsdzxhdc2325m7w6r42zyu5pzsd5lr7cgxnysswapq.arweave.net/Xw-U3Zjr0yHm5xi1vXWft6PNZxTr8yH1cfiNduJSsB8",
         descripcion: "Descubre la excelencia en tratamientos faciales y corporales en Belleza y Bienestar SPA. Nuestros servicios incluyen: Limpieza Facial Profunda, Nutrición Facial con Plasma Rico en Plaquetas, Hidratación Facial, tratamientos especializados para el acné y las manchas en la piel. Además, disfruta de masajes relajantes y masajes diseñados para reducir tallas, eliminar grasa localizada y estilizar tu figura. Ofrecemos posoperatorios para garantizar el éxito de tu cirugía, tratamientos para la fibrosis, sueroterapia, servicios de depilación con cera, etc. Eleva tu bienestar con nosotros. Servicio a domicilio para fincas y hoteles.",
@@ -61,30 +73,6 @@ const negocios = [
     },
 
     {
-        nombre: "Vendo o permuto Casa en Calima Darién 128mts2",
-        imagen: "https://gmfscpdbcb23i5coagf4xgy4h5j5dcampwujzkl7eyp75xmpklja.arweave.net/MwshPGEQdbR0TgGLy5scP1PRiAx9qJypfyYf_t2PUtI",
-        descripcion: "Ubicada en el barro san Jorge Recién Remodelada. Recibo carro o propiedad de menor valor dentro del municipio (calima) Tel 3176406226",
-        ubicacion: "A 2 cuadras del parque principal de Calima Darien",
-        telefono: "3176406226",
-        pagWeb: "https://buscadorcalima.com/casabsanjorge.html",
-        keywords: "inmobiliaria, venta, lote",
-        rutaInterna: "https://buscadorcalima.com/casabsanjorge.html",
-        correo: ""
-    },
-
-    {
-        nombre: "Lote en Condominio Villas del Lago",
-        imagen: "https://oa7abbqdxoxoj73psjh4r4fcn7u4x6ohkbj7we2gg3hr544lxjoq.arweave.net/cD4AhgO7ruT_b5JPyPCib-nL-cdQU_sTRjbPHvOLul0",
-        descripcion: "Lote con la mayor área en el condominio 1200mt2 y la mejor vista al lago.<br>Con todos los permisos de construcción, sin problemas legales.<br>Ideal para desarrollar su proyecto.<br><strong>Dispuestos a escuchar cualquier oferta o negocio.</strong>",
-        ubicacion: "Calima Darien",
-        telefono: "3217582104 - 3136303446",
-        pagWeb: "https://buscadorcalima.com/lote-villas-del-lago.html",
-        keywords: "inmobiliaria, venta, lote",
-        rutaInterna: "https://buscadorcalima.com/lote-villas-del-lago.html",
-        correo: ""
-    },
-
-    {
         nombre: "Inmobiliaria Calima",
         imagen: "https://sbjup5clwxwbxwqky5sommovcu2fgzcnlgvg2lmtohdybudcfira.arweave.net/kFNH9Eu17BvaCsdk5jHVFTRTZE1Zqm0tk3HHgNBiKiI",
         descripcion: "Estamos aquí para brindarte la seguridad y el apoyo jurídico e inmobiliario que usted necesita. Nuestro enfoque va más allá de las ventas; se trata de guiarte hacia la mejor decisión con confianza y transparencia.",
@@ -97,6 +85,17 @@ const negocios = [
     },
 
     {
+        nombre: "Prados y Gramas",
+        imagen: "https://f6ooxits5jtiyyqgxeq6ppne4p5pkot7m5qnnjmarzylvpgdk4rq.arweave.net/L5zronLqZoxiBrkh572k4_r1On9nYNalgI5wurzDVyM",
+        descripcion: "Venta e instalación de prados, gramas y césped de calidad. Transformamos espacios, sembramos vida.",
+        ubicacion: "Cprado, grama, trenza, gateadora, esmeralda",
+        pagWeb: "https://www.facebook.com/profile.php?id=61571227528388",
+        keywords: "prado, grama, trenza, gateadora, esmeralda",
+        rutaInterna: "https://www.facebook.com/profile.php?id=61571227528388",
+        correo: ""
+    },
+
+    {
         nombre: "Hospital San Jorge",
         imagen: "https://6n5qi7wchqe5limaz7vrzd4cse7xrg6wq5qsooa2kf33sze4amuq.arweave.net/83sEfsI8CdWhgM_rHI-CkT94m9aHYSc4GlF3uWScAyk",
         descripcion: "",
@@ -105,18 +104,6 @@ const negocios = [
         pagWeb: "",
         keywords: "emergencias, salud, hospital",
         rutaInterna: "",
-        correo: ""
-    },
-
-    {
-        nombre: "Se Vende Casa de 3 Pisos en Calima Darién",
-        imagen: "https://tvnhv7yomryl5fbyn2alcduafzxvxwhzwsrfblz67bkjqdprsh4q.arweave.net/nVp6_w5kcL6UOG6AsQ6ALm9b2Pm0olCvPvhUmA3xkfk",
-        descripcion: "Área total de 6 metros de frente por 12.5 metros de fondo. Libre de impuestos, no está en proceso de sucesión. Tres pisos construidos, cada uno con entradas independientes.<br><br> <strong>Primer piso</strong> con dos locales comerciales, el 2do local con espacio de cocina baño y lavadero.<br> <strong>Segundo piso</strong> con 4 habitaciones con clóset, balcón, 2 baños, cocina, sala, lavadero con espacio para lavadora.<br> <strong>Tercer piso</strong> terraza con entrada independiente, todo bajo techo",
-        ubicacion: "Calima Darien",
-        telefono: "No llamadas. Solo Whatsapp: +57 3176402729",
-        pagWeb: "https://buscadorcalima.com/casa-servientrega.html",
-        keywords: "inmobiliaria, venta, casa",
-        rutaInterna: "https://buscadorcalima.com/casa-servientrega.html",
         correo: ""
     },
 
@@ -266,9 +253,9 @@ const negocios = [
 
     {
         nombre: "Smaz Papelería y Miscelánea",
-        imagen: "https://iby33otgpobgru364hldhabaabgz25a2k67nmxfo7eirxjkn6k7q.arweave.net/QHG9umZ7gmjTfuHWM4AgAE2ddBpXvtZcrvkRG6VN8r8",
+        imagen: "https://5nw2x66ebwxd3lmvoorlzkwem2kegjgofcimx5m2yaovv6c4epna.arweave.net/622r-8QNrj2tlXOivKrEZpRDJM4okMv1msAdWvhcI9o",
         descripcion: "Ven y conoce una forma diferente tierna y divertida en papelería, manejamos servicios de: fotocopias blanco y negro o a color, impresión láser, papelería general y papelería kawaii, miscelánea entre otros. Se vale antojarse!",
-        ubicacion: "Carrera 11 # 10-54 B/San Vicente",
+        ubicacion: "Una cuadra arriba de la bomba Terpel, en calle larga, frente a la escuela María inmaculada, calle 7 con carrera 8",
         telefono: "3187044288",
         pagWeb: "https://www.instagram.com/smazpapelaz_/",
         keywords: "papeleria, kawaii, impresiones, cuadernos, libros, marcadores, fotocopias, cartulina, lapiceros, cartucheras, colores, lienzos vinilos, resmas papel, agendas, loncheras, notas adhesivas, impresión laser",
@@ -490,18 +477,6 @@ const negocios = [
         keywords: "ferreteria, autoservicio,  electrodomesticos, tecnologia, pinturas, accesorios, lavaplatos, estufa,",
         rutaInterna: "https://www.instagram.com/ferremundosiglo21/",
         correo: "Ferremundosiglo21@gmail.com"
-    },
-
-    {
-        nombre: "Nirvano Store",
-        imagen: "https://uk6cztnqmc7g73va577ambfcreykcehpaiwm3qy2yhdjq64w5haa.arweave.net/orwszbBgvm_uoO_-BgSiiTChEO8CLM3DGsHGmHuW6cA",
-        descripcion: "Somos una Tienda que siempre esta innovando, que te ofrece los mejores productos, al mejor precio y con la mejor atención. Verte bien, es sentirte bien, Marca Orgullosa de pertenecer a Nuestro Calima el Darién.",
-        ubicacion: "Enseguida de la Fiscalía de Calima el Darién",
-        telefono: "3215997446",
-        pagWeb: "https://www.facebook.com/zapatosdarien",
-        keywords: "ropa, zapatos, calzado, zapatillas, tienda, store, calidad, economía, versatilidad",
-        rutaInterna: "https://www.facebook.com/zapatosdarien",
-        correo: ""
     },
 
 
