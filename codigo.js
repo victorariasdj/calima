@@ -47,18 +47,6 @@ const negocios = [
         rutaInterna: "",
         correo: ""
     },
-
-    {
-        nombre: "Victor Cargas, Mudanzas y Fletes",
-        imagen: "https://7vb5nt64r33ixofjxmdgiwmar462ye4cws7qzqk6okvchsqkv3ua.arweave.ar/_UPWz9yO9ou4qbsGZFmAjz2sE4K0vwzBXnKqI8oKrug",
-        descripcion: "Todo tipo de carga a nivel local y nacional, con ubicación satelital por si deseas saber el curso de tu carga, ARL por si deseas cargar en alguna empresa que lo requiera. Seriedad y cumplimiento en el servicio.",
-        ubicacion: "Calima el Darién, Servicio 24/7 con disponibilidad en dónde la requieran.",
-        telefono: "3157915586",
-        pagWeb: "https://www.facebook.com/profile.php?id=100088902925753",
-        keywords: "transporte, mudanza, carga, flete, camion",
-        rutaInterna: "https://www.facebook.com/profile.php?id=100088902925753",
-        correo: "victorcamicruz@gimail.com"
-    },
     
     {
         nombre: "Defensa Civil",
